@@ -1,0 +1,139 @@
+.fa-envelope {
+	padding:10px 14px 7px 14px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-envelope:hover {
+	background-color: #f39c12;
+  color: white;
+}
+
+.fa-twitter {
+	padding:10px 10px 7px 10px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-twitter:hover {
+	background-color: #00aced;
+  color: white;
+}
+
+.fa-instagram {
+	padding:10px 12px 7px 12px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-instagram:hover {
+	background-color: #375989;
+  color: white;
+}
+
+.fa-github {
+	padding:10px 12px 7px 11px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-github:hover {
+	background-color: #343434;
+  color: white;
+}
+
+.fa-linkedin {
+	padding:10px 11px 8px 11px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-linkedin:hover {
+	background-color: #0073a4;
+  color: white;
+}
+
+.fa-facebook {
+	padding:10px 11px 8px 11px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-facebook:hover {
+	background-color: #3d5b99;
+  color: white;
+}
+
+.fa-google-plus {
+	padding:10px 11px 8px 11px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-google-plus:hover {
+	background-color: #e64a41;
+  color: white;
+}
+
+.fa-pinterest {
+	padding:10px 11px 8px 11px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-pinterest:hover {
+	background-color: #bd081c;
+  color: white;
+}
+
+.fa-medium {
+	padding:10px 11px 8px 11px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-medium:hover {
+	background-color: #00AB6C;
+  color: white;
+}
+
+.fa-codepen {
+	padding:10px 11px 8px 11px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-codepen:hover {
+	background-color: black;
+  color: white;
+}

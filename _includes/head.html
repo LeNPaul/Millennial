@@ -1,0 +1,13 @@
+<head>
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} | {{ site.tagline }}
+    {% else %}
+      {{ page.title }} | {{ site.title }}
+    {% endif %}
+  </title>
+
+  <link rel="stylesheet" href="{{ site.github.url }}/css/main.css">
+
+</head>

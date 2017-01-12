@@ -2,8 +2,8 @@
 title:               Millennial
 tagline:             a minimalist Jekyll theme
 description:
-baseurl:            "/Millennial"
-url:                "https://lenpaul.github.io"
+baseurl:            #"/Millennial"
+url:                #"https://lenpaul.github.io"
 github:
   url:               "https://lenpaul.github.io/Millennial"
 author:

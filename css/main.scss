@@ -2,7 +2,5 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base"
-;
+// Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
+@import "base";

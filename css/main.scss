@@ -2,5 +2,13 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
+/*
+  Site variables
+*/
+
+$base-font-family: sans-serif;
+
+$brand-color: black;
+
 // Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
-@import "base";
+@import "base", "layout";

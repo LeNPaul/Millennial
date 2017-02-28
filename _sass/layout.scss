@@ -4,14 +4,15 @@
 
 .site-header {
   min-height: 56px;
+  min-width: $container-width;
   position: fixed;
   background-color: white;
-  border-bottom: 1px solid #666;
+  box-shadow: 0 5px 6px -6px #bbb;
 }
 
 .site-title {
   font-size: 26px;
-  font-weight: 300;
+  font-weight: 700;
   line-height: 56px;
   margin-bottom: 0;
   padding-left: 10px;

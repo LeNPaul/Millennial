@@ -31,7 +31,7 @@ a {
 */
 
 .container {
-  max-width: 900px;
+  max-width: $container-width;
   margin-left: auto;
   margin-right: auto;
 }

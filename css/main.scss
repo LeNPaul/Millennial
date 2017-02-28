@@ -6,9 +6,11 @@
   Site variables
 */
 
-$base-font-family: sans-serif;
+$base-font-family: 'Roboto', sans-serif;
 
 $brand-color: black;
+
+$container-width: 1100px;
 
 // Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout";

@@ -4,6 +4,9 @@
 
 .site-header {
   min-height: 56px;
+  position: fixed;
+  background-color: white;
+  border-bottom: 1px solid #666;
 }
 
 .site-title {
@@ -29,7 +32,8 @@
 */
 
 .featured-image {
-  max-width: 900px;
+  margin-top: 56px;
+  max-width: $container-width;
 }
 
 /*

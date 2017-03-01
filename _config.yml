@@ -1,6 +1,6 @@
 # Site Settings
 title:               Millennial
-tagline:             a minimalist Jekyll theme
+tagline:             a Jekyll theme
 description:
 baseurl:            #"/Millennial"
 url:                #"https://lenpaul.github.io"

@@ -35,3 +35,17 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
+
+/*
+  Custom grid
+*/
+
+.col-2 {
+  width: 50%;
+  float: left;
+}
+
+.col-3 {
+  width: 33.33%;
+  float: left;
+}

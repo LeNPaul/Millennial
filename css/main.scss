@@ -12,5 +12,47 @@ $brand-color: black;
 
 $container-width: 1100px;
 
+/*
+  Temporary
+*/
+
+$pastel-red: #FF333E;
+$pastel-yellow: #FDFD96;
+$pastel-blue: #779ECB;
+$pastel-pink: #FFD1DC;
+$pastel-purple: #CB99C9;
+$pastel-magenta: #F49AC2;
+$pastel-green: #77DD77;
+$light-black: #333;
+
+@mixin background($color){
+  height: 400px;
+  background-color: $color;
+}
+
+.section-one {
+  @include background($pastel-green);
+}
+
+.section-two {
+  @include background($pastel-pink);
+}
+
+.section-three {
+@include background($pastel-blue);
+}
+
+.section-four {
+@include background($pastel-magenta);
+}
+
+.section-five {
+@include background($pastel-yellow);
+}
+
+.section-six {
+@include background($pastel-purple);
+}
+
 // Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout";

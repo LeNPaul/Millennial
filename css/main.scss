@@ -56,5 +56,10 @@ $light-black: #333;
 @include background($pastel-purple);
 }
 
+/*
+  End temporary
+*/
+
+
 // Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout";

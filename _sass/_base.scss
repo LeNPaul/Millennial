@@ -40,12 +40,27 @@ a {
   Custom grid
 */
 
+.row {
+  margin: 0px;
+  padding: 0px;
+}
+
+.col-1 {
+  width: 100%;
+  float: left;
+}
+
 .col-2 {
   width: 50%;
   float: left;
 }
 
+.col-23 {
+  width: 66.666%;
+  float: left;
+}
+
 .col-3 {
-  width: 33.33%;
+  width: 33.333%;
   float: left;
 }

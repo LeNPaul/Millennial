@@ -20,7 +20,7 @@
 }
 
 .menu-list {
-  line-height: 56px;
+  line-height: $header-thickness;
   float: right;
 }
 
@@ -33,7 +33,7 @@
 */
 
 .featured-image {
-  margin-top: 56px;
+  margin-top: $header-thickness;
   max-width: $container-width;
 }
 
@@ -42,7 +42,7 @@
 */
 
 .posts-wrapper {
-  padding: 10px;
+  padding: $header-thickness+10px 10px 10px;
   margin: auto;
 }
 

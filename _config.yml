@@ -5,7 +5,7 @@ description:
 baseurl:            #"/Millennial"
 url:                #"https://lenpaul.github.io"
 github:
-  url:               "https://lenpaul.github.io/Millennial"
+  url:               #"https://lenpaul.github.io/Millennial"
 author:
   name:              "Paul Le"
   email:             "l.nguyen.paul@gmail.com"
@@ -14,8 +14,8 @@ author:
   github:            "lenpaul"
   facebook:          "Le.Paul.94"
   linkedin:          "lenpaul"
+  
 paginate:            5
-
 
 # Build settings
 markdown:            kramdown

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Another One"
+title: "Check Out These Forests"
 categories: science
 image:
   feature: computer.jpg
-  teaser: mountains.jpg
+  teaser: forest.jpg
 ---
 
 Testing another one

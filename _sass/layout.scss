@@ -47,12 +47,20 @@
 }
 
 .featured-posts {
+  height: 400px;
   margin: 10px;
   padding: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .featured-posts img {
   max-width: 600px;
+  margin: 10px;
+}
+
+.featured-posts h1 {
   margin: 10px;
 }
 

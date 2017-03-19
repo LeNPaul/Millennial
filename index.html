@@ -5,11 +5,11 @@ title: Home
 
 {% for post in site.posts %}
   <div class="featured-posts" >
-    <h1>
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-    </h1>
     {% if post.image.teaser %}
       <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/images/{{ post.image.teaser }}"></a>
     {% endif %}
+    <h1>
+      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+    </h1>
   </div>
 {% endfor %}

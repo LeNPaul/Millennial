@@ -88,6 +88,31 @@
 }
 
 /*
+  Pagination
+*/
+
+.pagination {
+  text-align: center;
+}
+
+.pagination-button {
+  color: #999;
+  border: 1px solid #e0e0e0;
+  padding: 15px 45px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.pagination-active {
+  color: black;
+}
+
+.pagination-active:hover {
+  background-color: #e0e0e0;
+}
+
+/*
   Social media icons
 */
 

@@ -4,8 +4,9 @@ title: Home
 ---
 
 {% for post in paginator.posts %}
-  <div class="featured-posts" {% if post.image.teaser %}style="background-image:url({{ site.github.url }}/images/{{ post.image.teaser }})"{% endif %}>
-    <h2><span><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></span></h2>
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-posts" {% if post.image.teaser %}style="background-image:url({{ site.github.url }}/images/{{ post.image.teaser }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
 
     <!--{% if post.image.teaser %}
       <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/images/{{ post.image.teaser }}"></a>
@@ -14,7 +15,8 @@ title: Home
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
     </h1>-->
 
-  </div>
+    </div>
+  </a>
 
   <!--<div class="featured-posts">
 

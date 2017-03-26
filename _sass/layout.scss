@@ -1,4 +1,43 @@
 /*
+  Site container
+*/
+
+.container {
+  max-width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+  Custom grid
+*/
+
+.row {
+  margin: 0px;
+  padding: 0px;
+}
+
+.col-1 {
+  width: 100%;
+  float: left;
+}
+
+.col-2 {
+  width: 50%;
+  float: left;
+}
+
+.col-23 {
+  width: 66.666%;
+  float: left;
+}
+
+.col-3 {
+  width: 33.333%;
+  float: left;
+}
+
+/*
   Site header
 */
 
@@ -32,8 +71,8 @@
   Splash page
 */
 
-.featured-image {
-  margin-top: $header-thickness;
+.featured-image img {
+  align: middle;
   max-width: $container-width;
 }
 
@@ -47,7 +86,7 @@
 }
 
 .posts-wrapper h1 {
-  margin: 10px;
+  margin: 10px 0px 10px;
 }
 
 .featured-posts {

@@ -126,7 +126,7 @@ $light-black: #333;
   align: middle;
   margin: auto;
   display: block;
-  max-width: $container-width - 20px;
+  max-width: $container-width - 40px;
 }
 
 h2 span {
@@ -149,10 +149,10 @@ span a {
 */
 
 .posts-wrapper {
-  padding-top: $header-thickness+10px;
+  padding-top: $header-thickness+15px;
   margin: auto;
   display: block;
-  max-width: $container-width - 20px;
+  max-width: $container-width - 40px;
 }
 
 .posts-wrapper h1 {
@@ -161,7 +161,7 @@ span a {
 
 .featured-posts {
   height: 400px;
-  margin: 10px;
+  margin: 5px 10px 10px;
   padding: 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -175,6 +175,15 @@ span a {
 
 .featured-posts h1 {
   margin: 10px;
+}
+
+.page-content {
+  max-width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /*

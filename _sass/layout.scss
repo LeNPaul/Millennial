@@ -124,7 +124,7 @@ $light-black: #333;
 
 .featured-image img {
   align: middle;
-  margin: auto;
+  margin: 5px auto auto auto;
   display: block;
   max-width: $container-width - 40px;
 }
@@ -149,10 +149,10 @@ span a {
 */
 
 .posts-wrapper {
-  padding-top: $header-thickness+15px;
+  padding-top: $header-thickness+10px;
   margin: auto;
   display: block;
-  max-width: $container-width - 40px;
+  max-width: $container-width - 20px;
 }
 
 .posts-wrapper h1 {

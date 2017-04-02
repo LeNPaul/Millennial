@@ -126,7 +126,8 @@ $light-black: #333;
   align: middle;
   margin: 5px auto auto auto;
   display: block;
-  max-width: $container-width - 40px;
+  //max-width: $container-width - 40px;
+  max-width: 600px;
 }
 
 h2 span {
@@ -157,6 +158,13 @@ span a {
 
 .posts-wrapper h1 {
   margin: 10px 0px 10px;
+}
+
+.post-date {
+  display: block;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  font-size:0.8rem;
 }
 
 .featured-posts {

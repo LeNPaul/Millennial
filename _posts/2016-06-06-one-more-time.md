@@ -2,6 +2,7 @@
 layout: post
 title: "Check Out These Forests"
 categories: science
+tags: [documentation,sample,test]
 image:
   feature: cuba.jpg
   teaser: forest.jpg

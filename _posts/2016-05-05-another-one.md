@@ -2,6 +2,7 @@
 layout: post
 title: "This is a Person Working on Stuff"
 categories: art
+tags: [documentation,sample,test]
 image:
   feature: computer.jpg
   teaser: cutting.jpg

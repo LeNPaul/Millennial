@@ -28,19 +28,32 @@ layout: default
 
   {{ content }}
 
+  <div class="post-share">
+    <div class="post-date">Feel free to share!</div>
+    <div class="sharing-icons">
+      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}&amp;via={{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+      <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+    </div>
+  </div>
+
   <div class="related">
     <h2>You may also enjoy...</h2>
     {% assign listed_posts_urls = page.url | split: ' ' %}
     <ul class="related-posts">
       {% for tag in page.tags %}
-        {% for mypost in site.tags[tag] limit:3 %}
+        {% for mypost in site.tags[tag] limit:2 %}
           {% if listed_posts_urls contains mypost.url %}
           {% else %}
             <li>
               <h3>
                 <a href="{{ site.github.url }}{{ mypost.url }}">
-                  {{ mypost.title }}
-                  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/{{ mypost.image.teaser }}">-->
+                  <div class="related-thumbnail">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/{{ mypost.image.teaser }}">
+                  </div>
+                  <div class="related-title">
+                    {{ mypost.title }}
+                  </div>
                   <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
                 </a>
               </h3>
@@ -50,14 +63,6 @@ layout: default
         {% endfor %}
       {% endfor %}
     </ul>
-  </div>
-
-  <div class="post-date">Feel free to share!</div>
-    <div class="sharing-icons">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}&amp;via={{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-      <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-    </div>
   </div>
 
 </div>

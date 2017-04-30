@@ -4,7 +4,7 @@ title: Technology
 ---
 {% for post in site.categories.technology %}
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image.teaser %}style="background-image:url({{ site.github.url }}/images/{{ post.image.teaser }})"{% endif %}>
+    <div class="featured-posts" {% if post.image.feature %}style="background-image:url({{ site.github.url }}/images/{{ post.image.feature }})"{% endif %}>
       <h2><span>{{ post.title }}</span></h2>
     </div>
   </a>

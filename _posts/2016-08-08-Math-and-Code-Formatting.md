@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Math and Code Formatting"
-categories: documentation
+categories: sample
 tags: [sample]
 image:
   feature: nature-1.jpg

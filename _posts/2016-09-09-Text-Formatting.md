@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Text Formatting"
-categories: science
+categories: sample
 tags: [sample]
 image:
   feature: cuba-4.jpg

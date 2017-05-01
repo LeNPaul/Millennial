@@ -5,8 +5,8 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 /*
@@ -15,6 +15,13 @@ dl, dd, ol, ul, figure {
 
 body {
   font-family: $base-font-family;
+}
+
+body img {
+    align: middle;
+    margin: 5px auto auto auto;
+    display: block;
+    max-width: 600px;
 }
 
 p {

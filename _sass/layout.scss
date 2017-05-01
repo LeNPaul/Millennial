@@ -1,4 +1,12 @@
 /*
+  Responsiveness
+*/
+
+@media (max-width: 30em) {
+
+}
+
+/*
   Temporary
 */
 
@@ -44,7 +52,6 @@ $light-black: #333;
 @include background($pastel-purple);
 }
 
-
 /*
   End temporary
 */
@@ -57,6 +64,10 @@ $light-black: #333;
   max-width: $container-width;
   margin-left: auto;
   margin-right: auto;
+}
+
+.container a {
+  text-decoration: underline;
 }
 
 /*
@@ -98,6 +109,10 @@ $light-black: #333;
   position: fixed;
   background-color: white;
   box-shadow: 0 5px 6px -6px #bbb;
+}
+
+.site-header a {
+  text-decoration: none;
 }
 
 .site-title {
@@ -285,6 +300,89 @@ span a {
 
 .pagination-active:hover {
   background-color: #e0e0e0;
+}
+
+/*
+  Blockquote
+*/
+
+/*blockquote {
+  padding: 0rem 1rem;
+  margin: .8rem 0;
+  color: #999;
+  border-left: 0.25rem solid #ccc;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 30em) {
+  blockquote {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}*/
+
+blockquote {
+  border-left: 0.25rem solid #ccc;
+  margin: 1.5em 10px;
+  color: #999;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+/*
+  Code
+*/
+
+pre,
+code {
+    font-size: 0.8rem;
+    border-radius: 3px;
+    background-color: #f5f5f5;
+    font-family: "Source Code Pro";
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+.highlight .lineno {
+  color: #aaa;
+  display:inline-block;
+  padding: 0 5px;
+  border-right:1px solid #ccc;
+}
+
+.highlight pre code {
+  display: block;
+  white-space: pre;
+  overflow-x: auto;
+  word-wrap: normal;
 }
 
 /*

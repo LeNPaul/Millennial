@@ -2,8 +2,70 @@
   Responsiveness
 */
 
-@media (max-width: 30em) {
+@media (min-width: $container-width) {
+  .dropbtn {
+    display: none;
+  }
+  .dropdown-content {
+    display: none;
+  }
+}
 
+@media (max-width: $container-width) {
+  .menu-list {
+    display: none;
+  }
+  .site-title {
+    padding-right: 0.25rem;
+  }
+
+  /* Dropdown Button */
+  .dropbtn {
+      background-color: white;
+      color: black;
+      padding: 16px;
+      margin-top: 4px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+  }
+
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+      position: relative;
+      display: inline-block;
+  }
+
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+  }
+
+  /* Links inside the dropdown */
+  .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+  }
+
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #f1f1f1}
+
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+      display: block;
+  }
+
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+      background-color: #f1f1f1;
+  }
 }
 
 /*
@@ -61,7 +123,7 @@ $light-black: #333;
 */
 
 .container {
-  max-width: $container-width;
+  width: $container-width;
   margin-left: auto;
   margin-right: auto;
 }
@@ -105,7 +167,7 @@ $light-black: #333;
 
 .site-header {
   min-height: 56px;
-  min-width: $container-width;
+  width: $container-width;
   position: fixed;
   background-color: white;
   box-shadow: 0 5px 6px -6px #bbb;
@@ -168,7 +230,7 @@ span a {
   padding-top: $header-thickness+10px;
   margin: auto;
   display: block;
-  max-width: $container-width - 20px;
+  width: $container-width - 20px;
 }
 
 .posts-wrapper h1 {
@@ -201,7 +263,7 @@ span a {
 }
 
 .page-content {
-  max-width: 600px;
+  width: 600px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -266,7 +328,7 @@ span a {
   text-align: center;
   min-height: 56px; //Still need to work on the styling of the footer, not sure exactly what min-height and line-height do here
   line-height: 45px;
-  min-width: $container-width;
+  width: $container-width;
 }
 
 .footer a {
@@ -281,6 +343,10 @@ span a {
 
 .pagination {
   text-align: center;
+}
+
+.pagination a {
+  text-decoration: none;
 }
 
 .pagination-button {

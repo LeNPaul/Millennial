@@ -1,8 +1,6 @@
 <footer class="footer">
-  <a href="https://twitter.com/{{ site.author.twitter }}" class="menu-link"><i class="fa fa-twitter" aria-hidden="true" target="_blank"></i></a>
-  <a href="https://www.facebook.com/{{ site.author.facebook }}" class="menu-link"><i class="fa fa-facebook" aria-hidden="true" target="_blank"></i></a>
-  <a href="https://instagram.com/{{ site.author.instagram }}" class="menu-link"><i class="fa fa-instagram" aria-hidden="true" target="_blank"></i></a>
-  <a href="https://linkedin.com/in/{{ site.author.linkedin }}" class="menu-link"><i class="fa fa-linkedin" aria-hidden="true" target="_blank"></i></a>
-  <a href="mailto:{{ site.author.email }}" class="menu-link"><i class="fa fa-envelope" aria-hidden="true" target="_blank"></i></a>
+  {% for item in site.data.settings.social %}
+    <a href="{{ item.link }}" class="menu-link"><i class="fa fa-{{ item.icon }}" aria-hidden="true" target="_blank"></i></a>
+  {% endfor %}
   <div class="post-date"><a href="{{ site.github.url }}/">{{ site.title }} | {{ site.tagline }} by {{ site.author.name }}</a></div>
 </footer>

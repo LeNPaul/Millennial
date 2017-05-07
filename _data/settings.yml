@@ -1,0 +1,7 @@
+menu:
+- {name: Interesting Facts, file: 'facts.html'}
+- {name: Learning Resources, file: 'resources.html'}
+- {name: Sample Posts, file: 'sample-posts.html'}
+- {name: Documentation, file: 'documentation.html'}
+- {name: About, file: 'about.html'}
+- {name: Contact, file: 'contact.html'}

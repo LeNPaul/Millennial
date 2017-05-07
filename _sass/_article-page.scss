@@ -1,0 +1,124 @@
+.posts-wrapper {
+  padding-top: $header-thickness+10px;
+  margin: auto;
+  display: block;
+  width: $container-width - 20px;
+}
+
+.posts-wrapper h1 {
+  margin: 20px 0px 5px;
+}
+
+.page-content {
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.misc-content {
+  max-width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.page-title {
+  padding: 0px 10px 10px;
+}
+
+.post-date {
+  display: block;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  font-size:0.8rem;
+}
+
+.featured-image img {
+  align: middle;
+  margin: 5px auto auto auto;
+  display: block;
+  max-width: 600px;
+}
+
+/*
+  Blockquote
+*/
+
+/*blockquote {
+  padding: 0rem 1rem;
+  margin: .8rem 0;
+  color: #999;
+  border-left: 0.25rem solid #ccc;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 30em) {
+  blockquote {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}*/
+
+blockquote {
+  border-left: 0.25rem solid #ccc;
+  margin: 1.5em 10px;
+  color: #999;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+/*
+  Related Posts
+*/
+
+.related {
+  padding-bottom: 1rem;
+}
+
+.related img {
+  width: 600px;
+  padding-bottom: 1rem;
+}
+
+.related-posts {
+  padding: 10px 0px 10px;
+  list-style: none;
+  display: inline-block;
+}
+
+.related-thumbnail {
+  background-size: cover;
+	background-repeat: no-repeat;
+  float: left;
+  position: relative;
+  width: 600px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.related-title {
+  float: right;
+  padding-bottom: .5rem;
+}
+
+.post-share {
+  padding-bottom: 1rem;
+}

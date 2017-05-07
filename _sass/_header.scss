@@ -1,0 +1,29 @@
+.site-header {
+  min-height: 56px;
+  width: $container-width;
+  position: fixed;
+  background-color: white;
+  box-shadow: 0 5px 6px -6px #bbb;
+}
+
+.site-header a {
+  text-decoration: none;
+}
+
+.site-title {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 56px;
+  margin-bottom: 0;
+  padding-left: 10px;
+  float: left;
+}
+
+.menu-list {
+  line-height: $header-thickness;
+  float: right;
+}
+
+.menu-link {
+  padding: 5px 10px;
+}

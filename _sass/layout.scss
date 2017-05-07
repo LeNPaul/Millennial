@@ -69,56 +69,6 @@
 }
 
 /*
-  Temporary
-*/
-
-$pastel-red: #FF333E;
-$pastel-yellow: #FDFD96;
-$pastel-blue: #779ECB;
-$pastel-pink: #FFD1DC;
-$pastel-purple: #CB99C9;
-$pastel-magenta: #F49AC2;
-$pastel-green: #77DD77;
-$light-black: #333;
-
-@mixin background($color){
-  height: 400px;
-  background-color: $color;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: white;
-}
-
-.section-one {
-  @include background($pastel-green);
-}
-
-.section-two {
-  @include background($pastel-pink);
-}
-
-.section-three {
-@include background($pastel-blue);
-}
-
-.section-four {
-@include background($pastel-magenta);
-}
-
-.section-five {
-@include background($pastel-yellow);
-}
-
-.section-six {
-@include background($pastel-purple);
-}
-
-/*
-  End temporary
-*/
-
-/*
   Site container
 */
 
@@ -130,35 +80,6 @@ $light-black: #333;
 
 .container a {
   text-decoration: underline;
-}
-
-/*
-  Custom grid
-*/
-
-.row {
-  margin: 0px;
-  padding: 0px;
-}
-
-.col-1 {
-  width: 100%;
-  float: left;
-}
-
-.col-2 {
-  width: 50%;
-  float: left;
-}
-
-.col-23 {
-  width: 66.666%;
-  float: left;
-}
-
-.col-3 {
-  width: 33.333%;
-  float: left;
 }
 
 /*

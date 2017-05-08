@@ -17,7 +17,12 @@ layout: default
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
     {{ page.date | date: "%Y" }}
-    by {{ site.author.name }}
+    by
+    {% if page.author %}
+      {{ page.author }}
+    {% else %}
+      {{ site.data.settings.author.name }}
+    {% endif %}
   </span>
 
   {% if page.image.feature %}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Installation Guide"
+author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image:

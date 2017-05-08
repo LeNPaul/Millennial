@@ -2,15 +2,15 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.tagline }}
+      {{ site.data.settings.title }} | {{ site.data.settings.tagline }}
     {% else %}
-      {{ page.title }} | {{ site.title }}
+      {{ page.title }} | {{ site.data.settings.title }}
     {% endif %}
   </title>
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ site.github.url }}/css/syntax.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 
 </head>

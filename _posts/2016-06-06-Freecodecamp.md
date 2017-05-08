@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Free Code Camp"
+author: "Paul Le"
 categories: resources
 tags: [sample]
 image:

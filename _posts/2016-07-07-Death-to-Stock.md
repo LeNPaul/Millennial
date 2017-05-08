@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Death to Stock"
+author: "Paul Le"
 categories: resources
 tags: [sample]
 image:

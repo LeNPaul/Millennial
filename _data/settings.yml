@@ -1,3 +1,9 @@
+title:  "Millennial"
+tagline: "a Jekyll theme"
+description:
+author:
+  name: "Paul Le"
+
 menu:
 - {name: 'Interesting Facts', file: 'facts.html'}
 - {name: 'Learning Resources', file: 'resources.html'}

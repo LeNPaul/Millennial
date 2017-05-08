@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Khan Academy"
+author: "Paul Le"
 categories: resources
 tags: [sample]
 image:

@@ -3,6 +3,7 @@ tagline: "a Jekyll theme"
 description:
 author:
   name: "Paul Le"
+  twitter: paululele
 
 menu:
 - {name: 'Interesting Facts', file: 'facts.html'}
@@ -18,3 +19,5 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer

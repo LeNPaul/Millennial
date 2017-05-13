@@ -1,8 +1,6 @@
 # Site Settings
-baseurl:            #"/Millennial"
-url:                #"https://lenpaul.github.io"
-github:
-  url:               #"https://lenpaul.github.io/Millennial"
+
+disqus:              #"your-disqus"
 
 paginate:            5
 

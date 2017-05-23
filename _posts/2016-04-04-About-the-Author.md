@@ -14,6 +14,6 @@ Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first 
 
 Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. This theme is currently being used by about three dozen people, with this number growing every day.
 
-<img src="{{ site.github.url }}/images/demo.jpg">
+<img src="{{ site.github.url }}/assets/img/demo.jpg">
 
 Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/Installation-Guide.html">how to use install</a> and use the theme.

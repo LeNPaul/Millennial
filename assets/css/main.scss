@@ -16,12 +16,4 @@ $container-width: 1100px;
 
 $header-thickness: 56px;
 
-// Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
-@import "base",
-        "site-container",
-        "header",
-        "home-page",
-        "article-page",
-        "social-icons",
-        "footer",
-        "code";
+@import "_sass/-sections-dir";

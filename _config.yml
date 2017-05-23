@@ -9,3 +9,7 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 gems:                [jekyll-paginate]
+
+sass:
+  sass_dir: assets/css
+  style: :nested

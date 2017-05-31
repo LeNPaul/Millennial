@@ -6,12 +6,10 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 .featured-posts img {
   max-width: 600px;
   margin: 10px;
 }
-
 .featured-posts h2 span {
    display: inline-block;
    color: white;
@@ -22,11 +20,9 @@
    padding: 10px;
    margin-top: 320px;
 }
-
 .featured-posts span a {
   color: white;
 }
-
 .featured-posts h1 {
   margin: 10px;
 }
@@ -38,11 +34,9 @@
 .pagination {
   text-align: center;
 }
-
 .pagination a {
   text-decoration: none;
 }
-
 .pagination-button {
   color: #999;
   border: 1px solid #e0e0e0;
@@ -53,11 +47,9 @@
   font-size: 16px;
   font-weight: bold;
 }
-
 .pagination-active {
   color: black;
 }
-
 .pagination-active:hover {
   background-color: #e0e0e0;
 }

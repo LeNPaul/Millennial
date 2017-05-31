@@ -7,29 +7,24 @@ code {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-
 code {
     padding: 1px 5px;
 }
-
 pre {
     padding: 8px 12px;
     overflow-x: auto;
-
     > code {
         border: 0;
         padding-right: 0;
         padding-left: 0;
     }
 }
-
 .highlight .lineno {
   color: #aaa;
   display:inline-block;
   padding: 0 5px;
   border-right:1px solid #ccc;
 }
-
 .highlight pre code {
   display: block;
   white-space: pre;

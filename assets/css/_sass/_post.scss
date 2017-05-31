@@ -14,7 +14,7 @@
 }
 .featured-image img {
   align: middle;
-  margin: 5px auto auto auto;
+  margin: 5px auto 25px;
   display: block;
   max-width: 600px;
 }
@@ -32,18 +32,15 @@
 .related {
   padding-bottom: 1rem;
 }
-
 .related img {
   width: 600px;
   padding-bottom: 1rem;
 }
-
 .related-posts {
   padding: 10px 0px 10px;
   list-style: none;
   display: inline-block;
 }
-
 .related-thumbnail {
   background-size: cover;
 	background-repeat: no-repeat;
@@ -53,7 +50,6 @@
   height: 200px;
   overflow: hidden;
 }
-
 .related-title {
   float: right;
   padding-bottom: .5rem;

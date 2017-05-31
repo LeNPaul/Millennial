@@ -12,11 +12,7 @@
   margin: 10px;
 }
 
-.featured-posts h1 {
-  margin: 10px;
-}
-
-h2 span {
+.featured-posts h2 span {
    display: inline-block;
    color: white;
    font: bold 24px/45px Helvetica, Sans-Serif;
@@ -27,8 +23,12 @@ h2 span {
    margin-top: 320px;
 }
 
-span a {
+.featured-posts span a {
   color: white;
+}
+
+.featured-posts h1 {
+  margin: 10px;
 }
 
 /*

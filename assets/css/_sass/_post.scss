@@ -1,0 +1,60 @@
+.page-content {
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.post-date {
+  display: block;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  font-size:0.8rem;
+}
+.featured-image img {
+  align: middle;
+  margin: 5px auto auto auto;
+  display: block;
+  max-width: 600px;
+}
+.post-share {
+  padding-bottom: 1rem;
+}
+.sharing-icons a {
+  padding-right: 10px;
+}
+
+/*
+  Related Posts
+*/
+
+.related {
+  padding-bottom: 1rem;
+}
+
+.related img {
+  width: 600px;
+  padding-bottom: 1rem;
+}
+
+.related-posts {
+  padding: 10px 0px 10px;
+  list-style: none;
+  display: inline-block;
+}
+
+.related-thumbnail {
+  background-size: cover;
+	background-repeat: no-repeat;
+  float: left;
+  position: relative;
+  width: 600px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.related-title {
+  float: right;
+  padding-bottom: .5rem;
+}

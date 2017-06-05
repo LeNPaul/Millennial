@@ -18,6 +18,16 @@
     text-align: center;
     min-height: 56px;
     line-height: 45px;
-    width: 550px;
+    width: $tablet-width;
+  }
+}
+@media (max-width: $tablet-width) {
+  .footer {
+    background: white;
+    color: $brand-color;
+    text-align: center;
+    min-height: 56px;
+    line-height: 45px;
+    width: $phone-width;
   }
 }

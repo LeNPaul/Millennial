@@ -21,7 +21,7 @@
 }
 @media (max-width: $container-width) {
   .container {
-    width: 550px;
+    width: $tablet-width;
     margin-left: auto;
     margin-right: auto;
   }
@@ -29,6 +29,19 @@
     padding-top: $header-thickness+10px;
     margin: auto;
     display: block;
-    width: 550px - 20px;
+    width: $tablet-width;
+  }
+}
+@media (max-width: $tablet-width) {
+  .container {
+    width: $phone-width;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .posts-wrapper {
+    padding-top: $header-thickness+10px;
+    margin: auto;
+    display: block;
+    width: $phone-width;
   }
 }

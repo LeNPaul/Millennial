@@ -18,6 +18,38 @@
   display: block;
   max-width: 600px;
 }
+@media (max-width: $container-width) {
+  .page-content {
+    width: $tablet-width;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .featured-image img {
+    align: middle;
+    margin: 5px auto 25px;
+    display: block;
+    max-width: $tablet-width;
+  }
+}
+@media (max-width: $tablet-width) {
+  .page-content {
+    width: $phone-width;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .featured-image img {
+    align: middle;
+    margin: 5px auto 25px;
+    display: block;
+    max-width: $phone-width;
+  }
+}
 .post-share {
   padding-bottom: 1rem;
 }

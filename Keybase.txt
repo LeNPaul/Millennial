@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/berserkerjack
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.berserker.tv
+  * I am berserkerjack (https://keybase.io/berserkerjack) on keybase.
+  * I have a public key with fingerprint 76C4 46ED 496D CA4F BC51  E438 996F DB78 D6C4 5DB3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a616b65284aaeba921aeb33bcb8df743a4e993b04bce055a8c39410447a2a9ba0a",
+            "fingerprint": "76c446ed496dca4fbc51e438996fdb78d6c45db3",
+            "host": "keybase.io",
+            "key_id": "996fdb78d6c45db3",
+            "kid": "0101a616b65284aaeba921aeb33bcb8df743a4e993b04bce055a8c39410447a2a9ba0a",
+            "uid": "b034eae6273d2eaf482bc876de017319",
+            "username": "berserkerjack"
+        },
+        "service": {
+            "hostname": "www.berserker.tv",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1498856525,
+    "expire_in": 157680000,
+    "prev": "e04a7782b07be9b43db0367a888bb54c778a89780156c042ab422cee47e4704a",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJdSBRRFF4rUxctSSIp05iQIE3m587MnQUjM30ooywJdvtZ7525q+Pq
+zLo7amJLKQhh0FMEYSoRKFJBSUWJv6kFiT+lUfRgEBpoYWJgKQXdEeupxy4XDuee
+7/vu+Q5nMG69wxkxnzSfDxpWciKG+1sqHO5TXUdrGGxq1YyrhvGT1UBKNRKyvH5d
+Y1wMy7EckjgJSyIPAUIEI4XnaBAErGKo+WQgIEAURcAswCphRRFBVVAAxwIgIx4p
+GLGISWd8ulFEgoGgblhUVpZUACSiAUXSVAR8WBU5AgSoKJJPwzLUaF3UsECJxWbI
+ZtDmMAqRDN2kbzTxrrb3D/x/7rtiVQ6zAiCISLwsaDxBPgB5rEJZ0gjLyQKn2MAQ
+CRqojNhoEqSJnwRLkOpnwukMzSp1ldjTte2swaqqqjL+QjOsSioSCJqWqZqltFps
+WQGXTbaqA6togr1rOl6sGxqdJyVUUr5uGoyLo0jV0m1hDigQitS4mM6Q8wE9SLy6
+jRBlCbL02N+QSipJWIBkmVphZUwUDASN+pRkBCHEWAQqrSGoyJDlREllAY8w4HmV
+ECDTS7mM7azcMBkXoG2iIioZ0osMZFUECRN+1ndmgyPC6dgYuc7eM4czJv7P9rWJ
+UT/jkqJH2SsL2Gg4HNn+9EYX/DTaIBZmJk9Z+5J7ds7FJH75tezvGHKj5YL7dW+f
+d98Z18OJsdXs3R/dm5ZyPGm76073PR4Zu7U1YWVhoezIgcy0r2Zzd09C4lJ3VN1V
+T+6HcP91n/vjeH3K7MXUxKbh8LaTrbs6t+TpHmf2+8W86Y2zLR0r1+rhYOrtnHK8
+Y7Mb5L9xnZvM2h9QtvdOxEf3a9mTRsvMaCsIgDQ+90TjwQcvLM88NtKfjH0+1LPc
+VvLS//BdQ3P2t96mAk/u0J65lO9Vy5m1WXtfL9ae7X1UcGl6YORY4avjuZedRe0z
+depC6k0WTbSF7w3ENk5d6PwNVYBIuQ==
+=OeA2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/berserkerjack
+
+==================================================================

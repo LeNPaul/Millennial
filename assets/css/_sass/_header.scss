@@ -8,16 +8,7 @@
 @media (max-width: $container-width) {
   .site-header {
       min-height: 56px;
-      width: $tablet-width;
-      position: fixed;
-      background-color: white;
-      box-shadow: 0 5px 6px -6px #bbb;
-  }
-}
-@media (max-width: $tablet-width) {
-  .site-header {
-      min-height: 56px;
-      width: $phone-width;
+      width: 95vw;
       position: fixed;
       background-color: white;
       box-shadow: 0 5px 6px -6px #bbb;

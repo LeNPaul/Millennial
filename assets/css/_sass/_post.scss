@@ -20,7 +20,7 @@
 }
 @media (max-width: $container-width) {
   .page-content {
-    width: $tablet-width;
+    width: 60vw;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -31,12 +31,12 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
-    max-width: $tablet-width;
+    max-width: 60vw;
   }
 }
 @media (max-width: $tablet-width) {
   .page-content {
-    width: $phone-width;
+    width: 95vw;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -47,7 +47,7 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
-    max-width: $phone-width;
+    max-width: 95vw;
   }
 }
 .post-share {
@@ -85,4 +85,14 @@
 .related-title {
   float: right;
   padding-bottom: .5rem;
+}
+@media (max-width: $container-width) {
+  .related-thumbnail{
+    width: 60vw;
+  }
+}
+@media (max-width: $tablet-width) {
+  .related-thumbnail{
+    width: 95vw;
+  }
 }

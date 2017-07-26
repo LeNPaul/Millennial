@@ -5,6 +5,11 @@ author:
   name: "Paul Le"
   twitter: paululele
 
+# Change to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'millennial-3'
+
 menu:
 - {name: 'Interesting Facts', file: 'facts.html'}
 - {name: 'Learning Resources', file: 'resources.html'}

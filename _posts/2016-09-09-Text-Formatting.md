@@ -10,6 +10,18 @@ image:
 
 As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
+# Heading One
+
+## Heading Two
+
+### Heading Three
+
+#### Heading Four
+
+##### Heading Five
+
+###### Heading Six
+
 ### Quote Blocks
 
 > Nature uses only the longest threads to weave her patterns, so that each small piece of her fabric reveals the organization of the entire tapestry.
@@ -27,3 +39,23 @@ var adder = new Function("a", "b", "return a + b");
 adder(2, 6);
 // > 8
 ```
+
+### Lists
+
+1. First item.
+
+2. Second item.
+
+3. Third item.
+
+* First point.
+
+* Second point.
+
+* Third point.
+
+- A point.
+
+- Another point.
+
+- Another one.

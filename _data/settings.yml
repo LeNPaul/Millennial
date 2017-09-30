@@ -9,7 +9,7 @@ disqus:
 
 menu:
 - {name: 'To Arin', file: 'facts.html'}
-- {name: 'Pull UP', file: 'resources.html'}
+- {name: 'Pull Up', file: 'resources.html'}
 - {name: 'English', file: 'sample-posts.html'}
 - {name: 'IT', file: 'documentation.html'}
 - {name: 'About', file: 'about.html'}

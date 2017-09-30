@@ -2,6 +2,8 @@ title:  "Millennial"
 tagline: "a Jekyll theme"
 description:
 
+# Authors documented under _data
+
 # Change to true for Disqus comments
 disqus:
   comments: false

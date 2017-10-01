@@ -9,15 +9,17 @@ disqus:
 
 menu:
 - {name: 'To Arin', file: 'facts.html'}
-- {name: 'Pull Up', file: 'resources.html'}
-- {name: 'English', file: 'sample-posts.html'}
+- {name: 'Work Out', file: 'resources.html'}
+- {name: 'English Study', file: 'sample-posts.html'}
 - {name: 'IT', file: 'documentation.html'}
+- {name: 'Enlightenment', file: 'enlightenment.html'}
+- {name: 'Family', file: 'family.html'}
 - {name: 'About', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+- {icon: 'facebook', link: 'https://www.facebook.com/kidodat'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}

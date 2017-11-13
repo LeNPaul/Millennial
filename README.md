@@ -79,7 +79,8 @@ For a full local installation of Millennial, [download your own copy of Millenni
 If you are familiar with Jekyll, then the Millennial directory structure shouldn't be too difficult to navigate. The following some highlights of the differences you might notice between the default directory structure. More information on what these folders and files do can be found in the [Jekyll documentation site](https://jekyllrb.com/docs/structure/).
 
 ```bash
-Millennial/
+Millennial
+
 ├── _data                      # Data files
 |  └── authors.yml             # For managing multiple authors
 |  └── settings.yml            # Theme settings and custom text
@@ -87,10 +88,10 @@ Millennial/
 ├── _layouts                   # Theme layouts (see below for details)
 ├── _posts                     # Where all your posts will go
 ├── assets                     # Style sheets and images are found here
-|  ├── css                     # Style sheets go here
-|  |  └── main.css             # Main CSS file
-|  |  └── syntax.css           # Style sheet for code syntax highlighting
-|  └── img                     # Images go here
+|  ├── css
+|  |  ├── _sass                # Contains SCSS files
+|  |  ├── main.scss            # Declare SCSS variables here
+|  └── img
 ├── menu                       # Menu pages
 ├── _config.yml                # Site build settings
 └── index.md                   # Home page

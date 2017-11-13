@@ -150,14 +150,11 @@ The recommended YAML front block is:
 ---
 layout:
 title:
+author:
 categories:
-tags: []
+tags:
 image:
   feature:
-  teaser:
-  credit:
-  creditlink:
-
 ---
 ```
 

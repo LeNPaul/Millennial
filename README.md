@@ -2,7 +2,7 @@
 
 Millennial is a minimalist Jekyll theme for running a personal blog or site for free through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/).
 
-![alt text](https://user-images.githubusercontent.com/8409329/32800834-6778303a-c949-11e7-97b6-7cea7a664d94.png "Millennial Demo Image")
+![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
 
 ## Notable features
 

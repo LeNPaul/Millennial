@@ -1,4 +1,4 @@
-# Site Settings
+# Site Build Settings
 
 paginate:            5
 
@@ -12,9 +12,10 @@ sass:
   sass_dir: assets/css
   style: :nested
 
-# Customise feed settings (uncommenting following two fields to customise feed title and description)
-#title:		     "Lagrange-Custom"
-#description:	     "a minimalist Jekyll theme-Custom"
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Millennial"
+description:	       "A Jekyll theme for running a blog or publication"
+author:              "Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

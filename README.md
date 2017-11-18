@@ -89,7 +89,7 @@ Millennial
 ├── _posts                     # Where all your posts will go
 ├── assets                     # Style sheets and images are found here
 |  ├── css
-|  |  ├── _sass                # Contains SCSS files
+|  |  ├── _sass                # This folder contains SCSS files
 |  |  ├── main.scss            # Declare SCSS variables here
 |  └── img
 ├── menu                       # Menu pages

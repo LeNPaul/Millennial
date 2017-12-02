@@ -1,12 +1,12 @@
-title:  "Millennial"
-tagline: "a Jekyll theme for running a blog or publication"
+title:  "Jared Desjardins"
+#tagline: "a Jekyll theme for running a blog or publication"
 
 # Authors documented under _data
 
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'jared'
 
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
@@ -18,7 +18,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'linkedin', link: 'https://twitter.com/paululele'}
 - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}

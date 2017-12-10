@@ -79,13 +79,13 @@
       text-decoration: none;
       display: block;
   }
-  .dropdown-content a:hover {
+  html.nontouch .dropdown-content a:hover {
     background-color: #f1f1f1
   }
-  .dropdown:hover .dropdown-content {
+  html.nontouch .dropdown:hover .dropdown-content {
       display: block;
   }
-  .dropdown:hover .dropbtn {
+  html.nontouch .dropdown:hover .dropbtn {
       background-color: #f1f1f1;
   }
 }

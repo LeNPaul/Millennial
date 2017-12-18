@@ -3,7 +3,7 @@ layout: post
 title: Five Alive
 author: Regina Clark
 categories:
-tags: [auto-fiction](#) 
+tags: [auto-fiction]
 image:
   feature: llama-4.jpg
   teaser:

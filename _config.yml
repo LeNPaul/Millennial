@@ -1,5 +1,6 @@
 # Site Build Settings
 
+# jekyll-paginate configuration
 paginate:            5
 
 # Build settings
@@ -19,4 +20,4 @@ author:              "Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
-#   path:	     rss-feed.xml
+#  path: rss-feed.xml

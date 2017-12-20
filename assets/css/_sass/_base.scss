@@ -4,7 +4,7 @@
 
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+dl, dd, ol, ul, figure, figcaption {
   margin: 0;
   padding: 0;
 }
@@ -31,6 +31,18 @@ p {
   line-height: 1.65;
   font-family: $body-font-family;
 }
+
+figcaption { 
+  display: block;
+  margin-top: 0em;
+  margin-bottom: 2em;
+  margin-left: 0;
+  margin-right: 0;
+  line-height: 1.22;
+  font-family: $body-font-family;
+  color: #a9a9a9;
+  font-size:0.6rem;
+} 
 
 /*
   Links

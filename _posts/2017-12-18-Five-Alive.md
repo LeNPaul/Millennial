@@ -8,7 +8,7 @@ image:
   feature: llama-4.jpg
   teaser:
   credit: Creative Commons/ Flickr Tambako
-  creditlink: 
+  creditlink: https://www.flickr.com/photos/tambako/4750603032/
 --- 
 
 # Five Alive

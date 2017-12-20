@@ -25,13 +25,15 @@ layout: default
     {% endif %}
   </span>
 
-  <span class="image-feature">
   {% if page.image.feature %}
     <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
-      {{ page.image.credit }}
+      <figure>
+       <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
+        <figcaption> 
+          <a href= {{ page.image.creditlink }}> {{ page.image.credit }}</a>
+        </figcaption>
+      </figure>
     </div>
-  </span>
   {% endif %}
 
   <article>

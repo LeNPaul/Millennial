@@ -32,7 +32,10 @@ p {
   font-family: $body-font-family;
 }
 
-
+h1 {
+  $base-font-family;
+}
+  
 
 /*
   Links
@@ -40,7 +43,7 @@ p {
 
 a {
   color: $brand-color;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /*

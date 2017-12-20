@@ -7,7 +7,7 @@ tags: [Fiction]
 image:
   feature: llama-4.jpg
   teaser:
-  credit: Creative Commons/ Flickr: Tambako
+  credit: Creative Commons/ Flickr Tambako
   creditlink: 
 --- 
 

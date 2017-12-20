@@ -3,12 +3,7 @@ layout: default
 ---
 
 <div class="page-content">
-  <h1>
-    {{ page.title }}
-  </h1>
-
   <span class="post-date">
-    Written on
     {% assign d = page.date | date: "%-d"  %}
     {{ page.date | date: "%B" }}
     {% case d %}
@@ -17,7 +12,14 @@ layout: default
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
     {{ page.date | date: "%Y" }}
-    by
+  </span>
+  
+  <h1>
+    {{ page.title }}
+  </h1>
+
+  <span class="post-author">
+      by
     {% if page.author %}
       {{ page.author }}
     {% else %}
@@ -30,7 +32,7 @@ layout: default
       <figure>
        <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
         <figcaption> 
-          <a href= {{ page.image.creditlink }}> {{ page.image.credit }}</a>
+          <a target="_blank" href= {{ page.image.creditlink }}> {{ page.image.credit }}</a>
         </figcaption>
       </figure>
     </div>

@@ -8,8 +8,18 @@
   margin-right: auto;
 }
 .container a {
-  text-decoration: none;
+  text-decoration: underline;
 }
+.container figcaption{
+  display: block;
+  margin-top: 0em;
+  margin-bottom: 2em;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: $body-font-family;
+  color: #a9a9a9;
+  font-size:0.6rem;
+} 
 .posts-wrapper {
   padding-top: $header-thickness+10px;
   margin: auto;

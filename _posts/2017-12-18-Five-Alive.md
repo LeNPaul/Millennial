@@ -3,12 +3,12 @@ layout: post
 title: Five Alive
 author: Regina Clark
 categories:
-tags: [auto-fiction]
+tags: [Fiction]
 image:
   feature: llama-4.jpg
   teaser:
-  credit:
-  creditlink:
+  credit: Creative Commons/ Flickr: Tambako
+  creditlink:https://flic.kr/p/8eN5LQ
 --- 
 
 # Five Alive

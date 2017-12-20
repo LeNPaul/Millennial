@@ -11,7 +11,6 @@ image:
   creditlink: https://www.flickr.com/photos/tambako/4750603032/
 --- 
 
-# Five Alive
 
 When Lucia saw the one where Bugs cut carrots into his own cauldron, the one he was being cooked in, she went to the kitchen and got a bag of carrots from the bottom drawer of the fridge and a knife from the wooden silverware drawer. On the sofa, she cut the carrots into disks and pretended to be boiled alive while singing like Bugs. 
 

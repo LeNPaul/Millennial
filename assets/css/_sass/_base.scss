@@ -22,7 +22,7 @@ body img {
     display: block;
     max-width: 600px;
 }
-p h1 figcaption {
+h1, h2, h3, h4, figcaption {
   font-family: $body-font-family;
 }
 p {

@@ -6,7 +6,7 @@ layout: default
   <span class="post-date">
    <h3>
     {{ page.categories }}
-    {{page.tags | capitalize | join: ' '}}
+    {{page.tags | join: ', '}}
     {% assign d = page.date | date: "%-d"  %}
     {{ page.date | date: "%B" }}
     {% case d %}

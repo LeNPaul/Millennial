@@ -7,11 +7,11 @@ layout: default
    <h3>
     {{ page.categories }}
      
-    <small>
+    <span page-tags>
     {% for tag in page.tags %}
-    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+      <a href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endfor %}
-    </small>
+    </span>
      
     <!-- <span>[
       {% for tag in page.tags %}

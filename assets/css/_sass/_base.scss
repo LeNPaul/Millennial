@@ -25,6 +25,11 @@ body img {
 h1, h2, h3, h4 {
   font-family: $body-font-family;
 }
+h3{
+  color: #9a9a9a;
+  font-size: .7em;
+  text-transform: uppercase;
+}
 h4 {
   font-style: italic;
   font-size: .7em;

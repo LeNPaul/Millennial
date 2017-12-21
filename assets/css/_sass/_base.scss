@@ -22,6 +22,9 @@ body img {
     display: block;
     max-width: 600px;
 }
+p h1 figcaption {
+  font-family: $body-font-family;
+}
 p {
   display: block;
   margin-top: 1em;
@@ -31,9 +34,7 @@ p {
   line-height: 1.65;
   font-family: $body-font-family;
 }
-
 h1 {
-  font-family: $body-font-family;
   font-size: 4em;
 }
   

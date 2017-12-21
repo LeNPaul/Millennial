@@ -1,7 +1,7 @@
 <header class="site-header">
-  <h3 class="site-title">
+  <div class="site-title">
     <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
-  </h3>
+  </div>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>

@@ -22,8 +22,17 @@ body img {
     display: block;
     max-width: 600px;
 }
-h1, h2, h3, h4, figcaption {
+h1, h2, h3, h4 {
   font-family: $body-font-family;
+}
+h4 {
+  font-style: italic;
+  font-size: .5em;
+  padding: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 p {
   display: block;

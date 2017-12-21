@@ -3,7 +3,7 @@ layout: post
 title: Five Alive
 author: Regina Clark
 categories: [Fiction]
-tags: [TV][Cartoons]
+tags: [TV, Cartoons]
 image:
   feature: llama-4.jpg
   teaser:

@@ -6,30 +6,7 @@ layout: default
   <span class="post-date">
    <h3>
     {{ page.categories }}
-     
-     <span page-tags>
-    {% for tag in page.tags %}
-      {{ tag }}
-    {% endfor %}
-    </span>
-     
-  <!-- 
-<span page-tags>
-    {% for tag in page.tags %}
-      <a href="/tags/{{ tag }}/">{{ tag }}</a>
-    {% endfor %}
-    </span>
--->
-     
-    <!-- <span>[
-      {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-      {% endfor %}
-     ]</span>
--->
-     
-    <!--<{{page.tags | join: ', '}}-->
+   
     {% assign d = page.date | date: "%-d"  %}
     {{ page.date | date: "%B" }}
     {% case d %}

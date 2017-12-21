@@ -9,8 +9,8 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'ABOUT', folder: 'pages', file: 'about.html'}
+- {name: 'CONTACT', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

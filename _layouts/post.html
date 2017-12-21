@@ -4,6 +4,7 @@ layout: default
 
 <div class="page-content">
   <span class="post-date">
+   <h3>
     {% assign d = page.date | date: "%-d"  %}
     {{ page.date | date: "%B" }}
     {% case d %}
@@ -12,29 +13,43 @@ layout: default
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
     {{ page.date | date: "%Y" }}
+    </h3>
   </span>
+  
+   <div class="post-share">
+    <!--<div class="post-date">Feel free to share!</div>-->
+    <div class="sharing-icons">
+      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}&amp;via={{ site.data.authors.primary.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+      <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+    </div>
+  </div>
   
   <h1>
     {{ page.title }}
   </h1>
 
   <span class="post-author">
+    <h2>
       by
-    {% if page.author %}
+     {% if page.author %}
       {{ page.author }}
-    {% else %}
+     {% else %}
       {{ site.data.authors.primary.name }}
-    {% endif %}
+     {% endif %}
+    </h2>
   </span>
 
   {% if page.image.feature %}
     <div class="featured-image">
+     <h4>
       <figure>
        <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
         <figcaption> 
           <a target="_blank" href= {{ page.image.creditlink }}> {{ page.image.credit }}</a>
         </figcaption>
       </figure>
+      </h4>
     </div>
   {% endif %}
 

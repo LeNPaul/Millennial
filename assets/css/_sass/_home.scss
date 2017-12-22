@@ -9,7 +9,8 @@
 .featured-posts h5 {
    display: inline-block;
    color: white;
-   font: bold 24px/45px $base-font-family;
+   font-size: 4em;
+   font: $base-font-family;
    letter-spacing: -1px;
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
@@ -18,9 +19,6 @@
 }
 .featured-posts span a {
   color: white;
-}
-.featured-posts h1 {
-  margin: 10px;
 }
 
 /*

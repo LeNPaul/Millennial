@@ -25,6 +25,11 @@ body img {
 h1, h2, h3, h4 {
   font-family: $body-font-family;
 }
+h2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+}
 h3{
   color: #9a9a9a;
   font-size: .7em;
@@ -56,7 +61,7 @@ h1 {
 
 a {
   color: $brand-color;
-  text-decoration: underline;
+
 }
 h4 figcaption a {
   font-style: italic;

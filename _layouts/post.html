@@ -8,7 +8,7 @@ layout: default
   </h1>
 
   <span class="post-date">
-    Written on
+    {{ site.data.settings.post_date_prefix }}
     {% assign d = page.date | date: "%-d"  %}
     {{ page.date | date: "%B" }}
     {% case d %}
@@ -36,7 +36,7 @@ layout: default
   </article>
 
   <div class="post-share">
-    <div class="post-date">Feel free to share!</div>
+    <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
     <div class="sharing-icons">
       <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}&amp;via={{ site.data.authors.primary.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -45,7 +45,7 @@ layout: default
   </div>
 
   <div class="related">
-    <h2>You may also enjoy...</h2>
+    <h2>{{ site.data.settings.related_posts }}</h2>
     {% assign listed_posts_urls = page.url | split: ' ' %}
     <ul class="related-posts">
       {% for tag in page.tags %}

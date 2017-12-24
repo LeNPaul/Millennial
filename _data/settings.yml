@@ -1,8 +1,3 @@
-title:  "Millennial"
-tagline: "a Jekyll theme for running a blog or publication"
-
-# Authors documented under _data
-
 # Change to true for Disqus comments
 disqus:
   comments: false

@@ -78,11 +78,10 @@ adder(2, 6);
 1. First item.
 2. Second item.
 3. Third item.
-
-* First point.
-* Second point.
-* Third point.
+4. First point.
   - A point.
+5. Second point.
+6. Third point.
   - Another point.
   - Another one.
 
@@ -161,8 +160,6 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 2. Second item, dawg
 3. Third item, what what?!
 4. Fourth item, fo sheezy my neezy
-
-
 
 ## Headings are cool! (h2)
 

@@ -76,22 +76,15 @@ adder(2, 6);
 ### Lists
 
 1. First item.
-
 2. Second item.
-
 3. Third item.
 
 * First point.
-
 * Second point.
-
 * Third point.
-
-- A point.
-
-- Another point.
-
-- Another one.
+  - A point.
+  - Another point.
+  - Another one.
 
 
 

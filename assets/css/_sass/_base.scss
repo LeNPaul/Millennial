@@ -13,11 +13,11 @@ dl, dd, ol, ul, figure {
   Basic styling
 */
 
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
   text-rendering: optimizeLegibility;
 }
 
@@ -37,6 +37,7 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+/* Body */
 body {
   font-family: $base-font-family;
 }
@@ -46,6 +47,7 @@ body img {
     display: block;
     max-width: 600px;
 }
+
 p {
   display: block;
   margin-top: 1em;
@@ -54,6 +56,24 @@ p {
   margin-right: 0;
   line-height: 1.65;
   font-family: $body-font-family;
+}
+
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: .5rem;
 }
 
 /*

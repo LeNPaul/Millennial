@@ -102,7 +102,11 @@ Millennial/
 |  └── img                     # Images go here
 ├── pages                      # Category pages
 ├── _config.yml                # Site build settings
-└── index.md                   # Home page
+├── Gemfile                    # Ruby Gemfile for managing Jekyll plugins
+├── index.md                   # Home page
+├── LICENSE.md                 # License for this theme
+├── README.md                  # Includes all of the documentation for this theme
+└── rss-feed.xml               # Generates RSS 2.0 file which Jekyll points to
 ```
 
 ### Starting From Scratch

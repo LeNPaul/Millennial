@@ -64,6 +64,9 @@
 .related {
   padding-bottom: 1rem;
 }
+.related ul, ol, dl {
+  margin: 0px;
+}
 .related img {
   width: 600px;
   padding-bottom: 1rem;
@@ -85,6 +88,7 @@
 .related-title {
   float: right;
   padding-bottom: .5rem;
+  font-family: $base-font-family;
 }
 @media (max-width: $container-width) {
   .related-thumbnail{

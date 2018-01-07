@@ -66,6 +66,12 @@ ul, ol, dl {
   font-family: $body-font-family;
 }
 
+ol li {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1.5rem;
+}
+
 li {
   margin-bottom: 1rem;
 }

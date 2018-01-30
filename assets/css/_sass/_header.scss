@@ -4,7 +4,7 @@
   width: $container-width;
   position: fixed;
   background-color: white;
-  box-shadow: 0 5px 6px -6px #bbb;
+  box-shadow: 0 6px 6px -6px #bbb;
 }
 @media (max-width: $container-width) {
   .site-header {
@@ -12,7 +12,7 @@
       width: 95vw;
       position: fixed;
       background-color: white;
-      box-shadow: 0 5px 6px -6px #bbb;
+      box-shadow: 0 6px 6px -6px #bbb;
   }
 }
 .site-header a {
@@ -28,10 +28,10 @@
 }
 .menu-list {
   line-height: $header-thickness;
-  float: right;
+  text-align:center;
 }
 .menu-link {
-  padding: 5px 10px;
+  padding: 10px;
 }
 
 /*

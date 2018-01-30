@@ -9,13 +9,10 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'ABOUT', folder: 'pages', file: 'about.html'}
-- {name: 'CONTACT', folder: 'pages', file: 'contact.html'}
+- {name: 'ABOUT REG', folder: 'pages', file: 'about.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/clarkinia'}
-- {icon: 'facebook', link: 'https://www.facebook.com/clarkinia'}
-- {icon: 'instagram', link: 'https://instagram.com/clarkinia'}
 - {icon: 'envelope', link: 'mailto:orangeowlqueen@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}

@@ -1,5 +1,6 @@
 .site-header {
   min-height: 56px;
+  padding: 20px;
   width: $container-width;
   position: fixed;
   background-color: white;
@@ -19,12 +20,13 @@
 }
 .site-title {
   font: $base-font-family;
-  font-size: 3.5em;
+  font-size: 3em;
   font-weight: 600;
   line-height: 56px;
   margin-bottom: 0;
+  margin-left: 40px;
   padding-left: 10px;
-  float: center;
+  float: left;
 }
 .menu-list {
   line-height: $header-thickness;

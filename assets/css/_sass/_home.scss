@@ -16,9 +16,11 @@
    background: rgba(0, 0, 0, 0.7);
    padding: 8px;
    margin-top:300px;
+   font-weight: none;
 }
 .featured-posts span a {
   color: white;
+  font-weight: none;
 }
 
 /*
@@ -39,7 +41,7 @@
   margin-bottom: 10px;
   display: inline-block;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: none;
 }
 .pagination-active {
   color: black;

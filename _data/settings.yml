@@ -8,8 +8,9 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
-menu:
-- {name: 'ABOUT REG', folder: 'pages', file: 'about.html'}
+# Turning off menu for now
+# menu:
+# - {name: 'ABOUT REG', folder: 'pages', file: 'about.html'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

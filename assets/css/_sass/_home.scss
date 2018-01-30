@@ -1,7 +1,7 @@
 .featured-posts {
   height: 300px;
   padding: 40px;
-  margin: 20px;
+  margin: 40px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11,7 +11,6 @@
    color: white;
    font-size: 2em;
    font: $base-font-family;
-   letter-spacing: -1px;
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
    padding: 8px;

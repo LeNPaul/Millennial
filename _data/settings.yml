@@ -9,8 +9,8 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # Turning off menu for now
-# menu:
-# - {name: 'queer auntie internet adventure', folder: 'pages', file: 'about.html'}
+menu:
+- {name: 'queer auntie internet adventure', folder: 'pages', file: 'about.html'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

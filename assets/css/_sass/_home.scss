@@ -1,6 +1,5 @@
 .featured-posts {
   height: 400px;
-  margin: 20px 20px 20px;
   padding: 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -8,6 +7,9 @@
 }
 .featured-posts h5 {
    display: inline-block;
+   position: absolute;
+   bottom: 8px;
+   right: 16px;
    color: white;
    font-size: 2em;
    height: 200px;

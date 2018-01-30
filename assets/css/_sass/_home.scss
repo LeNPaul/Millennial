@@ -9,13 +9,13 @@
 .featured-posts h5 {
    display: inline-block;
    color: white;
-   font-size: 4em;
+   font-size: 2em;
+   height: 200px;
    font: $base-font-family;
    letter-spacing: -1px;
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
    padding: 10px;
-   margin-top: 300px;
 }
 .featured-posts span a {
   color: white;

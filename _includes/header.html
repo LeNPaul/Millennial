@@ -6,11 +6,14 @@
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
-
+<!-- turning off social icons for now, only have them in footer
     {% for item in site.data.settings.social %}
       <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
     {% endfor %}
+-->
   </nav>
+  
+  <!-- turning off dd menu for now
   <div class="dropdown">
     <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
     <div class="dropdown-content">
@@ -23,4 +26,5 @@
       {% endfor %}
     </div>
   </div>
+  -->
 </header>

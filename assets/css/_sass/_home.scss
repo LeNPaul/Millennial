@@ -18,7 +18,7 @@
 .post-title {
   font: $base-font-family;
   color: white;
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 400;
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
@@ -27,12 +27,12 @@
 }
 .post-cat {
   font: $base-font-family;
-  color: orange;
-  font-size: 1em;
+  color: white;
+  font-size: 2em;
   font-weight: 400;
   text-transform: uppercase;
-  background: rgb(0, 0, 0); /* fallback color */
-  background: rgba(0, 0, 0, 0.7);
+  background: #083e9a; /* fallback color */
+  background: rgba(08, 3e, 9a, 0.7);
   padding: 0px;
   margin: 0px;
 }

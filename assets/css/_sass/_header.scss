@@ -18,10 +18,20 @@
 .site-header a {
   text-decoration: none;
 }
+
 .site-title {
   font: $base-font-family;
   font-size: 3em;
   font-weight: 600;
+  line-height: 56px;
+  margin-bottom: 0;
+  text-align:center;
+}
+.header-cta {
+  font: $base-font-family;
+  font-size: 1.2em;
+  font-weight: 400;
+  text-color: #0000ff;
   line-height: 56px;
   margin-bottom: 0;
   text-align:center;

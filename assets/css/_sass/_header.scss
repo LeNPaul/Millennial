@@ -1,8 +1,8 @@
 .site-header {
   min-height: 86px;
   padding: 20px;
-  width: $header-width;
-  position: fixed;
+  width: 100%;
+  position: absolute;
   background-color: white;
   box-shadow: 0 6px 6px -6px #bbb;
 }

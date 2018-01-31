@@ -7,10 +7,10 @@ title: Home
 
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts">
+    <div class="featured-posts"
          {% if post.image.feature %}
          style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.feature }})"
-         {% endif %}
+         {% endif %}>
       <h6><span class="post-cat">{{ post.categories }}</span></h6>
       <h5><span class="post-title">{{ post.title }}</span></h5>
     </div>

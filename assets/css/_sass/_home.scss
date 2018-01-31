@@ -7,15 +7,22 @@
   background-size: cover;
 }
 .post-description-container {
-   display: inline-block;
-   color: white;
-   font-size: 2em;
-   font-weight: 400;
-   font: $base-font-family;
-   background: rgb(0, 0, 0); /* fallback color */
-   background: rgba(0, 0, 0, 0.7);
-   padding: 8px;
-   margin-top:200px;
+  display: inline-block;
+  color: white;
+  font: $base-font-family;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 8px;
+  margin-top: 120px;
+}
+.post-title h5 {
+  font-size: 2em;
+  font-weight: 400;
+}
+.post-cat h6 {
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 .featured-posts span a {
   color: white;

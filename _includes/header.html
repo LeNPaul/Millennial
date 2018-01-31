@@ -2,11 +2,11 @@
   <div class="site-title">
     <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
   </div>
-  <div class="author-subhead-container">
+
   <div class="author-subhead">
     <a href="{{ site.github.url }}/pages/about.html">by {{ site.author }}</a>
   </div>
-  </div>
+
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>

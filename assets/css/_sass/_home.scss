@@ -10,12 +10,13 @@
    display: inline-block;
    color: white;
    font-size: 2em;
+   font-weight: 400;
    font: $base-font-family;
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
    padding: 8px;
    margin-top:200px;
-   font-weight: 400;
+   text-align: right;
 }
 .featured-posts span a {
   color: white;

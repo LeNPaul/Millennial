@@ -6,7 +6,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-.featured-posts h5 {
+.post-description-container {
    display: inline-block;
    color: white;
    font-size: 2em;
@@ -16,7 +16,6 @@
    background: rgba(0, 0, 0, 0.7);
    padding: 8px;
    margin-top:200px;
-   //text-align: right;
 }
 .featured-posts span a {
   color: white;

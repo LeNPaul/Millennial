@@ -15,11 +15,6 @@
       box-shadow: 0 6px 6px -6px #bbb;
   }
 }
-.site-header a {
-  text-decoration: none;
-  color: black;
-}
-
 .site-title {
   font: $base-font-family;
   font-size: 2em;
@@ -28,19 +23,25 @@
   //margin-bottom: 0;
   text-align:center;
 }
-
+.site-title a {
+  text-decoration: none;
+  color: blue;
+}
+.site-title a:hover {
+  color: green;
+}
 .author-subhead {
   font: $base-font-family;
   font-size: 1em;
   font-weight: 400;
-  color: blue;
+  color: black;
   line-height: 26px;
   text-align:center;
   padding: 0 0 10px 0;
   text-transform: uppercase;
 }
 .author-subhead a {
-  color: blue;
+  color: black;
 }
 .author-subhead a:hover {
   color: green;

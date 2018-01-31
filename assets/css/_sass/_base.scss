@@ -59,8 +59,9 @@ p {
 */
 
 a {
-  color: $brand-color;
-
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: #3eb984;
 }
 h4 figcaption a {
   font-style: italic;

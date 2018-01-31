@@ -28,7 +28,7 @@
   //margin-bottom: 0;
   text-align:center;
 }
-.header-cta a{
+.header-cta {
   font: $base-font-family;
   font-size: 1em;
   font-weight: 400;
@@ -37,6 +37,15 @@
   text-align:center;
   //padding: 20px, 0, 0, 20px;
 }
+.header-cta a {
+  font-weight: 400;
+  color: blue;
+}
+.header-cta a:hover {
+  font-weight: 400;
+  color: green;
+}
+  
 .menu-list {
   line-height: $header-thickness;
   float: right;

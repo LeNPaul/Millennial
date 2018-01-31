@@ -28,19 +28,22 @@
   //margin-bottom: 0;
   text-align:center;
 }
-.header-cta {
+.author-subhead-container {
+  width: 420px;
+}
+.author-subhead {
   font: $base-font-family;
   font-size: 1em;
   font-weight: 400;
   color: blue;
   line-height: 26px;
-  text-align:center;
+  text-align:right;
   //padding: 20px, 0, 0, 20px;
 }
-.header-cta a {
+.author-subhead a {
   color: blue;
 }
-.header-cta a:hover {
+.author-subhead a:hover {
   color: green;
 }
   

@@ -28,10 +28,7 @@
   //margin-bottom: 0;
   text-align:center;
 }
-.author-subhead-container {
-  //margin: auto;
-  //width: 408px;
-}
+
 .author-subhead {
   font: $base-font-family;
   font-size: 1em;
@@ -39,7 +36,7 @@
   color: blue;
   line-height: 26px;
   text-align:center;
-  padding: 20px;
+  padding: 0 0 10px 0;
   text-transform: uppercase;
 }
 .author-subhead a {

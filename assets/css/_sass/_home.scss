@@ -8,7 +8,6 @@
 }
 .post-description-container {
   display: inline-block;
-  color: white;
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
   padding: 8px;
@@ -16,11 +15,13 @@
 }
 .post-title h5 {
   font: $base-font-family;
+  color: white;
   font-size: 4em;
   font-weight: 400;
 }
 .post-cat h6 {
   font: $base-font-family;
+  color: orange;
   font-size: 1em;
   font-weight: 400;
   text-transform: uppercase;

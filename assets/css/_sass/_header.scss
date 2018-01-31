@@ -17,6 +17,7 @@
 }
 .site-header a {
   text-decoration: none;
+  color: black;
 }
 
 .site-title {
@@ -27,7 +28,7 @@
   margin-bottom: 0;
   text-align:center;
 }
-.header-cta {
+.header-cta a{
   font: $base-font-family;
   font-size: 1em;
   font-weight: 400;

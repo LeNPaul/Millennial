@@ -18,6 +18,8 @@
   font-weight: 400;
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
+  padding: 0px;
+  margin: 0px;
 }
 .post-cat {
   font: $base-font-family;
@@ -27,6 +29,8 @@
   text-transform: uppercase;
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
+  padding: 0px;
+  margin: 0px;
 }
 .featured-posts span a {
   color: white;

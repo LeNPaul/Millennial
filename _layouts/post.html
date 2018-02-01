@@ -6,11 +6,11 @@ layout: default
   <span class="post-info">
    <h3>
      
-     <div class="post-cat">
+     <span class="post-cat">
       {{ page.categories }}
      </div>
     
-    <div class="post-date">
+    <span class="post-date">
     {% assign d = page.date | date: "%-d"  %}
     {{ page.date | date: "%B" }}
     {% case d %}

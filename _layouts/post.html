@@ -3,12 +3,11 @@ layout: default
 ---
 
 <div class="page-content">
-  <span class="post-info">
+  <div class="post-info">
    <h3>
-     
      <span class="post-cat">
       {{ page.categories }}
-     </div>
+     </span>
     
     <span class="post-date">
     {% assign d = page.date | date: "%-d"  %}
@@ -19,7 +18,7 @@ layout: default
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
     {{ page.date | date: "%Y" }}
-     </div>
+     </span>
      
     </h3>
   </span>

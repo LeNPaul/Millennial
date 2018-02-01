@@ -5,8 +5,12 @@ layout: default
 <div class="page-content">
   <span class="post-info">
    <h3>
-    {{ page.categories }}
-   
+     
+     <div class="post-cat">
+      {{ page.categories }}
+     </div>
+    
+    <div class="post-date">
     {% assign d = page.date | date: "%-d"  %}
     {{ page.date | date: "%B" }}
     {% case d %}
@@ -15,6 +19,8 @@ layout: default
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
     {{ page.date | date: "%Y" }}
+     </div>
+     
     </h3>
   </span>
   

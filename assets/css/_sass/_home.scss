@@ -35,7 +35,7 @@
 }
 .post-title {
   font: $base-font-family;
-  //color: black;
+  font-color: white;
   font-size: 20px;
   font-weight: 400;
   //background: rgb(0, 0, 0); /* fallback color */
@@ -59,7 +59,7 @@
 }
 
 .featured-posts h5:hover {
-  font-color: white;
+  //font-color: white;
   background-color: green;
 }
 .featured-posts h3:hover {

@@ -58,7 +58,8 @@
   line-height: 10px;
 }
 
-.featured-posts h5:hover {
+.featured-posts span h5:hover {
+  font-color: white;
   background-color: green;
 }
 .featured-posts h3:hover {

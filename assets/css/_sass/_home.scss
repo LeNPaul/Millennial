@@ -32,6 +32,17 @@
   margin: 0px;
   line-height: 20px;
 }
+.post-description {
+  font: $base-font-family;
+  color: black;
+  font-size: 10px;
+  font-weight: 400;
+  //background: rgb(0, 0, 0); /* fallback color */
+  //background: rgba(0, 0, 0, 0.7);
+  padding: 0px;
+  margin: 0px;
+  line-height: 10px;
+}
 .post-cat {
   font: $base-font-family;
   color: #ff5062;

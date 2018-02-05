@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Five Alive
+description: A kid harvests ingredients from life for a magic brew.
 author: Regina Clark
 categories: [Fiction]
 tags: [TV , Cartoons]

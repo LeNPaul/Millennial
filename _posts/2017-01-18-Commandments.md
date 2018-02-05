@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Some Commandments That Just Suddenly Appeared
+title: God’s Angry (Again)
+description: Some commandments just suddenly appeared because god owes us an upgrade.
 author: Regina Clark
 categories: [Comedy]
 tags: [Sex , Conversation]

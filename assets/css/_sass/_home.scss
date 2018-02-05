@@ -58,6 +58,12 @@
   line-height: 10px;
 }
 
+.post-title a hover {
+  color: green;
+}
+.post-description a hover {
+  background-color: green;
+}
 .featured-posts span a {
   color: white;
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: God’s Angry (Again)
-description: Some commandments just suddenly appeared because god owes us an upgrade.
+title: God’s Back (Again)
+description: Always got something to say. This new divine law appeared like poof.
 author: Regina Clark
 categories: [Comedy]
 tags: [Sex , Conversation]

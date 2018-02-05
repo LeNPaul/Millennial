@@ -1,7 +1,7 @@
 ---
 layout: post
 title: God’s Back (Again)
-description: Always got something to say.
+description: Divine law upgrade (always got something to say).
 author: Regina Clark
 categories: [Comedy]
 tags: [Sex , Conversation]

@@ -60,21 +60,29 @@
 
 .featured-posts:hover {
   //filter: grayscale(100%);
-  box-shadow: 3px 3px 3px 3px #bbb;
+  //box-shadow: 3px 3px 3px 3px #bbb;
+  outline: black solid 2px;
+  border-right: 6px solid black;
+  border-bottom: 6px solid black;
+  
 }
 .featured-posts:hover div {
   background: black;
   color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
 }
 
+/*
 .featured-posts:hover h5 {
   text-decoration: underline;
   text-decoration-color: white;
   //color: blue;
 }
 .featured-posts:hover h3 {
-  background-color: #003399;
+  //background-color: #003399;
 }
+*/
 
 
 /*

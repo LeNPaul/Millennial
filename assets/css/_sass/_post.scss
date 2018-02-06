@@ -7,7 +7,9 @@
   margin-bottom: 10px;
 }
 .page-content a {
-  border-bottom: 3px solid #3eb984;
+ text-decoration: underline;
+ text-decoration-color: #3eb984;
+  //border-bottom: 3px solid #3eb984;
 }
 .post-info {
   display: block;

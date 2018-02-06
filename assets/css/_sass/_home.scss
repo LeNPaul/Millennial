@@ -58,7 +58,7 @@
   line-height: 10px;
 }
 
-.featured-posts:hover img{
+.featured-posts:hover .background-image{
   filter:grayscale(100%);
   //box-shadow: 3px 3px 3px 3px #bbb;
 }
@@ -67,12 +67,12 @@
   color: white;
 }
 
-.featured-posts:hover h5{
+.post-description-container:hover h5{
   text-decoration: underline;
   text-decoration-color: white;
   //color: blue;
 }
-.featured-posts:hover h3{
+.post-description-container:hover h3{
   background-color: #003399;
 }
 

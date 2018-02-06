@@ -3,7 +3,7 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
-google-ID: 'UA-112060364-2'
+google-ID: 'UA-113623562-1'
 
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}

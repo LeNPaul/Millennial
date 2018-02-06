@@ -62,17 +62,17 @@
   //filter: grayscale(100%);
   box-shadow: 3px 3px 3px 3px #bbb;
 }
-.featured-posts div:hover {
+.featured-posts:hover div {
   background: black;
   color: white;
 }
 
-.featured-posts:hover h5{
+.featured-posts:hover h5 {
   text-decoration: underline;
   text-decoration-color: white;
   //color: blue;
 }
-.featured-posts:hover h3{
+.featured-posts:hover h3 {
   background-color: #003399;
 }
 

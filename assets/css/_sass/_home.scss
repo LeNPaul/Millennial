@@ -59,6 +59,7 @@
 }
 
 .featured-posts:hover {
+  filter:grayscale(100%);
   //box-shadow: 3px 3px 3px 3px #bbb;
 }
 .featured-posts div:hover {
@@ -71,7 +72,7 @@
   text-decoration-color: white;
   //color: blue;
 }
-.featured-posts h3:hover {
+.featured-posts:hover h3{
   background-color: #003399;
 }
 

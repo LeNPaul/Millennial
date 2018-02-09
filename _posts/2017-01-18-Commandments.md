@@ -1,7 +1,7 @@
 ---
 layout: post
 title: God’s Back (Again)
-description: Divine law upgrade. Always with something to say.
+description: Divine law upgrade from this one god, Rebenca.
 author: Regina Clark
 categories: [Comedy]
 tags: [Sex , Conversation]

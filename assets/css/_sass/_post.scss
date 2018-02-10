@@ -67,23 +67,26 @@
 .related ul, ol, dl {
   margin: 0px;
 }
-.related img {
-  width: 600px;
-  padding-bottom: 1rem;
-}
 .related-posts {
   padding: 10px 0px 10px;
   list-style: none;
   display: inline-block;
 }
 .related-thumbnail {
-  background-size: cover;
-	background-repeat: no-repeat;
-  float: left;
   position: relative;
   width: 600px;
   height: 200px;
   overflow: hidden;
+}
+.related img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: auto;
+  width: 600px;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
 }
 .related-title {
   float: right;

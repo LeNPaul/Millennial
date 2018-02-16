@@ -16,7 +16,7 @@ image:
 "Rebenca wants you to know that the human race will continue to be punished with another Fifty Shades book AND movie every year as long as people keep having this problem with sexual consent. But, on a positive note, Rebenca gave you four new commandments to help y’all out.”
 
 ##FIRST NEW COMMANDMENT: Thou shalt not gas light by candle light.
-<h2>When you treat a basicky hipster to a night of candle-lit wining and dining, they’ll be expecting rose petals and a day in Paris. They’ll be shocked when treated like a pet in the home of a curious toddler. But you already knew that, didn’t you? Or didn’t you? Or did you? Or, didn’t you? Or didn’t you? Or did you? Or, didn’t you? </h2>
+When you treat a basicky hipster to a night of candle-lit wining and dining, they’ll be expecting rose petals and a day in Paris. They’ll be shocked when treated like a pet in the home of a curious toddler. But you already knew that, didn’t you? Or didn’t you? Or did you? Or, didn’t you? Or didn’t you? Or did you? Or, didn’t you? 
 
 “Or didn’t you? Or did you? Or, didn’t you? That's how it is with this gaslighting malarkey. Only god knows and her name is Rebenca. It’s like you think you can hide, but then there’s a trailer for Fifty Shades before every single movie - even art movies, indy comedies, no matter the demographic. Next commandment.”
 

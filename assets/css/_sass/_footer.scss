@@ -1,23 +1,27 @@
 .footer {
-  background: white;
-  color: black;
-  text-align: center;
-  min-height: 56px;
-  line-height: 45px;
-  width: $container-width;
+  min-height: 100px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  box-shadow: 0 5px 6px -6px #bbb;
 }
-.footer a {
-  color: black;
-  padding: 0px 10px 0px;
-  text-decoration: none;
-}
+
 @media (max-width: $container-width) {
   .footer {
-    background: white;
-    color: $brand-color;
-    text-align: center;
-    min-height: 56px;
-    line-height: 45px;
+    min-height: 86px;
     width: 95vw;
+    position: fixed;
+    background-color: white;
+    box-shadow: 0 5px 6px -6px #bbb;
   }
+}
+.footer a {
+ text-decoration: none;
+ color: blue;
+}
+
+.footer a:hover {
+  color: green;
 }

@@ -238,7 +238,7 @@ This theme is completely free and open source software. You may use it however y
 
 ### Contributors
 
-* Be the first to contribute!
+* [b-morawiec](https://github.com/b-morawiec)
 
 ### Icons + Demo Images
 

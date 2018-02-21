@@ -15,6 +15,6 @@ disqus:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'commenting', link: 'https://mastodon.social/@clarkinia/'}
+- {icon: 'commenting', link: 'https://mastodon.social/@Clarkiniainia/'}
 - {icon: 'envelope', link: 'mailto:orangeowlqueen@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}

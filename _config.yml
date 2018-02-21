@@ -13,9 +13,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Regina Clark"
+title:		           "Regina Clarkinia"
 description:	       "Stories, Visuals and Ideas"
-author:              "Regina Clark"
+author:              "Regina Clarkinia"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

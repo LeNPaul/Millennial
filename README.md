@@ -240,6 +240,8 @@ This theme is completely free and open source software. You may use it however y
 
 * [b-morawiec](https://github.com/b-morawiec)
 
+* [JainVikas](https://github.com/JainVikas)
+
 ### Icons + Demo Images
 
 * [Death to Stock](https://deathtothestockphoto.com/)

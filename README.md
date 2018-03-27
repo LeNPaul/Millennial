@@ -242,6 +242,8 @@ This theme is completely free and open source software. You may use it however y
 
 * [JainVikas](https://github.com/JainVikas)
 
+* [mschaeffner](https://github.com/mschaeffner)
+
 ### Icons + Demo Images
 
 * [Death to Stock](https://deathtothestockphoto.com/)

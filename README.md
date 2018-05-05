@@ -252,9 +252,7 @@ This theme is completely free and open source software. You may use it however y
 
 ### Other
 
-* [Jekyll](https://jekyllrb.com/)
-
-* [Free Code Camp](https://www.freecodecamp.org)
+* [Jekyll](https://jekyllrb.com/
 
 * [Khan Academy](https://www.khanacademy.org/)
 

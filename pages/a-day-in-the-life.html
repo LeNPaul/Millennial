@@ -1,0 +1,23 @@
+--- 
+layout: page 
+title: A Day in the Life ... 
+---
+
+<p>This series of blogs details my life as an apprentice software engineer, the projects I've worked on as well as all the amazing
+  professional (and social) opportunities I've been lucky to have.</p>
+<p>I'll also cover why I chose not to attend full time university and followed a less traditional path instead once I left school.</p>
+{% for post in site.categories.a-day-in-the-life %}
+
+
+
+<a href="{{ site.github.url }}{{ post.url }}">
+  <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"
+    {% endif %}>
+    <h2>
+      <span>{{ post.title }}</span>
+    </h2>
+  </div>
+</a>
+
+
+{% endfor %}

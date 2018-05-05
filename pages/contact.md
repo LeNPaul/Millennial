@@ -1,6 +1,8 @@
 ---
 layout: misc
-title: Contact
+title: Contact Me
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Sarah is UK-based Software Developer and part time Computer Systems student.
+Sarah's most recent work has been focused around web development and also machine learning.
+She is contactable on <a href="http://twitter.com/@SquinnieThePooh" target="_blank">twitter</a> or via e-mail at quinn.sarah98@gmail.com.

@@ -7,4 +7,4 @@ tags: [sample]
 image: first-day-image.jpg
 ---
 
-This is a test page. You can find everything else on my <a href="http://twitter.com/@SquinnieThePooh" target="_blank">twitter</a> profile.
+I'm working on this blog right now - check back later!

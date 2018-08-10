@@ -8,6 +8,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'About us', folder: 'pages', file: 'facts.html'}
 - {name: 'Contact', folder: 'pages', file: 'resources.html'}
+- {name: 'Training', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Consulting', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Blog', folder: 'pages', file: 'sample-posts.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

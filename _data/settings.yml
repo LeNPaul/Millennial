@@ -1,4 +1,4 @@
-# Change to true for Disqus comments
+# Change 'comments' to true for Disqus comments
 disqus:
   comments: false
   disqus_shortname: 'millennial-3'

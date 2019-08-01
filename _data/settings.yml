@@ -4,14 +4,15 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ''
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Voyages', folder: 'pages', file: 'voyages.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
+#- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
+#- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

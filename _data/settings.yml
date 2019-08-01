@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Voyages', folder: 'pages', file: 'voyages.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'À propos', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 #- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
 #- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}

@@ -1,0 +1,524 @@
+
+version 1.7.45
+
+-bug fix: fixed fullscreen button on webkit with touch events
+
+version 1.7.44
+
+-bug fix: fixed text panel size when the gallery is hidden
+
+version 1.7.43
+
+-bug fix: fixed tiles type resize after 10 seconds
+
+version 1.7.42
+
+-feature: added load more functionality support
+
+version 1.7.41
+
+-bug fix: fixed issue for small screen galleries
+
+version 1.7.40
+
+-bug fix: fixed some ratio related js issue
+
+version 1.7.39
+
+-bug fix: fixed easing functions jquery 3.0 compatability
+
+version 1.7.38
+
+-bug fix: fixed some js error in case of iframes in the page
+
+version 1.7.37
+
+-bug fix: fixed the thumb image as big image bug
+
+version 1.7.36
+
+-protection: made some protection against video visibility:hidden
+-protection: added some protection against js scripts that add additional items inside the gallery
+-change: add a check if the gallery resized once in 2 seconds
+
+version 1.7.35
+
+-bug fix: fixed some errors related to jquery 3.0
+
+version 1.7.34
+
+-bug fix: the lightbox was switched to wide even on normal screens
+
+version 1.7.33
+
+-bug fix: fixed no thumb image bug
+
+version 1.7.32
+
+-bug fix: fixed left arrow inside arrows not in place bug
+
+version 1.7.31
+
+-bug fix: on keyboard event only first gallery affected
+
+version 1.7.30
+
+-bug fix: made option for removing "src" from the image and replace it by data-image=""
+
+version 1.7.29
+
+-bug fix: fixed slash in paths issues
+
+version 1.7.28
+
+-feature: updated tiles grid with options: grid_min_cols, grid_space_between_mobile for better responsiveness
+-protection: added protection for margin and padding in the slider
+
+version 1.7.27
+
+-feature: added "open_lightbox" and "close_lightbox" to the API
+
+version 1.7.26
+
+-feature: added option for: data-thumb-mobile and data-image-mobile in the items for mobile urls
+
+version 1.7.25
+
+-bug fix: fixed lightbox compact bottom text issue
+-bug fix: loading youtube API only from https
+-protection: added protection to html5 video player for css size change
+
+version 1.7.24
+
+-bug fix: escaped "'" character in image url's
+
+version 1.7.23
+
+-feature: added theme_next_video_onend function in video gallery theme
+
+-bug fix: fixed the api events issue on tab change
+-bug fix: fixed option: theme_text_type in default theme
+
+version 1.7.22
+
+-bug fix: fixed bug related to video sizes in lightbox
+-bug fix: fixed bug when right button was disabled on non fixed thumbs
+
+version 1.7.21
+
+-bug fix: fixed one row only bug in tiles grid
+
+version 1.7.20
+
+-bug fix: fixed youtube player destroy function, was a bug there
+
+version 1.7.19
+
+change: changed functionality to: tile_videoplay_icon_always_on
+
+version 1.7.18
+
+-bug fix: fixed various bugs from 17.7.17
+
+version 1.7.17
+
+-bug fix: fixed jquery 1.8 issue with fading.
+-bug fix: fixed icon always on issue
+
+version 1.7.16
+
+-bug fix: fixed image border issue.
+
+version 1.7.15
+
+-bug fix: fixed tiles grid small issue with rtl
+
+version 1.7.14
+
+-bug fix: fixed nested type arrange on first load for mobile mode
+
+version 1.7.13
+
+-bug fix: fixed small js bug, about html variable
+-bug fix: added better protection against unwanted css transitions
+-bug fix: fixed vimeo didn't changed bug (vimeo removed the quick change video option)
+
+version 1.7.12
+
+-change: added line height to video title
+-bug fix: bring back the fixed tiles_max_columns function
+
+version 1.7.11
+
+-bog fix: improved lightbox wide video player
+
+version 1.7.10
+
+-change: added theme_align option to tiles grid
+
+version 1.7.9
+
+-bug fix: fixed some preloader error with tabs
+-bug fix: fixed tilegrid resize issues
+
+version 1.7.8
+
+-made some small js changes
+
+version 1.7.7
+
+-added support for image src as full image, and data-thumb as thumb
+
+version 1.7.7
+
+-bug fix: fixed direction arrows slide direction
+-bug fix: fixed titles with html tags
+
+version 1.7.6
+
+-feature: added tile text panel description
+-protection: added protection against width:100% css
+
+version 1.7.5
+
+-feature: added tile text panel top/bottom/middle positions (text outside image)
+-bug fix: fixed ie11 fullscreen mode
+
+version 1.7.4
+
+-bug fix: fixed left / right buttons on input objects
+
+version 1.7.3
+
+-feature: added category tab select type
+-bug fix: fixed video player misplaced on gallery resize
+
+version 1.7.2
+
+-protection: added protection agains lasy load
+
+version 1.7.1
+
+-feature: added "open lightbox at start" option for tiles theme
+
+version 1.7
+
+-feature: added "tiles - nested" gallery type
+-feature: added API functions to carousel type
+
+version 1.6.8
+
+-addition: added protection against undefined big images url's for the slider.
+-change: changed mediaelement to new version
+-bug fix: added z-index:0 to the gallery to avoid menu over the gallery
+
+version 1.6.7
+
+-change: changed files order include
+-change: improved error message on some cases
+
+version 1.6.6
+
+-bug fix: fixed min jquery version checking. 
+
+version 1.6.5
+
+-feature: added minimal version jquery validation
+-bug fix: fixed tiles text panel appear
+
+
+version 1.6.4
+
+-feature: keep order option in tiles columns
+-bug fix: text panel was blined on tiles resize
+
+version 1.6.3
+
+-bug fix: fixed text panel always on on tiles types
+
+version 1.6.2
+
+-bug fix: text panel was not hided on some of the cases
+-chagne: improved show/hide controls display
+
+version 1.6.1
+
+bug fix: fixed a small bug with tiles image effect
+
+version 1.6
+
+-feature: changed tiles view - make variable number of columns
+-change: improvement transition movement of tiles and justified types
+
+version 1.5.9
+
+-feature: added option thumb_fixed_size that alow to run dynamic size strips.
+
+version 1.5.8
+
+-bug fix: the video player stayed on compact mode on slide change
+
+version 1.5.7
+
+-feature: added option: tiles_align for columns type
+-change: changed default lightbox transition to "fade" 
+
+version 1.5.6
+
+-bug fix: add "ug-rtl" style
+-feature: added option: tile_videoplay_icon_always_on in tile design section
+
+version 1.5.5
+
+-bug fix: fixed size bugs in justified type
+
+version 1.5.4
+
+-bug fix: fixed video gallery with tabs
+
+version 1.5.3
+
+-feature: added "destroy function to API"
+-bug fix: fixed destroy function
+
+version 1.5.2
+
+-bug fix: added remove html function to lightbox
+-bug fix: fixed some ie8 related issues
+-bug fix: disabled scrolling on lightbox with mousewheel: none
+
+version 1.5.1
+
+-bog fix: fixed theme default options (like autoplay=true) that was brocken in the last update
+
+version 1.5
+
+-feature: added "category tabs" support
+
+version 1.4.6
+
+-bug fix: fixed js error on carousel without navigation
+
+version 1.4.5
+
+- change: added support for "title" attribute as item description
+
+version 1.4.4
+
+-feature: enable slider area links
+-bug fix: on playing mode slides was advanced even when images was not loaded
+-bug fix: fixed mousewheel advance item on lightbox
+
+version 1.4.3
+
+-bug fix: gallery on hidden tab was dissapeared on fullscreen
+
+version 1.4.2
+
+-feature: added option gallery_shuffle
+-bug fix: bullets miss position after back from full screen
+
+version 1.4.1
+
+-bug fix: fixed some bug in justified tiles view in mobile width
+-bug fix: fixed issue with video size at tabs
+
+version 1.4
+
+-bug fix: add preloader to video player
+-change: video in lightbox compact mode opens in frame instead of on full screen
+
+version 1.3.9
+
+-feature: added option: slider_background_opacity
+-feature: added option: gallery_mousewheel_role
+-feature: added scale mode: fitdown
+-feature: added vertical page scroll on drag 
+
+-change: when go to full screen mode, disable the pause on mouseover mode
+-bug fix: carousel tile was dissapeared when size change less then tile width
+
+version 1.3.8
+
+-bug fix: fixed carousel related bug that text panel was over the icons
+
+version 1.3.7
+
+-bug fix: fixed carousel text panel didn't appeared on cloned items
+
+version 1.3.6
+
+-bug fix: fixed bug when closing the lightbox
+
+version 1.3.5
+
+-bug fix: the lightbox was closing on video slider touch
+
+version 1.3.4
+
+-feature: added mobile hide options to slider buttons and zoom panel
+
+version 1.3.3
+
+-feature: added top position navigation option in carousel view
+
+version 1.3.2
+
+-bug fix: fixed the flickering when close compact lightbox with view playing.
+-bug fix: fixed bug with text panel not always on on themes.
+
+version 1.3.1
+
+-bug fix: text panel was not show on carousel cloned items
+-bug fix: fixed issue with one item only on carousel
+
+version 1.3
+
+-feature: added "compact" lightbox type
+
+version 1.2.16
+
+-bug fix: fixed the responsivness of regular themes.
+
+version 1.2.15
+
+-bug fix: fixed hide preloader on tiles theme
+-bug fix: fixed empty image was trying to load
+
+version 1.2.14
+
+-feature: added lightbox close on escape key
+
+version 1.2.13
+
+-bug fix: make all the themes work within tabs
+
+version 1.2.12
+
+-bug fix: make the gallery to work within tabs
+
+version 1.2.11
+
+-bug fix: added clickable function for carousel and tiles grid mode for mobile and tablet
+
+version 1.2.10
+
+-bug fix: adopted tiles clickable functions for mobile and tablet
+
+version 1.2.9
+
+-bug fix: fixed text align in lightbox
+
+version 1.2.8
+
+-feature: added tiles text panel text source, title or description
+
+version 1.2.7
+
+-feature: added disable lightbox option (tile_enable_action).
+
+version 1.2.6
+
+-bug fix: fixed some bug with lightbox text cut off
+
+version 1.2.5
+
+-change: added css protection against unwanted css transitions
+
+version 1.2.4
+
+- bug fix: fixed destorted images on some of the themes like avada
+
+version 1.2.3
+
+-feature: added lightbox additional options including lightbox slider options
+
+version 1.2.2
+
+-bug fix: fixed lightbox textpanel positioning on mobile
+
+version 1.2.1
+
+-bug fix: fixed tiles type total height
+-bug fix: adopted the tiles galleries for touch
+-bug fix: fixed lightbox positioning when back from drag
+-bug fix: fixed tiles youtube play issues
+
+version 1.2
+
+-added theme: tiles (columns,justified) 
+-added theme: tilesgrid
+-added theme: carousel
+
+-option add: added grid option: grid_padding.
+-option add: added textpanel options: textpanel_fontfamily, etc.
+-option add: added option: slider_background_color
+-option add: added option: bullets_space_between to bullets object (for tiles types)
+-option add: added option: tiles_height, tiles_width for tiles fixed type
+-option add: added youtube video options: video_youtube_showinfo,
+
+-change:  removed background color from the gallery wrapper
+-change:  changed gallery min height and min width options to fit into mobile devices.
+
+-bug fix: fixed video gallery autoplay for vimeo video
+-bug fix: fixed video gallery description size
+-bug fix: fixed keyboard navigation in google chrome
+-bug fix: fixed bullets left margin on first item
+
+
+version (1.1.2015) 1.1.6
+
+- bug fix: fixed video gallery title and description skin mobile view
+
+version (13.12.2014) 1.1.5
+
+- feature: added bottom buttons for video gallery
+- feature: added ugCheckForErrors function for error message output
+
+version (2.12.2014) 1.1.4
+
+- bug fix: fixed multiple video galleries on one page
+
+version (2.12.2014) 1.1.3
+
+- added video gallery theme
+- added option to disble panel at start for some seconds
+- bug fix: fixed small bug with youtube playback
+
+version (29.11.2014) 1.1.2
+
+- bug fix: when controls not alwqays on, don't show progress bar
+- bug fix: fixed fullscreen on ie11
+
+version 1.1.1
+
+-feature: added option: slider_videoplay_button_type. slider video play button type, square or round
+
+version 1.1 (20.10.2014)
+
+-feature: add grid bottom and grid top types
+-feature: added media players for youtube, vimeo, html5 video, soundcloud, wistia
+-feature: get automatically youtube images and thumbs by id
+-feature: added option: slider_zoom_max_ratio for limit the zooming
+-feature: added option: slider_scale_mode_media - saparate scale mode option for slider media item
+
+-bug fix: fixed first image was not loaded sometimes.
+
+version 1.0.3
+
+-feature: add grid bottom and grid top types
+
+version 1.0.2
+
+-bug fix: fixed avia strip navigation.
+
+version 1.0.1
+
+- bug fix: removed max-width:100% from the images
+- bug fix: added strip arrows to alexis theme
+- change: set option "debug errors" to false
+- bug fix: added transition setting to strip scroll, was hard coded.
+- bug fix: fixed small bug in compact theme related to galllery resize
+- bug fix: fixed compatability with other draggable components
+
+version 1.0 - first release

@@ -13,6 +13,12 @@ sass:
   sass_dir: assets/css
   style: :nested
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "La licorne verte"
 description:	       "Le blog de voyage de l'incroyable licorne verte"

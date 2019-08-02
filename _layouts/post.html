@@ -3,72 +3,93 @@ layout: default
 ---
 
 <div class="page-content">
-  <h1>
-    {{ page.title }}
-  </h1>
+    <h1>
+	{{ page.title }}
+    </h1>
 
-  <span class="post-date">
-      {{ site.data.settings.post_date_prefix }}
-      {% assign dy = page.date | date: "%a" %}{% case dy %}{% when "Mon" %}lundi{% when "Tue" %}mardi{% when "Wed" %}mercredi{% when "Thu" %}jeudi{% when "Fri" %}vendredi{% when "Sat" %}samedi{% when "Sun" %}dimanche{% else %}{{ dy }}{% endcase %} {% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' %}{{ d }}er{% else %}{{ d }}{% endcase %} {% assign m = page.date | date: "%-m" %}{% case m %}{% when '1' %}janvier{% when '2' %}février{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}août{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}novembre{% when '12' %}décembre{% endcase %} {{ page.date | date: '%Y' }}
-    par
-    {% if page.author %}
-      {{ page.author }}
-    {% else %}
-      {{ site.author }}
-    {% endif %}
-  </span>
+    <span class="post-date">
+	{{ site.data.settings.post_date_prefix }}
+	{% assign dy = page.date | date: "%a" %}{% case dy %}{% when "Mon" %}lundi{% when "Tue" %}mardi{% when "Wed" %}mercredi{% when "Thu" %}jeudi{% when "Fri" %}vendredi{% when "Sat" %}samedi{% when "Sun" %}dimanche{% else %}{{ dy }}{% endcase %} {% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' %}{{ d }}er{% else %}{{ d }}{% endcase %} {% assign m = page.date | date: "%-m" %}{% case m %}{% when '1' %}janvier{% when '2' %}février{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}août{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}novembre{% when '12' %}décembre{% endcase %} {{ page.date | date: '%Y' }}
+	par
+	{% if page.author %}
+	{{ page.author }}
+	{% else %}
+	{{ site.author }}
+	{% endif %}
+    </span>
 
-  {% if page.image %}
+    {% if page.image %}
     <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+	<img src="{{ site.github.url }}/assets/img/{{ page.image }}">
     </div>
-  {% endif %}
+    {% endif %}
 
-  <article>
-    {{ content }}
-  </article>
+    <article>
+	{{ content }}
+    </article>
 
-  <div class="post-share">
-    <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
-    <div class="sharing-icons">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-      <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+    {% if page.gallery %}
+    <div id="gallery" style="display:none;">
+	{% assign imageFiles = site.static_files | where: "image", true %}
+	{% assign imageFilter = 'img/' | append: page.gallery | append: '/' %}
+	{% for image in imageFiles %}
+	{% if image.path contains imageFilter %}
+	{% assign desc = image.basename | replace: "_", " " | capitalize %}
+	<img alt='{{desc}}' src="{{ site.baseurl }}{{ image.path }}"
+	     data-image="{{ site.baseurl }}{{ image.path }}"
+	     data-description="{{desc}}">
+	{% endif %}
+	{% endfor %}
     </div>
-  </div>
+    {% endif %}
+    
+    <div class="post-share">
+	<div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
+	<div class="sharing-icons">
+	    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+	    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+	    <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+	</div>
+    </div>
 
-  <div class="related">
-    <h2>{{ site.data.settings.related_posts }}</h2>
-    {% assign listed_posts_urls = page.url | split: ' ' %}
-    <ul class="related-posts">
-      {% for tag in page.tags %}
-        {% for mypost in site.tags[tag] limit:2 %}
-          {% if listed_posts_urls contains mypost.url %}
-          {% else %}
+    <div class="related">
+	<h2>{{ site.data.settings.related_posts }}</h2>
+	{% assign listed_posts_urls = page.url | split: ' ' %}
+	<ul class="related-posts">
+	    {% for tag in page.tags %}
+            {% for mypost in site.tags[tag] limit:2 %}
+            {% if listed_posts_urls contains mypost.url %}
+            {% else %}
             <li>
-              <h3>
-                <a href="{{ site.github.url }}{{ mypost.url }}">
-                  <div class="related-thumbnail">
-                    {% if mypost.image %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
-                    {% endif %}
-                  </div>
-                  <div class="related-title">
-                    {{ mypost.title }}
-                  </div>
-                  <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
-                </a>
-              </h3>
+		<h3>
+                    <a href="{{ site.github.url }}{{ mypost.url }}">
+			<div class="related-thumbnail">
+			    {% if mypost.image %}
+			    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
+			    {% endif %}
+			</div>
+			<div class="related-title">
+			    {{ mypost.title }}
+			</div>
+			<!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
+                    </a>
+		</h3>
             </li>
             {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    </ul>
-  </div>
-
-  {% if site.data.settings.disqus.comments %}
+            {% endif %}
+            {% endfor %}
+	    {% endfor %}
+	</ul>
+    </div>
+    <script type="text/javascript"> 
+     
+     jQuery(document).ready(function(){ 
+	 jQuery("#gallery").unitegallery(); 
+     }); 
+     
+    </script>
+    {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
-  {% endif %}
+    {% endif %}
 
 </div>

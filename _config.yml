@@ -22,7 +22,7 @@ defaults:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "La licorne verte"
 description:	       "Le blog de voyage de l'incroyable licorne verte"
-author:              "La licorne verte"
+author:              "Gustave"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

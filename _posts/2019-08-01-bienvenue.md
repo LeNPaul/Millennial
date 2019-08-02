@@ -5,6 +5,7 @@ author: "La licorne verte"
 categories: voyages
 tags: [voyages]
 image: bienvenue.jpg
+folder: bienvenue
 ---
 
 # Bienvenue

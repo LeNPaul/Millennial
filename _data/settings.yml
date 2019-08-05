@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: ''
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-124113843-3'
 
 menu:
 - {name: 'Archives', folder: 'pages', file: 'facts.html'}

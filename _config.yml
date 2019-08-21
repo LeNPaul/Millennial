@@ -1,4 +1,8 @@
 # Site Build Settings
+url: "kawaiiloser.github.io"
+baseurl: "/home/"
+title: Kawaiilos3r
+
 
 # jekyll-paginate configuration
 paginate:            5

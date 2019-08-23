@@ -1,5 +1,5 @@
 .page-content {
-  width: 600px;
+  width: 750px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -16,7 +16,7 @@
   align: middle;
   margin: 5px auto 25px;
   display: block;
-  max-width: 600px;
+  max-width: 750px;
 }
 @media (max-width: $container-width) {
   .page-content {
@@ -74,7 +74,7 @@
 }
 .related-thumbnail {
   position: relative;
-  width: 600px;
+  width: 750px;
   height: 200px;
   overflow: hidden;
 }
@@ -83,7 +83,7 @@
   left: 50%;
   top: 50%;
   height: auto;
-  width: 600px;
+  width: 750px;
   -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
           transform: translate(-50%,-50%);

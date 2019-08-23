@@ -57,6 +57,8 @@ p {
   line-height: 1.65;
   font-family: $body-font-family;
   font-size: 125%;
+  font-weight: 550;
+  
 }
 
 /* Lists */
@@ -65,6 +67,7 @@ ul, ol, dl {
   margin-bottom: 1rem;
   margin-left: 1.5rem;
   font-family: $body-font-family;
+  font-size: 100%;
 }
 
 ol li {

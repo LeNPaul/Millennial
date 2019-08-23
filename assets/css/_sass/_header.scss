@@ -3,7 +3,7 @@
   width: $container-width;
   position: fixed;
   background-color: white;
-  box-shadow: 0 5px 6px -6px #bbb;
+  box-shadow: 0 5px 6px -6px #2e3532;
   z-index: 100;
 }
 @media (max-width: $container-width) {
@@ -12,7 +12,7 @@
       width: 95vw;
       position: fixed;
       background-color: white;
-      box-shadow: 0 5px 6px -6px #bbb;
+      box-shadow: 0 5px 6px -6px #2e3532;
       z-index: 100;
   }
 }
@@ -20,9 +20,9 @@
   text-decoration: none;
 }
 .site-title {
-  font-size: 26px;
+  font-size: 46px;
   font-weight: 400;
-  line-height: 56px;
+  line-height: 84px;
   margin-bottom: 0;
   margin-top: 0;
   padding-left: 10px;

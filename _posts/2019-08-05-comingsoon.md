@@ -60,4 +60,6 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 
 50 Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!” 51 He said to him, 
 >“Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.” 
+
+
 [^1]: This is just a sample footnote for style purposes

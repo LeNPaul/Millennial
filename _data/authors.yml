@@ -1,9 +1,15 @@
 Abe:
+    name: Abe Peters
+    email: abraham.peters@outlook.com
+    bio: bio goes here
+    image: abe.png
+
+Abedf:
   name:           "Abe Peters"
-  site:           "https://abepeters.com"
+  site:           https://abepeters.com
   avatar:         "abe.png"
-  bio:            "Sans Dieu Rien"
-  email:          "abraham.peters@outlook.com"
+  bio:            Sans Dieu Rien
+  email:          abraham.peters@outlook.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.

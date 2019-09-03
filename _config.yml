@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Graphite"
 description:	       "A Christian Press"
-author:              "Dan, Abe & Sam Peters"
+author:              "Abe Peters"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

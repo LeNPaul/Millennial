@@ -34,7 +34,9 @@ layout: default
   <article>
     {{ content }}
   </article>
-
+  {% if author.bio %}
+  {% include author_bio.html %}
+  {% endif %}
   <div class="post-share">
     <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
     <div class="sharing-icons">

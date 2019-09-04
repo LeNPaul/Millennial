@@ -1,8 +1,10 @@
+
 {% assign author = site[page.author] %}
 {% if author %}
   <span>
     <img src="/assets/img/{{ author.image }}" class="author-img" width="140" height="140" align="right" >
-    {{author.bio}}
+    <h5 style="text-align:left" align="right">{{author.bio}}</h5>
+    
   </span>
 {% else %}
   <span>

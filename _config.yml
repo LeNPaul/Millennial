@@ -23,7 +23,7 @@ author:              "Abe Peters"
 #  path: rss-feed.xml
 
 Abe:
-    name: Abe Peters
-    email: abraham.peters@outlook.com
-    bio: "Abe Peters is a minister working with the [Dade City Church of Christ](dadecitychurchofchrist.com)"
-    image: abe.png
+  name: "Abe Peters"
+  email: "abraham.peters@outlook.com"
+  bio: "Abe Peters is a minister working with the Dade City Church of Christ"
+  image: "abe.png"

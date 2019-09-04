@@ -27,3 +27,15 @@ Abe:
   email: "abraham.peters@outlook.com"
   bio: "Abe Peters is a minister working with the Dade City Church of Christ"
   image: "abe.png"
+
+Dan:
+  name: "Dan Peters"
+  email: "abraham.peters@outlook.com"
+  bio: "Dan Peters is a minister working with the North Courtney Church of Christ"
+  image: "dan.png"
+
+Sam:
+  name: "Sam Peters"
+  email: "abraham.peters@outlook.com"
+  bio: "Sam Peters is a minister working with the Rienzi Church of Christ"
+  image: "sam.png"  

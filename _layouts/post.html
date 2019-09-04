@@ -25,19 +25,22 @@ layout: default
     {% endif %}
   </span>
 
-  {% if page.image %}
-    <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-    </div>
-  {% endif %}
 
   <article>
     {{ content }}
   </article>
-  {% if page.author %}
-  {% include author_bio.html %}
-  {% endif %}
-  
+  {% include author.html %}
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Personal Info. -->
+        Written by <a href="{{ author.web }}">{{ author.name }}</a>
+    </span>
+{% endif %}
+
   <div class="post-share">
     <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
     <div class="sharing-icons">

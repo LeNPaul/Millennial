@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Profile page for {{ page.name }}</h1>
+<p>{{ page.bio }}</p>
+
+<h2>Post by this author</h2>
+{%- assign author_posts = site.posts
+  | where: "author", page.name
+-%}
+{%- for post in author_posts -%}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{%- endfor -%}

@@ -7,7 +7,7 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag,'jekyll/scholar]
 
 sass:
   sass_dir: assets/css
@@ -22,6 +22,9 @@ author:              "Dan, Abe, and Sam Peters"
 #feed:
 #  path: rss-feed.xml
 
+scholar:
+  style: mla
+  
 Abe:
   name: "Abe Peters"
   email: "abraham.peters@outlook.com"
@@ -31,7 +34,7 @@ Abe:
 Dan:
   name: "Dan Peters"
   email: "abraham.peters@outlook.com"
-  bio: "Dan Peters is a minister working with the North Courtney Church of Christ"
+  bio: "Dan Peters is a minister working with the North Courtenay Church of Christ"
   image: "dan.png"
 
 Sam:

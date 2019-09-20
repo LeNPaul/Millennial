@@ -8,9 +8,9 @@ google-ID: 'UA-124113843-3'
 
 menu:
 - {name: 'Archives', folder: 'pages', file: 'archives'}
-- {name: 'Resources', folder: 'pages', file: 'resources.html'}
+- {name: 'Subscribe', folder: 'pages', file: 'subscribe.html'}
 - {name: 'About', folder: 'pages', file: 'documentation.html'}
-- {name: 'Subscribe', folder: 'pages', file: 'contact.html'}
+- {name: 'Resources', folder: 'pages', file: 'Resources.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

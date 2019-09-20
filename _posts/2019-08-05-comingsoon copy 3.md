@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Sam Test"
-author: Sam
+title: "Coming Soon 1"
+author: Abe
 categories: post
 tags: [sample]
 image: img1.jpg

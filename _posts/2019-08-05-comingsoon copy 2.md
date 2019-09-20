@@ -2,7 +2,7 @@
 layout: post
 title: "Dan Test"
 author: Dan
-categories: announcement
+categories: post
 tags: [sample]
 image: img1.jpg
 ---

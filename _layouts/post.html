@@ -24,14 +24,20 @@ layout: default
       {{ site.author }}
     {% endif %}
   </span>
-
-
+<p>
+  <!-- I added this -->
+  {% assign author = site.authors | where: 'title', page.author | first %}
+  {% if author %}
+    <a href="{{ author.url }}">{{ author.title }}</a>
+  {% endif %}
+  
+</p>
   <article>
     {{ content }}
   </article>
   <hr>
   <br>
-  {% include author.html %}
+  {% include authorcopy.html %}
 <!-- Look the author details up from the site config. -->
 {% assign author = site.data.authors[page.author] %}
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Coming Soon"
 author: Abe
-categories: announcement
+categories: post
 tags: [sample]
 image: img1.jpg
 ---

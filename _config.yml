@@ -23,22 +23,24 @@ author:              "Dan, Abe, and Sam Peters"
 #  path: rss-feed.xml
 
 scholar:
-  style: mla
-  
-Abe:
-  name: "Abe Peters"
-  email: "abraham.peters@outlook.com"
-  bio: "Abe Peters is a minister working with the Dade City Church of Christ"
-  image: "abe.png"
+  style: chicago-fullnote 
 
-Dan:
-  name: "Dan Peters"
-  email: "abraham.peters@outlook.com"
-  bio: "Dan Peters is a minister working with the North Courtenay Church of Christ"
-  image: "dan.png"
+collections:
+  authors:
+    output: true
 
-Sam:
-  name: "Sam Peters"
-  email: "abraham.peters@outlook.com"
-  bio: "Sam Peters is a minister working with the Rienzi Church of Christ"
-  image: "sam.png"  
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

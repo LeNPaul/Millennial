@@ -11,7 +11,7 @@ This is dumy text
 Why does the Lord supper bother us? Whenever I see a man get up here and
 lead the Lord supper, he may often make a comment like, "Let\'s make
 sure we don\'t just go through the motions with this act. Let\'s make
-sure we really think about what we\'re doing."
+sure we really think about what we\'re doing."[^1]
 
 Why would you say this? Why do we feel the need to make sure we don\'t
 just go through the motions so often? In some sense, it\'s almost as if
@@ -60,15 +60,11 @@ examine 8 terms to describe the lord\'s supper. Will spend more time on
 some but focusing on each of these helps us see the Lord supper as a
 whole.
 
-## Lord's Supper (1 Cor. 11:20)
-
 The first term of course is in fact **Lord Supper**. This is the term we
 most often to describe this event. We get this term from 1st Corinthians
 11: 20, where Paul says,
 
-> **1 Corinthians 11:20**
->
-> 20 When you come together, it is not the **Lord's supper** that you
+> When you come together, it is not the **Lord's supper** that you
 > eat.
 
 As Paul helps the Corinthians understand their abuses of this supper he
@@ -83,8 +79,6 @@ literally cup. But this reflects a deeper reality. When we eat this
 bread and drink this cup, we gain spiritual nourishment. Do not partake
 of the Lord supper appropriately leaves us weak and sick as Paul points
 out v30.
-
-## Eucharist (Mt 26.27; Mk. 14.23; Lk 22.17; 1 Cor 11.24)
 
 The next term is when we hardly use, but it was the most common term
 used by the early church. It is the term **Eucharist**. Now, I know many
@@ -112,18 +106,14 @@ or they gift his son for our Salvation. In America, we celebrate the
 holiday Thanksgiving in November. But in Christianity, we celebrate
 Thanksgiving, or the Eucharist every week together.
 
-## Communion (1 Cor 10.16-17)
-
 The next term will look at is the term **communion**. This comes from
 1st Corinthians 10:16-17
 
-> **1 Corinthians 10:16--17 (ESV) **
->
-> **16** The cup of blessing that we bless, is it not a participation in
+> **1 Corinthians 10:16--17**
+> The cup of blessing that we bless, is it not a participation in
 > the blood of Christ? The bread that we break, is it not a
 > **participation** in the body of Christ?
->
-> **17** Because there is one bread, we who are many are one body, for
+> Because there is one bread, we who are many are one body, for
 > we all partake of the one bread.
 
 The ESV does not use the word **communion** here, but **participation**.
@@ -138,9 +128,8 @@ with supernatural beings, demons. And one of the issues the Corinthians
 had was this very thing. They tried to commune with both the Lord and
 demons. Look at 1 Cor. 10:22
 
-> **1 Corinthians 10:21 (ESV) **
->
-> **21** You cannot drink the cup of the Lord and the cup of demons. You
+> **1 Corinthians 10:21**
+> You cannot drink the cup of the Lord and the cup of demons. You
 > cannot partake of the table of the Lord and the table of demons.
 
 We forsake our allegiance to any other being in the universe to solely
@@ -149,8 +138,6 @@ the disciples , "and lo, I\'m with you always, even to the end of the
 age." Do not miss the fact that Jesus is here with us right now. He\'s
 not only watching us partake of his supper, but also he is looking at
 our hearts.
-
-## Breaking Bread (Acts 2.42; 20.7, 11; 27.35)
 
 The next term is a difficult one because it can be used in more than one
 way. **Breaking bread** can either mean simply sharing a meal, or more
@@ -161,8 +148,7 @@ Luke will use this term often throughout the book of acts. In Acts 20:7,
 we find the early Christians meeting on the first day of the week to
 break bread.
 
-> **Acts 20:7 (ESV) **
->
+> **Acts 20:7**
 > **7** On the first day of the week, when we were gathered together to
 > break bread, Paul talked with them, intending to depart on the next
 > day, and he prolonged his speech until midnight.
@@ -170,17 +156,14 @@ break bread.
 Here the language of the assembly is used, "we were gathered together".
 That is the same language in 1^st^ Corinthians 11:17.
 
-> **1 Corinthians 11:17 (ESV) **
->
-> **17** But in the following instructions I do not commend you, because
+> **1 Corinthians 11:17**
+> But in the following instructions I do not commend you, because
 > when you come together it is not for the better but for the worse.
-
-## Memorial (1 Cor. 11.24, 26)
 
 The next term is memorial. We get this from first Corinthians 11:24, 26
 
-> **1 Corinthians 11:24, 26 (ESV) **
-> **24** and when he had given thanks, he broke it, and said, "This is
+> **1 Corinthians 11:24, 26 **
+> and when he had given thanks, he broke it, and said, "This is
 > my body, which is for you. Do this **in remembrance** of me."
 
 "In remembrance" is a noun. An alternative translation would be, do this
@@ -194,12 +177,10 @@ the Lord supper on Sunday, the day the Lord came back from the dead. The
 day we celebrate shows us we remember not just his death but really his
 resurrection.
 
-## Covenant Meal (1 Cor 10.21)
-
 In first Corinthians 10 21, we find this is a covenant meal.
 
 > **1 Corinthians 10:21 (ESV) **
-> 21. You cannot drink the cup of the Lord and the cup of demons. You
+> You cannot drink the cup of the Lord and the cup of demons. You
 > cannot partake of the table of the Lord and the table of demons.
 
 This side the being at the table of the Lord brings us back to exit 24 ,
@@ -209,10 +190,10 @@ and eat with God. Let\'s read that Exodus 24:7-11.
 > **Exodus 24:7--11 (ESV) **
 >
 > 7. Then he took the Book of the Covenant and read it in the hearing of
-> the people. And they said, "All that the [Lord]{.smallcaps} has spoken
+> the people. And they said, "All that the Lord has spoken
 > we will do, and we will be obedient."
 > 8. And Moses took the blood and threw it on the people and said,
-> "Behold the blood of the covenant that the [Lord]{.smallcaps} has made
+> "Behold the blood of the covenant that the Lord has made
 > with you in accordance with all these words."
 > 9. Then Moses and Aaron, Nadab, and Abihu, and seventy of the elders of
 > Israel went up,
@@ -228,20 +209,15 @@ others did.
 
 And one day, we look forward to that day when we see him.
 
-## Sacrifice (Mt. 26.25; Isa 53.12)
-
-> **Matthew 26:28 (ESV) **
+> **Matthew 26:28**
 >
 > 28 for this is my blood of the covenant, which is poured out for many
 > for the forgiveness of sins.
 
 Jesus' blood was for our sins. He is able to forgive them.
 
-## Feast (1 Cor. 5.8)
-
-> **1 Corinthians 5:8 (ESV) **
->
-> **8** Let us therefore celebrate the festival, not with the old
+> **1 Corinthians 5:8**
+> Let us therefore celebrate the festival, not with the old
 > leaven, the leaven of malice and evil, but with the unleavened bread
 > of sincerity and truth.
 
@@ -250,16 +226,13 @@ Lord supper, this is why. Paul refers to the unleavened bread of this
 Lord supper.
 
 # Understanding by the act (External)
-
 When we come to the Table, we bless the bread and cup. Look at the words
 of Paul.
 
-> **1 Timothy 4:4--5 (ESV) **
->
-> **4** For everything created by God is good, and nothing is to be
+> **1 Timothy 4:4-5**
+> For everything created by God is good, and nothing is to be
 > rejected if it is received with thanksgiving,
->
-> **5** for it is made holy by the word of God and prayer.
+> for it is made holy by the word of God and prayer.
 
 As we pray, we sanctify the bread in the Cup. We set them apart for this
 meal. Something happens when we pray for this supper.
@@ -277,23 +250,17 @@ Christians are not allowed to participate in the idolatrous feasts of
 the pagans, Because our legions is to the Lord. We share in his supper,
 and no one else's.
 
-
-## Self-Examination
-
 > **1 Corinthians 11:28--30 (ESV) **
->
 > 28 Let a person examine himself, then, and so eat of the bread and
 > drink of the cup.
->
 > 29 For anyone who eats and drinks without discerning the body eats and
 > drinks judgment on himself.
->
 > 30 That is why many of you are weak and ill, and some have died.
 
 
 # Meditation
 
-> **Luke 22:7--23 (ESV) **
+> **Luke 22:7--23**
 > 7. Then came the day of Unleavened Bread, on which the Passover lamb
 > had to be sacrificed.
 > 8. So Jesus sent Peter and John, saying, "Go and prepare the Passover

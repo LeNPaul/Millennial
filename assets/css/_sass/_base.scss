@@ -45,7 +45,7 @@ body img {
     align: middle;
     margin: 5px auto auto auto;
     display: block;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 p {
@@ -54,10 +54,11 @@ p {
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
-  line-height: 1.50;
+  line-height: 1.35;
   font-family: $body-font-family;
   font-size: 125%;
   font-weight: 400;
+  text-align: justify
   
 }
 
@@ -103,7 +104,7 @@ a {
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
-  border-left: 0.25em solid #ff5e5b;
+  border-left: 0.25em solid #aaaaaa;
   color: rgb(66, 66, 66);
   line-height: 1.25;
 }

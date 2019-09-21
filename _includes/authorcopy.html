@@ -1,7 +1,6 @@
 
 {% assign author = site.authors | where: 'short_name', page.author | first %}
 {% if page.author %}
-{{ page.author }}
   <span>
     <a href="{{ author.url }}"><img src="/assets/img/{{ author.image }}" class="author-img" width="140" height="140" align="right" ></a>
     <h5 style="text-align:left" align="right">{{author.bio}}</h5>
@@ -10,5 +9,4 @@
   <span>
     {{site.author}}
   </span>
-  {{page.short_name}}
 {% endif %}

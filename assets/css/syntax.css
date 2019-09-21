@@ -63,3 +63,107 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+/* Coemnt */
+sup[id^="fnref"] {
+    top: -0.25em;
+    line-height: 0;
+    font-size: inherit;
+  }
+  
+  .reversefootnote {
+    display: none;
+  }
+  
+  .inline-footnote.closed {
+    display: none;
+  }
+  .inline-footnote.opened {
+    position: relative;
+    display: block;
+    margin: auto;
+    top: auto !important;
+    margin-bottom: 28px;
+    border-top: 3px solid #cccccc;
+    border-bottom: 3px solid #cccccc;
+    margin-top: 28px;
+    padding-top: 9.33333px;
+    padding-bottom: 9.33333px;
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+  .inline-footnote.opened > *:first-child {
+    margin-top: 0;
+  }
+  .inline-footnote.opened:after, .inline-footnote.opened:before {
+    bottom: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+  }
+  .inline-footnote.opened:after {
+    border-color: transparent;
+    border-bottom-color: white;
+    border-width: 20px;
+    margin-left: -20px;
+  }
+  .inline-footnote.opened:before {
+    border-color: transparent;
+    border-bottom-color: #cccccc;
+    border-width: 24px;
+    margin-left: -24px;
+  }
+  .inline-footnote.cloned {
+    display: none;
+  }
+  .inline-footnote sup {
+    display: none;
+  }
+  
+  /* 
+   You can copy this media query (minus the "{") as the mediaQuery option for the javascript to have a consistent switching:
+  */
+  @media screen and (min-width: 1155px) {
+    .inline-footnote.closed, .inline-footnote.opened, .inline-footnote.cloned {
+      display: block;
+      position: absolute;
+      font-size: 0.7em;
+      margin-top: -1.4em;
+      width: 133px;
+      border: 0;
+      top: auto;
+      padding: 0;
+      left: -147px;
+    }
+    .inline-footnote.closed p, .inline-footnote.closed ul, .inline-footnote.closed ol, .inline-footnote.opened p, .inline-footnote.opened ul, .inline-footnote.opened ol, .inline-footnote.cloned p, .inline-footnote.cloned ul, .inline-footnote.cloned ol {
+      margin-top: 19.6px;
+    }
+    .inline-footnote.closed p:first-child, .inline-footnote.closed ul:first-child, .inline-footnote.closed ol:first-child, .inline-footnote.opened p:first-child, .inline-footnote.opened ul:first-child, .inline-footnote.opened ol:first-child, .inline-footnote.cloned p:first-child, .inline-footnote.cloned ul:first-child, .inline-footnote.cloned ol:first-child {
+      margin-top: 0;
+    }
+    .inline-footnote.closed *, .inline-footnote.opened *, .inline-footnote.cloned * {
+      line-height: 1.25;
+    }
+    .inline-footnote.opened > *:first-child {
+      margin-top: 28px;
+    }
+    .inline-footnote.opened:before, .inline-footnote.opened:after {
+      display: none;
+    }
+    .inline-footnote.hidden {
+      display: none;
+    }
+    .inline-footnote sup {
+      display: inline;
+      top: 0;
+      font-size: inherit;
+    }
+    .inline-footnote sup:after {
+      content: ". ";
+    }
+  }
+  

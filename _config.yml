@@ -9,6 +9,8 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-scholar]
 
+kramdown:
+    footnote_backlink: "⤴"
 
 sass:
   sass_dir: assets/css
@@ -22,6 +24,11 @@ author:              "Dan, Abe, and Sam Peters"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+scss:
+    load_paths:
+        - _sass
+        - node_modules
 
 scholar:
   style: chicago

@@ -18,6 +18,12 @@
 </form>
 </div>
 
+<script type="text/javascript" src="/assets/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/assets/js/bigfoot.js"></script>
+<script type="text/javascript">
+    $.bigfoot();
+</script>
+
 <!--End mc_embed_signup-->
   {% for item in site.data.settings.social %}
     <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>

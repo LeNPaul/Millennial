@@ -24,30 +24,13 @@ layout: default
       {{ site.author }}
     {% endif %}
   </span>
-<p>
-  <!-- I added this -->
-  {% assign author = site.authors | where: 'title', page.author | first %}
-  {% if author %}
-    <a href="{{ author.url }}">{{ author.title }}</a>
-  {% endif %}
-  
-</p>
   <article>
     {{ content }}
   </article>
-  <hr>
   <br>
+  <hr>
   {% include authorcopy.html %}
 <!-- Look the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
-
-<!-- Output author details if some exist. -->
-{% if author %}
-    <span>
-        <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}">{{ author.name }}</a>
-    </span>
-{% endif %}
 
   <div class="post-share">
     <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>

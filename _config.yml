@@ -25,11 +25,6 @@ author:              "Dan, Abe, and Sam Peters"
 #feed:
 #  path: rss-feed.xml
 
-scss:
-    load_paths:
-        - _sass
-        - node_modules
-
 scholar:
   style: chicago
 

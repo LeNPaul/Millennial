@@ -6,8 +6,8 @@
       defaults = {
         actionOriginalFN: "hide",
         activateCallback: function() {},
-        activateOnHover: true,
-        allowMultipleFN: true,
+        activateOnHover: false,
+        allowMultipleFN: false,
         anchorPattern: /(fn|footnote|note)[:\-_\d]/gi,
         anchorParentTagname: 'sup',
         breakpoints: {},

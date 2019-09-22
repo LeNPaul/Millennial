@@ -20,9 +20,9 @@
 // =============================================================================
 
 // STYLES
-$popover-width:                         20em ;                           // Ideal width of the popover
+$popover-width:                         22em ;                           // Ideal width of the popover
 $popover-max-width:                     40% ;                            // Best as a % to accommodate smaller viewports
-$popover-max-height:                    18em ;                           // Maximum size of the content area
+$popover-max-height:                    20em ;                           // Maximum size of the content area
 $popover-color-background:              rgb(250, 250, 250) ;             // Color of the popover background
 $popover-border-radius:                 0.5em ;                          // Radius of the corners of the popover
 $popover-border:                        1px solid rgb(195, 195, 195) !default;   // Border of the popover/ tooltip
@@ -36,7 +36,7 @@ $popover-scroll-indicator-width:        0.625em !default;                       
 $popover-scroll-indicator-aspect-ratio: (15/12) !default;                        // The ratio of the height over the width of the scroll indicator
 $popover-scroll-indicator-opacity:      0.1 !default;                            // The active opacity of scroll indicators
 $popover-initial-transform-state:       scale(0.1) translateZ(0) !default;       // The inital transform state for the popover
-$popover-active-transform-state:        scale(.7) translateZ(0) ;         // The transform state for the popover once it is fully activated
+$popover-active-transform-state:        scale(.8) translateZ(0) ;         // The transform state for the popover once it is fully activated
 
 // OPTIONAL ELEMENTS
 $popover-include-tooltip:               true !default;                           // Adds a tooltip pointing to the footnote button

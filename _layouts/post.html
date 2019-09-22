@@ -23,6 +23,14 @@ layout: default
     {% else %}
       {{ site.author }}
     {% endif %}
+
+    
+  {% if page.image %}
+  <div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+  </div>
+{% endif %}
+
   </span>
   <article>
     {{ content }}

@@ -7,11 +7,6 @@ layout: default
     {{ page.title }}
   </h1>
 
-  {% if page.image %}
-  <div class="featured-image">
-    <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-  </div>
-{% endif %}
   <span class="post-date">
     {{ site.data.settings.post_date_prefix }}
     {% assign d = page.date | date: "%-d"  %}
@@ -28,6 +23,13 @@ layout: default
     {% else %}
       {{ site.author }}
     {% endif %}
+
+    
+  {% if page.image %}
+  <div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+  </div>
+{% endif %}
 
   </span>
   <article>

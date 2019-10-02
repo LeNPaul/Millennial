@@ -216,7 +216,7 @@ $button-transition-properties:      background-color !default;
   vertical-align: middle;
   text-decoration: none;
   -webkit-font-smoothing: antialiased;
-
+  text-align: left;
   // TRANSITIONS
   transition-property: $button-transition-properties;
   transition-duration: $popover-transition-default-duration;
@@ -390,6 +390,7 @@ $button-transition-properties:      background-color !default;
 
   // TEXT
   line-height: 0;
+  text-align: left;
 
   // TRANSITIONS
   transition-property: $popover-transition-properties;
@@ -542,6 +543,7 @@ $button-transition-properties:      background-color !default;
 
   // TEXT
   line-height: 0;
+  text-align: left;
 }
 
 
@@ -558,7 +560,6 @@ $button-transition-properties:      background-color !default;
   // POSITIONING
   position: relative;
   z-index: ($popover-z-index - 2); // Below fading bars
-
   // DISPLAY AND SIZING
   display: inline-block;
   max-height: $popover-max-height;
@@ -574,6 +575,7 @@ $button-transition-properties:      background-color !default;
   // TEXT
   -webkit-font-smoothing: subpixel-antialiased;
   line-height: normal;
+  text-align: left;
 
   // INTERIOR ELEMENTS
   img { max-width: 100%; }
@@ -667,7 +669,7 @@ $button-transition-properties:      background-color !default;
     font-size: $button-height*0.7;
     font-weight: bold;
     color: rgba($button-color, 0.5);
-
+    text-align: left;
     // TRANSITIONS
     transition: color $popover-transition-default-duration $popover-transition-default-timing-function;
   }

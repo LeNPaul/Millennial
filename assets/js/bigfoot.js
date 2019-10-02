@@ -282,7 +282,7 @@
       baseFontSize = function() {
         var el, size;
         el = document.createElement("div");
-        el.style.cssText = "display:inline-block;padding:0;line-height:1;position:absolute;visibility:hidden;font-size:1em;";
+        el.style.cssText = "display:inline-block;padding:0;line-height:1;position:absolute;visibility:hidden;font-size:1em;"
         el.appendChild(document.createElement("M"));
         document.body.appendChild(el);
         size = el.offsetHeight;

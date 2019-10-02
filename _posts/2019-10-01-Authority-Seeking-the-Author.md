@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Authority - Seeking the Author"
+title: "Authority: Seeking the Author"
 author: Dan
 categories: post
 tags: authority

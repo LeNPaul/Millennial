@@ -1,6 +1,39 @@
 ---
-layout: archive
+layout: misc
 title: Archives
 ---
-
-<img src="/assets/img/abe.png" class="author-img" width="140" height="140" align="right" >
+{% include head.html %}
+<body>
+        
+    {{ content }}
+     <div class="row">
+  <div class="column">
+   <a href="/authors/dan.html"><img src="/assets/img/dan.png" class="author-img" width="200" height="200"></a>
+  </div>
+  <div class="column">
+     <a href="/authors/abe.html"><img src="/assets/img/abe.png" class="author-img" width="200" height="200" align="center"></a>
+  </div>
+  <div class="column">
+    <a href="/authors/sam.html"><img src="/assets/img/sam.png" class="author-img" width="200" height="200"></a>
+  </div>
+  </div>
+  <div class="page-content">
+    <br>
+  
+  <ul>
+      {% for post in site.posts %}
+   
+          <h4><a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author}}</h4>
+    
+      {% endfor %}
+    </ul>
+</div> 
+</div>
+  {% include footer.html %}
+</div>
+<script type="text/javascript" src="/assets/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/assets/js/bigfoot.js"></script>
+</script>
+</script>
+</body>
+</html>

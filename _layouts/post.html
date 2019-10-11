@@ -53,7 +53,7 @@ layout: default
     {% assign listed_posts_urls = page.url | split: ' ' %}
     <ul class="related-posts">
       {% for tag in page.tags %}
-        {% for mypost in site.tags[tag] limit:2 %}
+        {% for mypost in site.tags[tag] limit:3 %}
           {% if listed_posts_urls contains mypost.url %}
           {% else %}
             <li>

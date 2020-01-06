@@ -34,9 +34,7 @@ happens anymore except for publicity.
 Thomasine Gyllembourg-Ehrensvärd’s. Rather than being a book review as such, it
 functions more as a jumping off point for Kierkegaard.
 
-[^2]: The translation I will henceforth quote is Alexander Dru’s found in the
-following publication: *The Present Age: On the Death of Rebellion* (Harper
-Perennial Modern Classics, 2019).
+[^2]: The translation I will henceforth quote is Alexander Dru’s found in the following publication: *The Present Age: On the Death of Rebellion* (Harper Perennial Modern Classics, 2019).
 
 Reflection is problematic in so far as it stifles action. Imagine, as
 Kierkegaard writes, a grown man struggling delightfully in deep waters. He calls
@@ -83,12 +81,7 @@ materially, it is a book which requires reflection. So either his reflection in
 criticizing all reflection. I side with the latter. This being so, the question
 arises: what kind of reflection is Kierkegaard critiquing?[^3]
 
-[^3]: Kierkegaard does clarify two-thirds into the book clarify that “reflection
-is not the evil; but a reflective condition and the deadlock which it involves,
-by transforming the capacity for action into a means of escape from action, is
-both corrupt and dangerous, and leads in the end to a retrograde movement” (42).
-This clarification helps remove some ambiguity but there remains the question:
-“What kind of reflection is under discussion?”
+[^3]: Kierkegaard does clarify two-thirds into the book clarify that “reflection is not the evil; but a reflective condition and the deadlock which it involves, by transforming the capacity for action into a means of escape from action, is both corrupt and dangerous, and leads in the end to a retrograde movement” (42). This clarification helps remove some ambiguity but there remains the question: “What kind of reflection is under discussion?”
 
 Second, Kierkegaard assumes “Our age” is distinctly indolent. I disagree.
 Neither was his age nor is my age distinctly reflective, rather it is part of

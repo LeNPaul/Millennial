@@ -6,7 +6,6 @@ categories: post
 tags: Gospel of John
 image: dan-sign.jpg
 ---
-### Praying For A Sign
 I had become a Christian about 2 months earlier, back in 1981, and I was driving back home. I had a lot on my mind and was alone in my truck. I was looking up occasionally and praying. Jesus said “watch and pray”, and I found myself watching, praying and driving. I wanted to see a sign from God. Then suddenly the truck began to shake and my heart began to pound. I pulled over and kept looking up thinking “this must be the end”. After 30 seconds I realized it was a sign; it was a sign I was out of gas. I had bought the truck just a week or two earlier, basically a gift from my neighbor Chuck. He told me that when it read 1/4 left in the tank it was actually empty. I forgot.
 
 But for many months to come I really wanted God to do a sign through me so that I might show my neighbors the truth about how to become a disciple of Christ. I just wanted them to see it. Why could they not see what I could see so clearly? I thought if God would show them a sign through me, then that would settle it in their mind. I realize now I was wrong on several things.

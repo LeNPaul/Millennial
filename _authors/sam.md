@@ -2,10 +2,10 @@
 short_name: Sam
 name: Sam Peters
 image: sam.png
-bio: Sam Peters is a minister working with the Rienzi Church of Christ
+bio: Sam Peters is a minister working with the [Rienzi Church of Christ](https://rienzicoc.com/)
 ---
 
-I live in Baldwyn, Mississippi with my wife and daughter. I preach for the Rienzi Church of Christ, and I also work as a Corporate Data Analyst at Relias Healthcare. 
+I live in Baldwyn, Mississippi with my wife and daughter. I preach for the [Rienzi Church of Christ](https://rienzicoc.com/), and I also work as a Corporate Data Analyst at Relias Healthcare. 
 
 For hobbies, I enjoy running, reading, and listening to music. To date, I have run forty-something marathons and three ultramarathons. For reading, the genres I like most are self-help, philosophical, and classical books. Only recently have I enjoyed novels. 
 

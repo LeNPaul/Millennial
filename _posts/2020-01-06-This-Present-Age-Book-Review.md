@@ -6,7 +6,7 @@ layout: post
 image: sam-age.jpg
 ---
 
-In his 59-page essay, *The Present Age*, Soren Kierkegaard criticizes his Danish
+In his 59-page essay, [*The Present Age*](https://amzn.to/2QqCGNg), Soren Kierkegaard criticizes his Danish
 culture for being reflective, for being interested in everything and committed
 to nothing. The Press is the culprit. It is they who indiscriminately publicize
 everything which levels the trivial and the vital. The result is the age of
@@ -150,8 +150,7 @@ public, so too does the internet. For example, 300 hours of video are uploaded
 to Youtube every minute [^8] And it is undeniable that this video, perhaps all
 100% of it, is trivial, non-vital.
 
-[^8]: “37 Mind Blowing YouTube Facts, Figures and Statistics – 2019 –
-BiographON.” Accessed September 27, 2019. https://biographon.com/youtube-stats/.
+[^8]: “37 Mind Blowing YouTube Facts, Figures and Statistics – 2019 – BiographON.” Accessed September 27, 2019. https://biographon.com/youtube-stats/.
 
 *Knowing the difference between the trivial and the vital has never been more
 important*.
@@ -160,11 +159,9 @@ It is essential that we become proficient essentialists, having a disciplined
 pursuit of less in this technological era.[^9] John Maxwell said it well, “You
 cannot overestimate the unimportance of practically everything.”[^10]
 
-[^9]: I recommend the book *Essentialism* by Greg McKeown. It argues why and how
-to be disciplined in one's pursuit of less.
+[^9]: I recommend the book *[Essentialism](https://amzn.to/2ZTi6Z0)* by Greg McKeown. It argues why and how to be disciplined in one's pursuit of less.
 
-[^10]: John Maxwell, *Developing the Leader Within You* (Nashville, TN: T.
-Nelson, 1993), 22-23.
+[^10]: John Maxwell, *[Developing the Leader Within You](https://amzn.to/39IiyOn)* (Nashville, TN: T.Nelson, 1993), 22-23.
 
 Kierkegaard helps us understand the damning effects of the Press or Internet,
 how it levels everything in its path. We need to read less. It was said of
@@ -173,7 +170,7 @@ Thomas Hobbes, one of the founders of modern political philosophy and author of
 more than other men.”[^11] Interestingly, reading more books leads to less
 knowledge.
 
-[^11]: John Aubrey, *Brief Lives* (Boydell & Brewer, 1982), 157.
+[^11]: John Aubrey, *[Brief Lives](https://amzn.to/35mnd5e)* (Boydell & Brewer, 1982), 157.
 
 Just as reflection is an escape for adults from jumping into the sea, Christian
 reflection, theology can be the escape from practical Christianity.
@@ -183,3 +180,5 @@ While we cannot regulate what is publicized, we can regulate the amount we read
 and what we read. This book is a call to read less, reflect less, and act more.
 It is only until we read less that we can jump in and start the revolution which
 Christianity was always supposed to be.
+
+### Footnotes

@@ -1,5 +1,5 @@
 ---
-title: "The Present Age by Soren Kierkegaard: A book review"
+title: "The Present Age by Soren Kierkegaard: A Book Review"
 author: Sam
 tags: Kierkegaard, Existentialism, Book Review
 layout: post

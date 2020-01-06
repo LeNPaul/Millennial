@@ -2,7 +2,7 @@
 short_name: Dan
 name: Dan Peters
 image: Dan.png
-bio: Dan Peters is a minister working with the [North Courtenay Church of Christ](http://www.ncourtenaychurchofchrist.com/)
+bio: Dan Peters is a minister working with the North Courtenay Church of Christ
 ---
 I am now writing from Cocoa, Florida having arrived here in July of 2019. Florida seems very hot, and I live in Cocoa, which only recently did it dawn on me how well this suits me. I have enjoyed “hot cocoa” for years, even in the summer!  My wife Tami and I had 4 sons in about 5 1/2 years, life has been full and fun. All my sons are now married and we have 3 grandchildren! I currently work with the [North Courtenay Church of Christ](http://www.ncourtenaychurchofchrist.com/)
 

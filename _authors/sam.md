@@ -2,7 +2,7 @@
 short_name: Sam
 name: Sam Peters
 image: sam.png
-bio: Sam Peters is a minister working with the [Rienzi Church of Christ](https://rienzicoc.com/)
+bio: Sam Peters is a minister working with the Rienzi Church of Christ
 ---
 
 I live in Baldwyn, Mississippi with my wife and daughter. I preach for the [Rienzi Church of Christ](https://rienzicoc.com/), and I also work as a Corporate Data Analyst at Relias Healthcare. 

@@ -2,7 +2,7 @@
 short_name: Abe
 name: Abe Peters
 image: abe.png
-bio: Abe Peters is a minister working with the [Dade City Church of Christ](https://dadecitychurchofchrist.com)
+bio: Abe Peters is a minister working with the Dade City Church of Christ
 ---
 Hey, I'm Abe. I'm writing from Dade City Florida. I've been working with the [Dade City Church of Christ](https://dadecitychurchofchrist.com) for 4 years now. You can find my sermons here. My wife,Grace and I have been married for 6 years. We have one son.
 

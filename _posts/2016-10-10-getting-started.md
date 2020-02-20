@@ -253,6 +253,10 @@ This theme is completely free and open source software. You may use it however y
 
 * [mschaeffner](https://github.com/mschaeffner)
 
+* [cfe316](https://github.com/cfe316)
+
+* [JeremyGonzales](https://github.com/JeremyGonzales)
+
 ### Icons + Demo Images
 
 * [Death to Stock](https://deathtothestockphoto.com/)

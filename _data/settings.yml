@@ -6,6 +6,11 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
+# Set timezone
+timezone: America/Los_Angeles
+
+baseurl: https://hoffmang9.github.io/
+
 menu:
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}

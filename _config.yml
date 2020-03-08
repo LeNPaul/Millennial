@@ -8,6 +8,8 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+timezone:            America/Los_Angeles
+baseurl:             https://hoffmang9.github.io/
 
 sass:
   sass_dir: assets/css

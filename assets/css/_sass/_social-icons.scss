@@ -10,6 +10,7 @@ $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
+$keybase-color: black;
 
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
@@ -75,4 +76,8 @@ $rss-color: #ff6600;
 .fa-rss-square {
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
+}
+.fa-keybase {
+  padding: 5px;
+  @include social-media-icon($keybase-color, $icon-transition-time)
 }

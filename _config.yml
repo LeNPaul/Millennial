@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "First steps in DS ocean"
+title:		           "DS ocean"
 description:	       "a place to share, summarise and revise things I learn"
 author:              "szarki9"
 

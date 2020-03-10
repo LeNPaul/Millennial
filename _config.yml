@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "DS ocean"
-description:	       "a place to share, summarise and revise things I learn"
+description:	       "a place to share, summarise and revise"
 author:              "szarki9"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

@@ -7,16 +7,12 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/'}
 - {icon: 'facebook', link: 'https://www.facebook.com/kinga.szarkowska'}
 - {icon: 'instagram', link: 'https://instagram.com/sszarkster'}
 - {icon: 'envelope', link: 'mailto:kinga.szarkowska@gmail.com'}

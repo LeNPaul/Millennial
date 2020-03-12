@@ -7,16 +7,17 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Statistics and Probability', folder: 'pages', file: 'statistics-post.html'}
+- {name: 'Machine Learning', folder: 'pages', file: 'machinelearning-post.html'}
+- {name: 'R', folder: 'pages', file: 'r-post.html'}
+- {name: 'Other Gems', folder: 'pages', file: 'othergems.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'facebook', link: 'https://www.facebook.com/kinga.szarkowska'}
 - {icon: 'instagram', link: 'https://instagram.com/sszarkster'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/kszark999'}
 - {icon: 'envelope', link: 'mailto:kinga.szarkowska@gmail.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text

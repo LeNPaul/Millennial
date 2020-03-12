@@ -4,7 +4,7 @@ title: "hi, hey, hello"
 author: "szarki9"
 categories: other
 tags: [other]
-image: bari2.jpg
+image: bari2.JPG
 ---
 
 Hi there!

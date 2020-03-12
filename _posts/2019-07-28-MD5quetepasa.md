@@ -2,8 +2,8 @@
 layout: post
 title: "MD5 que te pasa"
 author: "szarki9"
-categories: sample
-tags: [sample]
+categories: other
+tags: [other]
 image: arctic-5.jpg
 ---
 

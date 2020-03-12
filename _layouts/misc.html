@@ -11,4 +11,10 @@ layout: default
   {{ content }}
 </article>
 
+{% if page.image %}
+<div class="featured-image">
+  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+</div>
+{% endif %}
+
 </div>

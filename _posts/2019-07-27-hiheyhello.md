@@ -2,9 +2,9 @@
 layout: post
 title: "hi, hey, hello"
 author: "szarki9"
-categories: sample
-tags: [sample]
-image: arctic-1.jpg
+categories: other
+tags: [other]
+image: bari2.jpg
 ---
 
 Hi there!

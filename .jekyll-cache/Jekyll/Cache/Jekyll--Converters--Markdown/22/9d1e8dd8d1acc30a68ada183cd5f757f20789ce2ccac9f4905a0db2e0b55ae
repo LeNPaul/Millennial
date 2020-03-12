@@ -1,0 +1,31 @@
+I"?<p align="justify">In the previous post, I have
+described how we can test the existence of the coefficient standing by the
+variable. So right now we will assume that relationship connecting these two –
+X and Y exists and we will think about how to measure the quality of our simple
+linear regression model.<br /></p>
+<p align="justify"><b>Residual Standard Error</b></p>
+<p align="justify">Remember RSS (residual sum of
+squares)? RSE is given by the formula: (square of  RSS divided by n-2) and it is an estimate of the standard deviation
+of ε
+(error term) and it is the average (and absolute) amount that the response will
+deviate from the true regression line. But the determination of whether the RSE is
+big or not depends on the complexity of the problem statement and the data that
+we have and what as a whole we examine and only after analysing that we can say
+whether RSE is large or not.</p>
+<p align="justify"><b>R</b><b>²</b><b> statistics</b></p>
+<p align="justify">The first advantage of the
+R²
+statistics is that their values belong between 0 and 1, as R² is a proportion
+of explained variance. The formula for R² statistics is:(TSS-RSS)/TSS , where TSS in the total sum of
+squares (sum of squares of differences between each Y value and the mean of Y, RSS
+as above). TSS measures the total variance for Y, so R² measures the proportion
+of the variability of Y that can be explained using X. Closeness to 1 indicates
+that a large proportion of the variablity in the response has been explained,
+and on the contrary 0 means that the linear model might be wrong. </p>
+<p align="justify">To sum up, the determination of whether the model
+is well suited for our data might be still a matter of its’ application and we
+need to look over each case individually as there is no clear and one way to
+decide it.</p>
+<p> </p>
+<p>szarki9</p>
+:ET

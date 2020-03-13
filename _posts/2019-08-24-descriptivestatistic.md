@@ -4,7 +4,7 @@ title: "statistics vol 1 - descriptive intro"
 author: "szarki9"
 categories: statistics
 tags: [statistics]
-image: netherlands1.jpg
+image: netherlands1.JPG
 ---
 <p>Hola hola mis amigos,</p><p align="justify">Hope you are having great Saturday. Mine
 is partly with statistics so I would like to share with you some things that I

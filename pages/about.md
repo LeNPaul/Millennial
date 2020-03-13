@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: About
-image: about1.jpg
+image: about1.JPG
 ---
 
 <p align = "justify"> Hi there! </p>

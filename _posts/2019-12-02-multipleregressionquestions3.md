@@ -4,7 +4,7 @@ title: "multiple regression - Q&A 3"
 author: "szarki9"
 categories: machinelearning
 tags: [machinelearning]
-image: bari11.jpg
+image: bari11.JPG
 ---
 <p>Hello again chicos and chicas,</p><p align="justify">So we went through almost all the
 important stuff for multiple linear regression, but I have one more for you and

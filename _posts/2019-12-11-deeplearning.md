@@ -4,7 +4,7 @@ title: "deep learning - what is dad"
 author: "szarki9"
 categories: machinelearning
 tags: [machinelearning]
-image: bari1.jpg
+image: bari1.JPG
 ---
 <p>Hola chicos,</p><p align="justify">this weekend I will be a participant of a hackathon!!!
 Yey, right? Honestly, I am super excited but I feel a bit unprepared. Hackathon

@@ -4,7 +4,7 @@ title: "multiple regression - Q&A 2"
 author: "szarki9"
 categories: machinelearning
 tags: [machinelearning]
-image: bari10.jpg
+image: bari10.JPG
 ---
 <p>Hi there,</p><p align="justify">it’s me again! Another question
 you might want to consider when performing multiple linear regression is…</p><p align="justify"><b>How to decide which variables are important and which are not?</b></p><p align="justify">So after checking that there are

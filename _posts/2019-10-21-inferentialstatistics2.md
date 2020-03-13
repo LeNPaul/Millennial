@@ -4,7 +4,7 @@ title: "inferential statistics vol 2"
 author: "szarki9"
 categories: statistics
 tags: [statistics]
-image: netherlands3.jpg
+image: netherlands3.JPG
 ---
 <p><p>Hello there,</p><p align="justify">Before we will go with linear
 regression I would like to bring in a couple of definitions. Remember the post

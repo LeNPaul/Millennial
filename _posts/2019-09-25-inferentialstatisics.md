@@ -4,7 +4,7 @@ title: "statistics vol 2 - inferential statistics intro"
 author: "szarki9"
 categories: statistics
 tags: [statistics]
-image: netherlands7.jpg
+image: netherlands7.JPG
 ---
 <p>Hi there,</p><p style="text-align: justify;">For the last two weeks, I have been researching what
 is the best and most achievable way (from my perspective ofc) to prepare

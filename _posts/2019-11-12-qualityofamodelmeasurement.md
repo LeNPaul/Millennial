@@ -4,7 +4,7 @@ title: "How to measure the quality of our model?"
 author: "szarki9"
 categories: machinelearning
 tags: [machinelearning]
-image: bari7.jpg
+image: bari7.JPG
 ---
 <p align="justify">In the previous post, I have
 described how we can test the existence of the coefficient standing by the

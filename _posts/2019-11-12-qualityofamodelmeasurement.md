@@ -3,7 +3,7 @@ layout: post
 title: "How to measure the quality of our model?"
 author: "szarki9"
 categories: machinelearning
-tags: [machinelearning]
+tags: [linearregression]
 image: bari7.JPG
 ---
 <p align="justify">In the previous post, I have

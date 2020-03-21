@@ -3,7 +3,7 @@ layout: post
 title: "multiple regression - Q&A 2"
 author: "szarki9"
 categories: machinelearning
-tags: [machinelearning]
+tags: [linearregression]
 image: bari10.JPG
 ---
 <p>Hi there,</p><p align="justify">it’s me again! Another question

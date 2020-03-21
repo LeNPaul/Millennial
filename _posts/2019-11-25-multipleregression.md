@@ -3,7 +3,7 @@ layout: post
 title: "multiple linear regression ahoi!"
 author: "szarki9"
 categories: machinelearning
-tags: [machinelearning]
+tags: [linearregression]
 image: bari8.JPG
 ---
 <p>Hola chicos, </p><p align="justify">Last time I was preparing myself for

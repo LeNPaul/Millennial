@@ -3,7 +3,7 @@ layout: post
 title: "Linear Regression and que te pasa"
 author: "szarki9"
 categories: machinelearning
-tags: [machinelearning]
+tags: [linearregression]
 image: bari5.JPG
 ---
 <p align="justify">So one of the many algorithms used

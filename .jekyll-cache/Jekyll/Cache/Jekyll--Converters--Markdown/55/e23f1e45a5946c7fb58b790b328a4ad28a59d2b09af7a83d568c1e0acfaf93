@@ -1,0 +1,13 @@
+I"�	<p>Hello All!</p>
+<p align="justify">I haven’t been there for quite some time, sorry about that. But cutting to the important stuff… In a number of next posts, I would like to describe the application of more or less common probability distributions. I have spent lately quite some time on it, as in order to understand what distribution you should use, firstly you need to understand what each distribution means. So… starting from basic definitions and basing distributions I will try to demonstrate here the more advanced ones!</p>
+<p align="justify">First of all, what a probability distribution is? By distribution of a probability, we call the function that assigns the probability of having a particular value of a random variable to its values. Given that, the values of that function will be located between 0 and 1. When I think about probability distribution I try to think about something easy and basic, like the distribution of people’s height in Poland. Let’s take into consideration only men. The average height of men in Poland is 180 cm. What does it mean? That if you take a random man on the street this is a high probability that he will be around that. What exact probability it will be? It will be 50% exactly (you can check my previous post about descriptive statistics) and that means that most of the men in Poland are “distributed” around that number. Later on, I will depict a couple of examples so stay with me!
+</p>
+<p align="justify"> Now, as a distribution of a probability is a function, it can take discrete values or continuous values. In the first instance, I will focus on discrete distributions 😊. By discrete function, we call a function that has a finite or countable number of values that (in distributions) take non-zero probability as an outcome of the function. 
+</p>
+<h3 id="bernoulli-distribution">Bernoulli distribution</h3>
+
+<p align="justify"> All of you probably have heard about the Bernoulli scheme, which is a model of a situation where we have an experiment with a binary outcome. A binary outcome is assigned to the success or a failure, where a probability of success has a value of p (what gives the probability of failure equal to 1-p). <b>Bernoulli distribution</b> function tells you what is a probability of k successes among n-times Bernoulli trial, having p, as a probability of success. Look below on a distribution formula:
+</p>
+<p align="center"> $$x_k = k, p_k = P(X=k) = {n\choose k} p^k (1-p)^{n-k} \sim B(n,p), k \in \{0,1,...,n\}$$
+</p>
+:ET

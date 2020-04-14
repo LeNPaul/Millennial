@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "probability distributions intro"
+title: "probability distributions - Intro"
 author: "szarki9"
 categories: statistics
 tags: [distributions]
@@ -19,17 +19,17 @@ image: netherlands9.JPG
 $$k \in \{0,1,...,n\},\; n\in \mathbb{N},\; p \in(0,1)$$
 </p>
 ### Geometric distribution
-<p align = "justify"> But having a Bernoulli scheme we might want to ask a bit different question. For example, <ins>what is the probability of having success after <b>k</b> failures</ins>, when the probability of success equals <b>p</b>? We will consider it as waiting time for a first success to come. In that case, k might be any natural number from 0. Look below on a distribution formula:
+<p align = "justify"> But having a Bernoulli scheme we might want to ask a bit different question. For example, <ins>what is the probability of having success after <b>k-1</b> failures</ins>, when the probability of success equals <b>p</b>? We will consider it as waiting time for a first success to come. In that case, k might be any natural number from 0. Look below on a distribution formula:
 </p>
 <p align = "center">
-$$x_k=k,\; p_k = P(X=k)=p(1-p)^k \sim Geo(p)$$ 
+$$x_k=k,\; p_k = P(X=k)=p(1-p)^{k-1} \sim Geo(p)$$ 
 $$ k \in \{0,1,...\},\; p \in(0,1)$$
 </p>
 ### Negative binomial distribution
 <p align = "justify"> Extension of the question from the last paragraph is question about <ins>the probability of waiting time for <b>m</b>-th success after <b>k</b> failures, where m is previously defined number </ins>. When m is an integer, then we call this distribution as <b>Pascal distribution</b> and when m is a real-value case then we call it <b>Polya distribution</b>. Probability mass function is:
 </p>
 <p align = "center">    
-$$ x_k=k, \; p_k=P(X=k)={m-1\choose n-1}p^m(a-p)^{k-m} \sim NB(r,p)$$
+$$ x_k=k, \; p_k=P(X=k)={m-1\choose n-1}p^m(1-p)^{k-m} \sim NB(m,p)$$
 $$k \in \{m,m+1,...\},\; p \in(0,1) $$
 </p>
 ### Multinomial distribution
@@ -53,5 +53,5 @@ $$ k\in \{ max(0,n+m-N),..., min(n,m) \}$$
 <p align = "justify">
 Hope it clarifies a little, whenever you have some feedback or questions you are more than welcome to contact me.
 </p>
-<p>xoxo,</p>
-<p>szarki9</p>
+<p>xoxo,<br>
+szarki9</p>

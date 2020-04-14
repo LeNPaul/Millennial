@@ -51,10 +51,10 @@ $$ P(X=k)= \frac{\lambda^k}{k!}e^{-\lambda}$$
 <p align = "justify">
 Last but not least, I would like to show you <b>how Poisson distribution varies depending on the value of lambda</b>. Below you will see 4 cases of different lambda values, for randomly generated samples (with n=10000 elements) from Poisson distribution. What is worth to see, that for big lambdas distribution is starting to look like a gaussian curve.
 </p>
-![first image](/assets/img/plot_poisson3.PNG)
-![first image](/assets/img/plot_poisson10.PNG)
-![first image](/assets/img/plot_poisson15.PNG)
-![first image](/assets/img/plot_poisson30.PNG)
+![first image](/assets/img/plot_poisson3.png)
+![first image](/assets/img/plot_poisson10.png)
+![first image](/assets/img/plot_poisson15.png)
+![first image](/assets/img/plot_poisson30.png)
 <p align = "justify"> <br>
 Summing up for today, Poisson distribution answers a question of <b>the probability of k independent event occurences in a unit of time, where parameter corresponds to an expected number of event occurences in that unit of time</b>. 
 </p>

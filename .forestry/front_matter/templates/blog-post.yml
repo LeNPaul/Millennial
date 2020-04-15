@@ -8,12 +8,24 @@ fields:
 - type: text
   name: author
   label: author
+  description: Use first name only
 - type: text
   name: tags
   label: tags
 - type: text
   name: layout
   label: layout
+  default: post
+  hidden: true
 - type: file
   name: image
   label: image
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: date

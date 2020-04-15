@@ -127,7 +127,7 @@ Though I have read few other books by him, it is obvious he is reflective.
 ## Significance
 
 The beauty of classics is their timelessness. Perhaps _The Present Age_ is even
-more relevant in our internet era than it was when it was written.\[^7\]
+more relevant in our internet era than it was when it was written.[^7]
 
 [^7]: For a great application of Kierkegaard’s _The Present Age_ in light of the
 internet era see Hubert L. Dreyfus’ “Kierkegaard on the Information Highway” in

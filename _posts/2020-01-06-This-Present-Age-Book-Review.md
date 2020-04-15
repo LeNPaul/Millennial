@@ -24,14 +24,14 @@ publications, which results in an indolent age of reflection_.
 
 _Reflection_. Kierkegaard’s argument or critique is that the present age is an
 age of reflection. This is in contrast to the other age: the age of
-revolution.\[^1\] He writes in his opening line, “Our age is essentially one of
+revolution.[^1] He writes in his opening line, “Our age is essentially one of
 understanding and reflection, without passion, momentarily bursting into
-enthusiasm, and shrewdly relapsing into repose” (3).\[^2\] Simply put, nothing
+enthusiasm, and shrewdly relapsing into repose” (3).[^2] Simply put, nothing
 happens anymore except for publicity.
 
-\[^1\]: Kierkegaard’s _The Present Age_ is a literary review of _Two Ages_ by Thomasine Gyllembourg-Ehrensvärd’s. Rather than being a book review as such, it functions more as a jumping-off point for Kierkegaard.
+[^1]: Kierkegaard’s _The Present Age_ is a literary review of _Two Ages_ by Thomasine Gyllembourg-Ehrensvärd’s. Rather than being a book review as such, it functions more as a jumping-off point for Kierkegaard.
 
-\[^2\]: The translation I will henceforth quote is Alexander Dru’s found in the following publication: _The Present Age: On the Death of Rebellion_ (Harper Perennial Modern Classics, 2019).
+[^2]: The translation I will henceforth quote is Alexander Dru’s found in the following publication: _The Present Age: On the Death of Rebellion_ (Harper Perennial Modern Classics, 2019).
 
 Reflection is problematic in so far as it stifles action. Imagine, as
 Kierkegaard writes, a grown man struggling delightfully in deep waters. He calls
@@ -76,9 +76,9 @@ stifle action? Surely not. _The Present Age_ is a call to action and yet,
 materially, it is a book which requires reflection. So either his reflection in
 _The Present Age_ undermines his own critique on reflection or he is not
 criticizing all reflection. I side with the latter. This being so, the question
-arises: what kind of reflection is Kierkegaard critiquing?\[^3\]
+arises: what kind of reflection is Kierkegaard critiquing?[^3]
 
-\[^3\]: Kierkegaard does clarify two-thirds into the book clarify that “reflection is not the evil; but a reflective condition and the deadlock which it involves, by transforming the capacity for action into a means of escape from action, is both corrupt and dangerous, and leads in the end to a retrograde movement” (42). This clarification helps remove some ambiguity but there remains the question: “What kind of reflection is under discussion?”
+[^3]: Kierkegaard does clarify two-thirds into the book clarify that “reflection is not the evil; but a reflective condition and the deadlock which it involves, by transforming the capacity for action into a means of escape from action, is both corrupt and dangerous, and leads in the end to a retrograde movement” (42). This clarification helps remove some ambiguity but there remains the question: “What kind of reflection is under discussion?”
 
 Second, Kierkegaard assumes “Our age” is distinctly indolent. I disagree.
 Neither was his age nor is my age distinctly reflective, rather it is part of
@@ -86,17 +86,17 @@ the human condition. Every age deals with the masses who indiscriminately talk
 about everything.
 
 _Style_. Kierkegaard’s style is literary and poetic. He defies effortless
-reading.\[^4\] To be honest, a few pages eluded my grasp. Yet, I’m convinced this
-is a mark of a classic.\[^5\] In short, Kierkegaard is hard to understand but is
+reading.[^4] To be honest, a few pages eluded my grasp. Yet, I’m convinced this
+is a mark of a classic.[^5] In short, Kierkegaard is hard to understand but is
 worth the effort.
 
-\[^4\]: Paradigmatic of Kierkegaard’s convoluted style is a section from his
+[^4]: Paradigmatic of Kierkegaard’s convoluted style is a section from his
 _Sickness unto Death_. He writes, “The self is a relation which relates itself
 to its own self, or it is that in the relation that the relation relates itself
 to its own self; the self is not the relation but that the relation relates
 itself to its own self.”
 
-\[^5\]: Mortimer Adler, American philosopher and educator, argued “You must tackle
+[^5]: Mortimer Adler, American philosopher and educator, argued “You must tackle
 books that are beyond you, or, as we have said, books that are over your head.
 Only books of that sort will make you stretch your mind. And unless you stretch,
 you will not learn” in his _How to Read a Book_.
@@ -116,11 +116,11 @@ going to it.
 Third, he himself was quite a reflective person. He was a philosopher. This
 being so, it creates a tension between his criticism of reflectivity and his
 work as a reflective author. To be honest, I struggle to think of anyone more
-reflective than Kierkegaard.\[^6\] So while his argument is well made in logic and
+reflective than Kierkegaard.[^6] So while his argument is well made in logic and
 style, there is dissonance between the point of the book and the life of the
 author.
 
-\[^6\]: For example, Kierkegaard's _Fear and Trembling_ is a philosophical
+[^6]: For example, Kierkegaard's _Fear and Trembling_ is a philosophical
 investigation into the anxiety of Abraham as moved towards murdering his son.
 Though I have read few other books by him, it is obvious he is reflective.
 
@@ -129,7 +129,7 @@ Though I have read few other books by him, it is obvious he is reflective.
 The beauty of classics is their timelessness. Perhaps _The Present Age_ is even
 more relevant in our internet era than it was when it was written.\[^7\]
 
-\[^7\]: For a great application of Kierkegaard’s _The Present Age_ in light of the
+[^7]: For a great application of Kierkegaard’s _The Present Age_ in light of the
 internet era see Hubert L. Dreyfus’ “Kierkegaard on the Information Highway” in
 UCB Art, Technology, and Culture Colloquim (Berkeley: UC Berkeley, 1997).
 
@@ -139,7 +139,7 @@ public, so too does the internet. For example, 300 hours of video are uploaded
 to Youtube every minute \[^8\] And it is undeniable that this video, perhaps all
 100% of it, is trivial, non-vital.
 
-\[^8\]: “37 Mind Blowing YouTube Facts, Figures and Statistics – 2019 – BiographON.” Accessed September 27, 2019. https://biographon.com/youtube-stats/.
+[^8]: “37 Mind Blowing YouTube Facts, Figures and Statistics – 2019 – BiographON.” Accessed September 27, 2019. https://biographon.com/youtube-stats/.
 
 _Knowing the difference between the trivial and the vital has never been more
 important_.
@@ -148,18 +148,18 @@ It is essential that we become proficient essentialists, having a disciplined
 pursuit of less in this technological era.\[^9\] John Maxwell said it well, “You
 cannot overestimate the unimportance of practically everything.”\[^10\]
 
-\[^9\]: I recommend the book [_Essentialism_](https://amzn.to/2ZTi6Z0) by Greg McKeown. It argues why and how to be disciplined in one's pursuit of less.
+[^9]: I recommend the book [_Essentialism_](https://amzn.to/2ZTi6Z0) by Greg McKeown. It argues why and how to be disciplined in one's pursuit of less.
 
-\[^10\]: John Maxwell, [_Developing the Leader Within You_](https://amzn.to/39IiyOn) (Nashville, TN: T.Nelson, 1993), 22-23.
+[^10]: John Maxwell, [_Developing the Leader Within You_](https://amzn.to/39IiyOn) (Nashville, TN: T.Nelson, 1993), 22-23.
 
 Kierkegaard helps us understand the damning effects of the Press or Internet,
 how it levels everything in its path. We need to read less. It was said of
 Thomas Hobbes, one of the founders of modern political philosophy and author of
 _Leviathan_, that “if he had read as much as other men, he should have known no
-more than other men.”\[^11\] Interestingly, reading more books leads to less
+more than other men.”[^11] Interestingly, reading more books leads to less
 knowledge.
 
-\[^11\]: John Aubrey, [_Brief Lives_](https://amzn.to/35mnd5e) (Boydell & Brewer, 1982), 157.
+[^11]: John Aubrey, [_Brief Lives_](https://amzn.to/35mnd5e) (Boydell & Brewer, 1982), 157.
 
 Just as reflection is an escape for adults from jumping into the sea, Christian
 reflection, theology can be the escape from practical Christianity.

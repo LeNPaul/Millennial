@@ -4,10 +4,13 @@ author: Abe
 tags: Psalms, Psalm 104
 layout: post
 image: abe-lens.jpg
+
 ---
->He waters the hills from His upper chambers; The earth is
-satisfied with the fruit of Your works.
----
+>     He waters the hills from His upper chambers; The earth is
+>     satisfied with the fruit of Your works.
+
+***
+
 Psalm 104:13
 
 Suppose a child of three or four, staring out his window to a rainstorm, asked you,
@@ -19,15 +22,13 @@ answer? To answer this question of a question, we turn to Psalm 104.
 Psalm 104 gives us a lens with which we look at the world. Psalm 104, being Holy
 Scripture, must shape how we look at the world.
 
-The Eyes of Psalm 104
-=====================
+# The Eyes of Psalm 104
 
 This Psalmist combs through the world with eyes lit up with wonder. To him the
 world makes sense. There is a reason for the world. Order abounds. This world
 has order for one reason.
 
-Who gives, causes, sends, and waters?
--------------------------------------
+## Who gives, causes, sends, and waters?
 
 The bountiful world is under the care of Yahweh himself. He is the master
 attendant to the world's growth and sustenance. Yahweh stretches out the heavens
@@ -36,8 +37,7 @@ waters flee, (104:6). He sends the springs into the valleys (104:10). He waters
 the hills (104:13). He causes the grass to grow (104:14). He appoints the moon
 for seasons (104:19). He makes darkness (104:20).
 
-God as Keeper of the Earth
---------------------------
+## God as Keeper of the Earth
 
 Yahweh is not a God far away from his earth or people, he's the keeper. Every
 morning he's at work like a zookeeper giving each exhibit its food. There he is
@@ -45,15 +45,13 @@ handing out food for the lion, armadillo, bee, stork, and beluga whale. He keeps
 the sun moving along. Everything waits for Yahweh to provide, even the Leviathan
 (104:27). What a world to live in. What a way to look at the world.
 
-Look at the World Biblically
-============================
+# Look at the World Biblically
 
 This is how we ought to look at the world. Full of wonder. Full of God's
 providence plainly seen. Like a master gardener watering, trimming, singing, and
 healing with perfect time. Nothing is out of his sight.
 
-The Naturalist/Secularist Mindset
----------------------------------
+## The Naturalist/Secularist Mindset
 
 There's a chance you would've answered the child by waxing on about the
 evaporation cycle. Or the dance of high and low-pressure systems that bring
@@ -64,8 +62,7 @@ bigger machine that was set in motion. In the far distant future, the clock was
 jolted alive by an unknown amount of energy in the Big Bang and it's been
 running ever since. But even clocks need to be wound up.
 
-It's everywhere
----------------
+## It's everywhere
 
 This mindset that removes Yahweh from his place and keeper of the earth is
 everywhere. Yahweh's people have forgotten Yahweh. This happens because we've
@@ -73,16 +70,14 @@ taken our cues from our godless neighbors who want nothing to do with God, all
 while enjoying his care. Yahweh and his categories of right and wrong are
 removed from public discourse. And there has been fruit from this labor.
 
-Ideas Have Consequences
-=======================
+# Ideas Have Consequences
 
 The Psalmist's lens and the Naturalist lens are two incompatible ways of looking
 at the world. Yes, the Psalmist lens allows us to see how the evaporation cycle
 runs, but it is very different from saying the evaporation cycle is all there
 is.
 
-Consequences of Naturalism
---------------------------
+## Consequences of Naturalism
 
 We do not have to look far to find the consequence of naturalism. Naturalism
 look at the world as Richard Dawkins put it, "The universe we observe has
@@ -95,8 +90,7 @@ believe the whole universe exists for our benefit." Meaning is not possible with
 this lens. Right and Wrong are but preferences without God. Morality is nowhere
 to be seen. Death, destruction, and dread follow this sort of lens.
 
-Consequences of the Enchanted Lens
-----------------------------------
+## Consequences of the Enchanted Lens
 
 The enchanted lens of the Psalms brightens our eyes to the world around us.
 Everything has meaning. God gave all things a purpose. The sun grows the grass.

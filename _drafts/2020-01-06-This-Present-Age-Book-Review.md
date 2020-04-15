@@ -29,7 +29,7 @@ understanding and reflection, without passion, momentarily bursting into
 enthusiasm, and shrewdly relapsing into repose” (3).\[^2\] Simply put, nothing
 happens anymore except for publicity.
 
-\[^1\]: dsd
+\[^1\]: 
 
 \[^2\]: The translation I will henceforth quote is Alexander Dru’s found in the following publication: _The Present Age: On the Death of Rebellion_ (Harper Perennial Modern Classics, 2019).
 

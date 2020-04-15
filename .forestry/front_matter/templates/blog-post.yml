@@ -29,3 +29,5 @@ fields:
     time_format: 
     display_utc: false
   label: date
+pages:
+- _posts/hello-a-test.md

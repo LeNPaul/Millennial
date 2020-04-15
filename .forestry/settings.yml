@@ -15,10 +15,10 @@ sections:
   label: Authors
   create: all
   match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: assests/img
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:

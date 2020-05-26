@@ -15,9 +15,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: https://github.com/greglee1905}
+- {icon: 'github', link: 'https://github.com/greglee1905'}
 - {icon: 'envelope', link: 'mailto:greglee1905@aol.com'}
-- {icon: 'linkedin', link: https://www.linkedin.com/in/greg-lee-6309ab180/}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/greg-lee-6309ab180/'}
 
 
 # Customize site text

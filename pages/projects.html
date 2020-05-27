@@ -1,0 +1,27 @@
+---
+layout: page
+title: Projects
+---
+
+<ul>
+  {% for post in site.posts %}
+      <h1>
+      <a
+      href="{{ post.url }}">{{ post.title }}
+      </a>
+      </h1>
+
+      {% if page.image %}
+        <div class="featured-image">
+          <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+        </div>
+      {% endif %}
+
+
+      <p>
+      {{ post.image | truncate_words: 20 }}
+      <br>
+      </p>
+      <hr />
+  {% endfor %}
+</ul>

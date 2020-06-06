@@ -1,6 +1,10 @@
 ---
 layout: misc
-title: Contact
+title: let's talk!
 ---
+If you would like to contact me, please shoot me an email or send me a message on linkedin. I will get back to you as fast as I can. Projects which currently interest me include:
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+1. Computer vision
+2. Applying deep learning to biology to improve patient outcomes
+3. Ethical AI
+4. Local food justice

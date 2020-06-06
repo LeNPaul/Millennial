@@ -1,4 +1,4 @@
-I"TY<h1 id="millennial">Millennial</h1>
+I"PY<h1 id="millennial">Millennial</h1>
 
 <p>Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through <a href="https://pages.github.com/">Github Pages</a>, or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in <a href="https://lenpaul.github.io/Millennial/">the demo site</a>.</p>
 
@@ -212,7 +212,7 @@ image:
     <p>In <code class="highlighter-rouge">_data/settings.yml</code>, under ‘social’, comment out the rss-square that points to <code class="highlighter-rouge">feed.xml</code>, and uncomment the rss-square that points to <code class="highlighter-rouge">rss-feed.xml</code>.</p>
   </li>
   <li>
-    <p>In <code class="highlighter-rouge">_includes/head.html</code>, comment out <code class="highlighter-rouge">&lt;link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Greg Lee" /&gt;</code> and uncomment the line under the RSS 2.0 comment.</p>
+    <p>In <code class="highlighter-rouge">_includes/head.html</code>, comment out <code class="highlighter-rouge">&lt;link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="home" /&gt;</code> and uncomment the line under the RSS 2.0 comment.</p>
   </li>
 </ul>
 

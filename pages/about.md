@@ -1,6 +1,13 @@
 ---
 layout: misc
-title: About
+title: Hello!
 ---
+I was born and raised in Salt Lake City where I learned to ski before I could walk. I attended the University of Utah where I studied biomedical engineering between 2016 and 2020.
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+## Interests
+1. Cooking
+2. Climbing
+3. Tennis
+
+## Organizations I care about
+1.

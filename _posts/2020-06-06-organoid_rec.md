@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Intestinal Organoid Recognition"
 author: "Greg Lee"
 categories: documentation

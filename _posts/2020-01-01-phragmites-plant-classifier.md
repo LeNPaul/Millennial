@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Invasive Species Segmentation from Spectral Images"
 author: "Greg Lee"
 categories: documentation

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Mettasense: A Bench2Bedside Collaboration"
 author: "Greg Lee"
 categories: documentation

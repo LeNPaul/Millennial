@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Exploring Proteomic Similarities between Ovarian and Testicular Cancer"
 author: "Greg Lee"
 categories: documentation

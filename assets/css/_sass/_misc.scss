@@ -2,10 +2,20 @@
   padding: 0px 10px 10px;
 }
 .misc-content {
-  max-width: 600px;
+  max-width: 1000px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.misc-gl-image {
+  &__image {
+    vertical-align: top; 
+    max-width: 1500px;
+    width: 100px;
+    height: 200px;
+    margin: 20px 10px 20px;
+  }
 }

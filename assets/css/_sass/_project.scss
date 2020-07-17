@@ -15,6 +15,7 @@
   height: auto;
 }
 
+
 @media (max-width: $container-width) {
   .page-content {
     width: 60vw;
@@ -30,6 +31,7 @@
     display: block;
     max-width: 60vw;
   }
+  
 
 }
 @media (max-width: $tablet-width) {

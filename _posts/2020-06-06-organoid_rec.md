@@ -7,7 +7,4 @@ tags: [documentation]
 image: organoid.jpg
 ---
 
-Organoids are cool!
-
-# Introduction
-Organoids are some crazy shit.
+UNDER CONSTRUCTION. PLEASE VISIT GITHUB FOR CODE.

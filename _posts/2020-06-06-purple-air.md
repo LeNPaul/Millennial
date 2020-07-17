@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Particulate Air Concentration Analysis of Utah"
+title: "Utah Air Particulate Analysis"
 author: "Greg Lee"
 categories: documentation
 tags: [documentation]

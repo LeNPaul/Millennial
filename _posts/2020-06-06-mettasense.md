@@ -6,4 +6,4 @@ categories: documentation
 tags: [documentation]
 image: mettasense.png
 ---
-let's not break any ip protection on this device
+UNDER CONSTRUCTION. PLEASE VISIT GITHUB FOR CODE.

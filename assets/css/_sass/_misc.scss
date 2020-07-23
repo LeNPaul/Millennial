@@ -10,12 +10,16 @@
   margin-bottom: 10px;
 }
 
+.misc-gl {
+  border-radius: 8px;
+}
+
 .misc-gl-image {
   &__image {
     vertical-align: top; 
-    max-width: 1500px;
-    width: 100px;
-    height: 200px;
+
+    height: 20px;
+    width: 20px; /* ie8 */
     margin: 20px 10px 20px;
   }
 }

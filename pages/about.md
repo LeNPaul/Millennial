@@ -19,6 +19,9 @@ _The first step in battling the illusion of control is to be aware of if. But ev
 
    _Leonard Mlodinow_
 
+<div style="text-align:center;">
+  <p style="font-style: italic;"> *** </p>
+</div>
 
 
 

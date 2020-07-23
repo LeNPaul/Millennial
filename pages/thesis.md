@@ -14,3 +14,7 @@ Promoting intestinal epithelial regeneration remains a major medical challenge. 
 To continue reading click here --> [thesis](https://github.com/greglee1905/personalpage/blob/gh-pages/undergrad_thesis_2020.pdf)
 
 <hr>
+
+<div style="text-align:center;">
+    <p style="font-style: italic;"> *** </p>
+</div>

@@ -8,14 +8,15 @@ image: phragmites.jpg
 ---
 
 Phragmites australis is an invasive plant species threatening the Howard Slough Waterfowl Management Area in Salt Lake City, Utah. This project, contracted by the Utah Department of Natural Resources, aimed to segment P. australis from sUAS images in order to track the growth of the plant. A U-Net architecture yielded ~86% test set pixel-to-pixel accuracy in segmenting aerial images for P. australis. 
-<hr>
 <br>
+<hr>
+
 ## Background
 An invasive subspecies of Phragmites australis was likely introduced to Utah in the early 1980s. Since then, it has aggressively expanded, increased fire danger and caused ecological damage. The plant grows rampant in a local wildlife reserve known as the Howard Slough Waterfowl Management Area, just north of Salt Lake City. P. australis propagates by forming monotypic stands which harm the natural habitats of many migratory birds and shrubs.
 
  The spread of P. australis decreases diversity, altering nutrient cycling and hydrology. For many years, the Utah Department of Natural Resources (DNR) has been working to remove the plant. In an effort to track the progress and effectiveness of remediation, the DNR is imaging the Howard Slough Waterfowl Management Area. This system is necessary as the environment is extremely difficult to navigate and requires a Marsh Master to avoid vehicles getting stuck in the mud. A small Unmanned Aerial System (sUAS) is ideal for monitoring the situation. The sUAS is fitted with a multispectral image sensor (blue, green, red, red-edge, and near-infrared bands) and flown at a height to produce a ground sample distance of about 7.5 cm.
 
- <img src="{{ site.github.url }}/assets/img/phragmites_diagram.png" width="700" height="400">
+ <img src="{{ site.github.url }}/assets/img/phragmites_diagram.png" width="600" height="380">
 <br>
 
 ## Methodology
@@ -39,7 +40,7 @@ The original sUAS geographical raster was separated into 3,353 images, of which 
 
 Test set pixel-to-pixel accuracy was evaluated at approximately 86% with train set accuracy at 89%. Examination of images showcases the classifier struggled most on border cases, where fidelity became questionable (see figure below where blue represents the predicted segmentation mask). 
 
- <img src="/assets/img/phrag_preds.png" width="700" height="400">
+ <img src="{{ site.github.url }}/assets/img/phrag_preds.png" width="700" height="400">
 
 <br>
 ## Limitations and Future Directions
@@ -50,7 +51,7 @@ For a simple U-NET architecture, this P. australis classifier performed surprisi
 All images utilized for this project were collected by a drone capable of taking high resolution sUAS images. This allows for a potential invasion of privacy through surveillance. Further examination of the Howard Slough Waterfowl Management Area showcases that it is a field site, isolated from private property, owned by the State of Utah. The greatest concern is the potential capture of citizens within the area. Fortunately, when these data were collected, signs were posted which detailed the date and time of surveillance, detailing the privacy risks to any entering. To our knowledge, no additional data outside the designated area of interest were captured and no humans were identifiable from images. In terms of the goal of the project, P. australis is a well-known nuisance, and the primary stakeholders are the state government and duck/game hunters. Both are in support of removing the plant from the ecosystem, to improve the environment for the wildlife which depend on the Great Salt Lake ecosystem. Thus, any actionable changes to remove the P.australis are in the interest of the primary stakeholders, yielding a net-positive community outcome. 
 
 <br>
-## Conclusion:
+## Conclusion
 Geographic image segmentation is a rapidly evolving field within environmental conservation. This P. australis classifier represents a foray into the challenges associated with detecting and mapping objects from satellite images. As this invasive species is visually distinct in shape and texture, it is understandable that deep-learning algorithms can learn to classify P. australis. This U-NET architecture achieves approximately ~86% accuracy with much room for improvement stemming from common computer vision bag-of-freebies. The greatest challenge in shipping this product to the DNR lies in finding an accessible platform for accessible deployment. 
 
 <br>

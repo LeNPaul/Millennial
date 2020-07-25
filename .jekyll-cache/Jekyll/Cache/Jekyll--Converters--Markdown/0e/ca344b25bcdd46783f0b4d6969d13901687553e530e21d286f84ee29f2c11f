@@ -1,15 +1,14 @@
-I"Î"<p>Phragmites australis is an invasive plant species threatening the Howard Slough Waterfowl Management Area in Salt Lake City, Utah. This project, contracted by the Utah Department of Natural Resources, aimed to segment P. australis from sUAS images in order to track the growth of the plant. A U-Net architecture yielded ~86% test set pixel-to-pixel accuracy in segmenting aerial images for P. australis.</p>
+I"Ú"<p>Phragmites australis is an invasive plant species threatening the Howard Slough Waterfowl Management Area in Salt Lake City, Utah. This project, contracted by the Utah Department of Natural Resources, aimed to segment P. australis from sUAS images in order to track the growth of the plant. A U-Net architecture yielded ~86% test set pixel-to-pixel accuracy in segmenting aerial images for P. australis.</p>
 <hr />
 
 <p><br /></p>
 <h2 id="background">Background</h2>
 <p>An invasive subspecies of Phragmites australis was likely introduced to Utah in the early 1980s. Since then, it has aggressively expanded, increased fire danger and caused ecological damage. The plant grows rampant in a local wildlife reserve known as the Howard Slough Waterfowl Management Area, just north of Salt Lake City. P. australis propagates by forming monotypic stands which harm the natural habitats of many migratory birds and shrubs.</p>
 
-<p><img src="/assets/img/phragmites.jpg" width="350" height="250" /></p>
-
 <p>The spread of P. australis decreases diversity, altering nutrient cycling and hydrology. For many years, the Utah Department of Natural Resources (DNR) has been working to remove the plant. In an effort to track the progress and effectiveness of remediation, the DNR is imaging the Howard Slough Waterfowl Management Area. This system is necessary as the environment is extremely difficult to navigate and requires a Marsh Master to avoid vehicles getting stuck in the mud. A small Unmanned Aerial System (sUAS) is ideal for monitoring the situation. The sUAS is fitted with a multispectral image sensor (blue, green, red, red-edge, and near-infrared bands) and flown at a height to produce a ground sample distance of about 7.5 cm.</p>
 
-<p><img src="/assets/img/parrot.jpg" width="400" height="350" /></p>
+<p><img src="/assets/img/phragmites_diagram.png" width="650" height="380" />
+<br /></p>
 
 <h2 id="methodology">Methodology</h2>
 <p>The primary objective is to produce classified maps of Phragmites with reasonable accuracy. The data from the sUAS produced a single 4775 x 15282 x 5 image in the TIFF file format. Due to limits in training data and time, the image was cropped to 630 x 6792 x 5, and split by 0.5 for train and test sets.</p>
@@ -20,9 +19,11 @@
 
 <p>In total, approximately 70% of these labeled image tiles contained the plant species of interest. To prepare for training, the tiles and corresponding labels was split into a train (80%) and test (20%) set. These data were then oriented into a converted to a numpy array for input into a Tensorflow model. To segment the areas containing P. australis, a U-Net CNN architecture was leveraged [1].</p>
 
-<p><img src="/assets/img/phragmites_diagram.png" width="700" height="400" /></p>
+<p><img src="/assets/img/unet.png" width="460" height="300" /></p>
 
 <p>This model is made up of an encoder and decoder network capable of ‚Äúhighlighting‚Äù areas of interest in a high dimensional space before mapping those points to a segmentation map. This map is highly detailed as the pixel density is a one to one match between input and output. Tensorboard was used to do a simple hyperparameter search on the dropout rate, optimization algorithm and kernel initializer. In early iterations, there was a high degree of overfitting, as the training accuracy was significantly higher than the test accuracy. In an attempt to mitigate this issue, L2 regularization was added to several of the convolutional layers and normalization was performed on the input image data.</p>
+
+<p><img src="/assets/img/visualization.png" width="700" height="320" /></p>
 
 <p><br /></p>
 <h2 id="results">Results</h2>
@@ -41,7 +42,7 @@
 <p>All images utilized for this project were collected by a drone capable of taking high resolution sUAS images. This allows for a potential invasion of privacy through surveillance. Further examination of the Howard Slough Waterfowl Management Area showcases that it is a field site, isolated from private property, owned by the State of Utah. The greatest concern is the potential capture of citizens within the area. Fortunately, when these data were collected, signs were posted which detailed the date and time of surveillance, detailing the privacy risks to any entering. To our knowledge, no additional data outside the designated area of interest were captured and no humans were identifiable from images. In terms of the goal of the project, P. australis is a well-known nuisance, and the primary stakeholders are the state government and duck/game hunters. Both are in support of removing the plant from the ecosystem, to improve the environment for the wildlife which depend on the Great Salt Lake ecosystem. Thus, any actionable changes to remove the P.australis are in the interest of the primary stakeholders, yielding a net-positive community outcome.</p>
 
 <p><br /></p>
-<h2 id="conclusion">Conclusion:</h2>
+<h2 id="conclusion">Conclusion</h2>
 <p>Geographic image segmentation is a rapidly evolving field within environmental conservation. This P. australis classifier represents a foray into the challenges associated with detecting and mapping objects from satellite images. As this invasive species is visually distinct in shape and texture, it is understandable that deep-learning algorithms can learn to classify P. australis. This U-NET architecture achieves approximately ~86% accuracy with much room for improvement stemming from common computer vision bag-of-freebies. The greatest challenge in shipping this product to the DNR lies in finding an accessible platform for accessible deployment.</p>
 
 <p><br /></p>

@@ -11,7 +11,7 @@ Phragmites australis is an invasive plant species threatening the Howard Slough 
 <hr>
 <br>
 ## Background
-An invasive subspecies of Phragmites australis was likely introduced to Utah in the early 1980s. Since then, it has aggressively expanded, increased fire danger and caused ecological damage. The plant grows rampant in a local wildlife reserve known as the Howard Slough Waterfowl Management Area, just north of Salt Lake City. P. Australis propogates by forming monotypic stands which harm the natural habitats of many migratory birds and shrubs.
+An invasive subspecies of Phragmites australis was likely introduced to Utah in the early 1980s. Since then, it has aggressively expanded, increased fire danger and caused ecological damage. The plant grows rampant in a local wildlife reserve known as the Howard Slough Waterfowl Management Area, just north of Salt Lake City. P. australis propagates by forming monotypic stands which harm the natural habitats of many migratory birds and shrubs.
 
 <img src="{{ site.github.url }}/assets/img/phragmites.jpg" width="350" height="250">
 
@@ -36,19 +36,23 @@ This model is made up of an encoder and decoder network capable of “highlighti
 
 <br>
 ## Results
-The cropped original sUAS raster was separated into 3,353 images, of which 70% contained at least one pixel labeled as P. Australis. Data was split using a 80/20 schema leaving 2,682 images for training and 671 images for testing. Initially, it was anticipated hold-out images would be acquired in early May, 2020 to output a final, unbiased classifier evaluation metric. Unfortunately, this was not possible due to COVID-19 circumstances. With upcoming iterations, it would be better to perform a train/test/holdout split of 70/15/15 of similar label distribution to best assess the classifiers ability to segment P. Australis. 
+The original sUAS geographical raster was separated into 3,353 images, of which 70% contained at least one pixel labeled as P. australis. Data was split using a 80/20 schema leaving 2,682 images for training and 671 images for testing. Initially, it was anticipated hold-out images would be acquired in early May, 2020 to output a final, unbiased classifier evaluation metric. Unfortunately, this was not possible due to COVID-19 circumstances. With upcoming iterations, it would be better to perform a train/test/holdout split of 70/15/15 of similar label distribution to best assess the classifiers ability to segment P. australis.
 
+Test set pixel-to-pixel accuracy was evaluated at approximately 86% with train set accuracy at 89%. Examination of images showcases the classifier struggled most on border cases, where fidelity became questionable (see figure below where blue represents the predicted segmentation mask). 
 
+ <img src="{{ site.github.url }}/assets/img/phrag_preds.png" width="700" height="400">
 
 <br>
-## Limitations
-The P. australis classifer is currently limited in the accuracy of its predictions and the inability to adapt to differing input data shapes. Currently the accuracy on the test set of images is approximately 86%. With a greater amount of data from labeling or augmentation, the accuracy and generalizability should improve significantly. The original rasters have irregular shape, making it difficult to create 
-
-Currently the classifier is capable of only processing images of dimension 630x6792x5. Unfortunately the images taken are not of square format when imaged. Preprocessing of the network should be improved so images of any size can be processed and segmented with high accuracy. Overall, this is a fantastic version one though, as it classifies the images with reasonable accuracy!
+## Limitations and Future Directions
+For a simple U-NET architecture, this P. australis classifier performed surprisingly well allowing the DNR to evaluate the spread of the invasive species within the marshland. The classifier suffers in two distinct areas: accuracy and adaptability. The accuracy of the classifier hovers around ~86%, with the greatest amount of error coming from edge cases. Future iterations should consider high amounts of data augmentation to improve generalizability, change of loss function for better edge clarity and a fully convolutional architecture to adapt to rasters of irregular shape. Better accuracy may be gleaned by comparing the rasters to known mappings of the area so bodies of water and other common landmarks are preserved. Furthermore, the metric of evaluation should be altered to intersection-over-union which provides less bias when reporting on negative cases. These changes will increase the accuracy of the classifier and expand the usability.
 
 <br>
 ## Ethical Considerations
-The project was requested by a state government agency, and while it does involve imagery collected by a “drone”, the field site is very isolated and not near any private property. Phragmites australis is a well-known nuisance, and the primary stakeholders are the state government and duck/game hunters. Both are in support of removing the plant from the ecosystem, to improve the environment for the many birds that depend on the greater Great Salt Lake ecosystem. The largest consideration is that the DNR receives accurately classified maps, however this class project is not intended to produce any deliverable product.
+All images utilized for this project were collected by a drone capable of taking high resolution sUAS images. This allows for a potential invasion of privacy through surveillance. Further examination of the Howard Slough Waterfowl Management Area showcases that it is a field site, isolated from private property, owned by the State of Utah. The greatest concern is the potential capture of citizens within the area. Fortunately, when these data were collected, signs were posted which detailed the date and time of surveillance, detailing the privacy risks to any entering. To our knowledge, no additional data outside the designated area of interest were captured and no humans were identifiable from images. In terms of the goal of the project, P. australis is a well-known nuisance, and the primary stakeholders are the state government and duck/game hunters. Both are in support of removing the plant from the ecosystem, to improve the environment for the wildlife which depend on the Great Salt Lake ecosystem. Thus, any actionable changes to remove the P.australis are in the interest of the primary stakeholders, yielding a net-positive community outcome. 
+
+<br>
+## Conclusion:
+Geographic image segmentation is a rapidly evolving field within environmental conservation. This P. australis classifier represents a foray into the challenges associated with detecting and mapping objects from satellite images. As this invasive species is visually distinct in shape and texture, it is understandable that deep-learning algorithms can learn to classify P. australis. This U-NET architecture achieves approximately ~86% accuracy with much room for improvement stemming from common computer vision bag-of-freebies. The greatest challenge in shipping this product to the DNR lies in finding an accessible platform for accessible deployment. 
 
 <br>
 ## Sources

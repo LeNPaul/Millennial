@@ -1,4 +1,4 @@
-I"<p>Phragmites australis is an invasive plant species threatening the Howard Slough Waterfowl Management Area in Salt Lake City, Utah. This project, contracted by the Utah Department of Natural Resources, aimed to segment P. australis from sUAS images in order to track the growth of the plant. A U-Net architecture yielded ~86% test set pixel-to-pixel accuracy in segmenting aerial images for P. australis.</p>
+I"6<p>Phragmites australis is an invasive plant species threatening the Howard Slough Waterfowl Management Area in Salt Lake City, Utah. This project, contracted by the Utah Department of Natural Resources, aimed to segment P. australis from sUAS images in order to track the growth of the plant. A U-Net architecture yielded ~86% test set pixel-to-pixel accuracy in segmenting aerial images for P. australis.</p>
 <hr />
 
 <p><br /></p>
@@ -28,7 +28,11 @@
 
 <p><br /></p>
 <h2 id="results">Results</h2>
-<p>The cropped original sUAS raster was separated into 3,353 images, of which 70% contained at least one pixel labeled as P. Australis. Data was split using a 80/20 schema leaving 2,682 images for training and 671 images for testing. Initially, it was anticipated hold-out images would be acquired in early May, 2020 to output a final, unbiased classifier evaluation metric. Unfortunately, this was not possible due to COVID-19 circumstances. With upcoming iterations, it would be better to perform a train/test/holdout split of 70/15/15 of similar label distribution to best assess the classifiers ability to segment P. Australis.</p>
+<p>The original sUAS geographical raster was separated into 3,353 images, of which 70% contained at least one pixel labeled as P. Australis. Data was split using a 80/20 schema leaving 2,682 images for training and 671 images for testing. Initially, it was anticipated hold-out images would be acquired in early May, 2020 to output a final, unbiased classifier evaluation metric. Unfortunately, this was not possible due to COVID-19 circumstances. With upcoming iterations, it would be better to perform a train/test/holdout split of 70/15/15 of similar label distribution to best assess the classifiers ability to segment P. Australis.</p>
+
+<p>Test set pixel-to-pixel accuracy was evaluated at approximately 86% with train set accuracy at 89%. Examination of images showcases the classifier struggled most on border cases, where fidelity became questionable.</p>
+
+<p><img src="/assets/img/phrag_preds.png" width="700" height="400" /></p>
 
 <p><br /></p>
 <h2 id="limitations">Limitations</h2>

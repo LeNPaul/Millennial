@@ -13,11 +13,10 @@ Phragmites australis is an invasive plant species threatening the Howard Slough 
 ## Background
 An invasive subspecies of Phragmites australis was likely introduced to Utah in the early 1980s. Since then, it has aggressively expanded, increased fire danger and caused ecological damage. The plant grows rampant in a local wildlife reserve known as the Howard Slough Waterfowl Management Area, just north of Salt Lake City. P. australis propagates by forming monotypic stands which harm the natural habitats of many migratory birds and shrubs.
 
-<img src="{{ site.github.url }}/assets/img/phragmites.jpg" width="350" height="250">
-
  The spread of P. australis decreases diversity, altering nutrient cycling and hydrology. For many years, the Utah Department of Natural Resources (DNR) has been working to remove the plant. In an effort to track the progress and effectiveness of remediation, the DNR is imaging the Howard Slough Waterfowl Management Area. This system is necessary as the environment is extremely difficult to navigate and requires a Marsh Master to avoid vehicles getting stuck in the mud. A small Unmanned Aerial System (sUAS) is ideal for monitoring the situation. The sUAS is fitted with a multispectral image sensor (blue, green, red, red-edge, and near-infrared bands) and flown at a height to produce a ground sample distance of about 7.5 cm.
 
- <img src="{{ site.github.url }}/assets/img/parrot.jpg" width="400" height="350">
+ <img src="{{ site.github.url }}/assets/img/phragmites_diagram.png" width="700" height="400">
+<br>
 
 ## Methodology
 The primary objective is to produce classified maps of Phragmites with reasonable accuracy. The data from the sUAS produced a single 4775 x 15282 x 5 image in the TIFF file format. Due to limits in training data and time, the image was cropped to 630 x 6792 x 5, and split by 0.5 for train and test sets.
@@ -40,7 +39,7 @@ The original sUAS geographical raster was separated into 3,353 images, of which 
 
 Test set pixel-to-pixel accuracy was evaluated at approximately 86% with train set accuracy at 89%. Examination of images showcases the classifier struggled most on border cases, where fidelity became questionable (see figure below where blue represents the predicted segmentation mask). 
 
- <img src="{{ site.github.url }}/assets/img/phrag_preds.png" width="700" height="400">
+ <img src="/assets/img/phrag_preds.png" width="700" height="400">
 
 <br>
 ## Limitations and Future Directions

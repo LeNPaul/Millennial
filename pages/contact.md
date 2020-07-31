@@ -13,5 +13,5 @@ If you would like to contact me, please shoot me an [email](greglee1905@aol.com)
 <br>
 
 <div class = "misc-gl">
-  <img src="{{ site.github.url }}/assets/img/lets_chat.jpeg" width=1100px height=400px>
+  <img src="{{ site.github.url }}/assets/img/lets_chat.jpeg" width="1100" height="400">
 </div>

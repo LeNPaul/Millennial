@@ -1,0 +1,53 @@
+---
+layout: project
+title: "Mettasense: A Bench2Bedside Collaboration"
+author: "Greg Lee"
+categories: documentation
+tags: [documentation]
+image: mettasense.png
+---
+Endotracheal tubes (ETT) are a core component of the intubation process. They consist of a PVC tube with special cuff at the end. Once positioned, the cuff is inflated to secure the tube in place. Unfortunately, when overinflated the cuff decreases blood flow to nearby tissues resulting in tracheal stenosis and tissue damage. Mettasense is a sensor which measures, records and mediates pressure within an endotracheal tube cuff. It leverages a check valve to relieve high pressure, a prominent cause of tracheal injury. Mettasense houses electrical components to constantly check cuff pressure. Dangerous deviations are caught by the device, resulting in visual and audio alarms. Mettasense adds new material to the field of tracheal research as it records and organizes all processed pressure data. Combined, it provides a platform which mediates endotracheal cuff pressure while collecting valuable data.
+
+## Background
+Endotracheal tubes (ETT) are used in Intensive Care Units (ICUs) across the country to open patient's airways and deliver an adequate air supply to unconcious patients. ETT’s are inserted into the mouth and placed in the trachea where a balloon cuff is inflated. The cuff on the ETT keeps the tube in place and seals the airway. However, there is no standard or regulation for monitoring the pressure of the cuff. While research shows the ideal pressure is around 20-30 cm H20 (~0.2 - 0.4 psi), many cuffs are overinflated which reduces blood flow to surrounding tissues and causes necrosis and scar tissue formation. This leads to breathing issues and other complications, often seen 6-8 weeks after ICU patients leave the hospital.  
+
+## Design Aim
+The goal of this project was to create a device which minimizes damage to tracheal tissue during long term intubation. Our team planned to create an external pressure regulator capable of attaching to the endotracheal tube inflation balloon and regulating the air pressure to avoids dangerous levels (>0.4 psi). This device will give medical personnel an accurate, autonomous, method of monitoring cuff pressure to prevent harmful deviations. In order to build this device, a design plan was developed in accordance with the quality system regulations outlined in the CFR Section 21 Part 820.30 alongside the standard operating procedures of the Bench2Bedside competition. 
+
+## Team
+Our modified endotracheal tube team was composed of four members and mentored by a University of Utah physician. I served as the team lead and  programmer, responsible for product inception, reflection and delivery alongside device programming. I was accompanied by Laura Ziegler, Patrick Nielson and Sophie McQuinn who worked on electrical components, ergonomic design and airflow engineering respectively. 
+
+<img src="{{ site.github.url }}/assets/img/mettasense_imgs/MET_team.jpeg" width="850" height="600">
+
+## Product Summary
+Mettasense is a sensor which decreases risk of tracheal damage following long-term intubation. It constantly measures, records and mediates endotracheal tube cuff pressure through an integrated mechanical and electrical interface. Mettasense automatically centers pressure in research backed, risk-free ranges without interfering with medical workflow. It alerts medical personal to dangerous pressure deviations and generates valuable data, key in identifying new prevention solutions. Mettasense is easily attached and functions with little assistance. Incorporation of this device into the market will reduce long term intubation related injuries and increase our knowledge of endotracheal tube related complications.
+
+<img src="{{ site.github.url }}/assets/img/mettasense_imgs/device.jpeg" width="500" height="500">
+
+## Market Research
+More than 5.7 million patients are admitted to the intensive care unit (ICU) per year in the United states. Most of the admitted patients are diagnosed with respiratory illnesses and require an ETT to breath. Of those, about 30% of patients require a ventilator. (5.7 million patients x 30% require an ETT ≅ 1.71 million ETTs are used each year in the ICU) We will sell attachments for approximately 1.5% of the total ETTs used in the ICU (~25,650 devices) per year assuming devices are single-use. We will sell our product for a maximum of $200.00 USD each, making a revenue of $171,000,000/5 years or $34,200,000/year. 
+
+Device competition consists of a bulb handle cuff manometer, Tru-Cuff syringe, and the Intellicuff. The bulb handle cuff manometer is expensive; costing roughly $400 USD per device. Additionally, there are limited manometers per each ICU, forcing medical personnel to manually measure pressures, consuming valuable time. The Tru-Cuff syringe is single-use, cost $22 USD for 3 devices, however it is not FDA approved. Intellicuff is very expensive, with a sale price of about $4000 USD per device. It has a high degree of customizability and is capable of adjusting cuff pressure. Sadly, Intellicuff is a bulky machine, futher cluttering the ICU patient space.
+
+## Specifications
+This device is an attachment for an ETT. It has four features with distinct functions. 
+1. **Connections:**
+    - A luer lock connection to the ETT cuff's one-way valve, which creates a closed system with a common air pressure. A second luer lock connects to any inflation instrument with a female luer lock connector, allowing air to be added to the system. A clip was added for additional security to ensure the device does not disconnect from the ETT. 
+2. **Check Valve:**
+    - A check valve monitors and regulates the pressure in the ETT cuff.When the air pressure in the chamber exceeds 0.43 psi (30 cmH2O), a poppet will push against a spring, compressing it. Once the spring is compressed to a measured degree, a silicone O-ring seal will be broken allowing air to be released from the air pressure chamber and consequently the cuff. When the pressure drops below 0.43 psi, the spring will contract, pushing against the poppet, causing it to return to its initial position, resealing the pressure chamber. The system will be air tight at pressures under 0.43 psi. Sealed air pressure will remain within 0.28 -0.43 psi (20-30 cmH2O) for at least two weeks thereafter.
+
+3. **Pressure Sensors and Data Capture:**
+    - An electrical component measures the pressure ± 0.02 psi within the ETT cuff balloon. If the pressure drops below 0.28 psi or above 0.43 psi, the component will emit a visual and auditory alarm, signaling the attention of medical personnel. Furthermore, pressure will be read and displayed every 100 milliseconds. The value will be written to on-board storage every 1000 ms. 
+<img src="{{ site.github.url }}/assets/img/mettasense_imgs/sensor.png" width="600" height="400">
+
+## Prototyping and Validation Testing
+Multiple prototypes were created utilizing 3D printing and Arduino circuit kits. The team is currently working on a fifth iteration of the device which aims to greatly minimize the sensor size and improve the airtight seal. Prototype four separates the sensor and check valve to maximize team productivity. Once the sensor is reduced in size (printed PCB and increased efficiency), the team will begin to merge the two pieces into a single device. 
+
+<img src="{{ site.github.url }}/assets/img/mettasense_imgs/prototype.png" width="800" height="300">
+
+Prototype four was subject to a total of 18 tests to verify the product specifications including drop, tensile strength, battery life, sensor accuracy and data collection tests. The current prototype does not meet all specifications due to its rudimentary build structure. With time and more fundings, we expect these outcomes to improve. The figure below showcases experimentation with sensor smoothing to ensure alarms were only triggered if a high/low pressure was detected for an extended amount of time.    
+
+<img src="{{ site.github.url }}/assets/img/mettasense_imgs/Mettasense_Example.png" width="600" height="400">
+
+## Future Directions
+Initially, this project served to fulfill an undergraduate capstone requirement in 2019. Late in 2019, our team decided to take the project further, hoping to win the Bench2Bedside competition for early-stage medical devices. We started to unite our product vision, laid a business foundation and began seeking advice in manufacturing. With the onset of the COVID-19 pandemic, the competition was cancelled which has stalled our progress. We hope to start working again when it is safe. In total, this project represented a multi-year cross-functional collaboration where our team generated a preliminary medical device and completed all associated FDA regulatory paperwork. Each team member grew substantially while working on the project, leveraging their specific skillset to realize a portion of the design. We hope to eventually see the device in use!

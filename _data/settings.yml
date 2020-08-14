@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'projects', folder: 'pages', file: 'projects.html'}
-- {name: 'writing', folder: 'pages', file: 'thesis.html'}
+- {name: 'writing', folder: 'pages', file: 'writing.html'}
 - {name: 'about', folder: 'pages', file: 'about.html'}
 - {name: 'contact', folder: 'pages', file: 'contact.html'}
 

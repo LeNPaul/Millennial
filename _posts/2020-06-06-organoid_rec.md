@@ -6,6 +6,14 @@ categories: documentation
 tags: [documentation]
 image: organoid.jpg
 ---
+[UNDER CONSTRUCTION]
+
+
+
+
+
+
+
 Organoids are small, self-organized tissues grown from stem-cell progenitors. These *ex vivo* cultures help bridge the gap between animal models and cell culture experiments as they recapitulate the cellular heterogeneity without high cost. Organoids can be viewed via confocal microscopy and counted as a measure of stem-cell viability. This project aims to recognize and quantify intestinal organoids with YOLOv3. 
 
 ## Background
@@ -17,6 +25,13 @@ Organoid assays are often quantified by taking representative images of the gel 
 ## Architecture
 
 There are many types of algorithms capable of image detection including YOLO, Region-based Convolutional Neural Networks (R-CNNs), Single Shot Multibox Detectors (SSD) and Histograms of Oriented Gradients (HOGs). Each algorithm excels under certain conditions:
+
+|---------------+----------+---------------+--------------|
+| Algorithm | Diagram | Strengths |Weaknesses|
+|:---------------|:---------------|:---------------|:---------------|
+| You Only Look Once v3 | Second cell | Third cell      | fourth cell    |
+| Faster R-CNN | Second cell | Third cell      | fourth cell    |
+|-----------------+------------+-----------------+----------------|
 
 1. YOLO
     - Fast
@@ -31,18 +46,27 @@ There are many types of algorithms capable of image detection including YOLO, Re
     - Use combination of HOG and SCale Invariant Feature transformation to identify interest points within images based on normalized local histograms of image gradients. [6]
 
 ## Goal
-An implementation of R-CNNs to quantify organoids was performed by a group at MIT [7]. While this methodology may result in the highest accuracy classification of organoids, it is not fast enough to do real-time detection on a microsope. This project aims to explore if YOLO can achieve roughly equal accuracy on organoid classification, at times fast enough to perform on video. As a researcher, having a tool to quickly quantify organoid images would save many painstaking hours of data collection and processing enabling increased efficiency and assay turn-around.
+An implementation of R-CNNs to quantify organoids was developed by Kassis et al. at MIT [7]. While this methodology may result in the highest classification accuracy, it is not fast enough to perform real-time detection on a microscope. This project aims to explore if YOLO can achieve roughly equal accuracy on organoid classification in real-time. As a researcher, having a tool to quickly quantify organoid images would save time in data collection and processing enabling increased efficiency and assay turn-around. To minimize the processing time, quantification should happen on the microscope camera to avoid all post-processing steps. In an ideal workflow, organoid plates would be placed on a microscope basin and quantified automatically. This project serves as a proof-of-concept to verify intestinal organoid images can be quantified with high accuracy.
 
 ## Data Collection
 These images come directly from experiments performed by Greg Lee under the direction of Dr. Helong Zhao at the University of Utah. The following protocol was used to grow intestinal organoids from mice:
 
-C57BL/6J (wildtype) were purchased from Jackson Laboratories. All male and female mice used for intestinal crypt isolation were adults (8–10 weeks old). The isolation procedure was modified from an established protocol [7]. The jejunal sections of the mouse’s small intestine was harvested, opened longitudinally and washed with ice cold 1x phosphate buffer saline (PBS) (Sigma-Aldrich). Mucus and villi were removed using a thin glass coverslip and tissue was cut into 1 cm sections. The tissue pieces were washed in cold PBS and incubated in 30 mM ethylenediaminetetraacetic acid (EDTA) (Sigma-Aldrich), dissolved in PBS, for 8 minutes on ice. Under harsh stripping conditions, dithiothreitol (DTT) (Thermo-Fisher) was added to this solution at a concentration of 1.5 mM. Tissue pieces were transferred to PBS and incubated for 15 minutes on ice. Crypts were liberated by vigorously shaking for 3 minutes and isolated by passage through a 70 mm cell strainer. Purified crypts were pelleted by centrifugation (300 g for 5 minutes at 23 degrees C) and washed twice with PBS to remove any remaining contaminants. All animal studies were approved by University of Utah Institutional Animal Care and Use Committee under protocol number 16-05012 and 18-02010. All animal experiments were conducted in accordance with National Institute of Health Guide for the Care and Use of Laboratory Animals.
+    C57BL/6J (wildtype) were purchased from Jackson Laboratories. All male and female mice used for intestinal crypt isolation were adults (8–10 weeks old). The isolation procedure was modified from an established protocol [8]. The jejunal sections of the mouse’s small intestine was harvested, opened longitudinally and washed with ice cold 1x phosphate buffer saline (PBS) (Sigma-Aldrich). Mucus and villi were removed using a thin glass coverslip and tissue was cut into 1 cm sections. The tissue pieces were washed in cold PBS and incubated in 30 mM ethylenediaminetetraacetic acid (EDTA) (Sigma-Aldrich), dissolved in PBS, for 8 minutes on ice. Under harsh stripping conditions, dithiothreitol (DTT) (Thermo-Fisher) was added to this solution at a concentration of 1.5 mM. Tissue pieces were transferred to PBS and incubated for 15 minutes on ice. Crypts were liberated by vigorously shaking for 3 minutes and isolated by passage through a 70 mm cell strainer. Purified crypts were pelleted by centrifugation (300 g for 5 minutes at 23 degrees C) and washed twice with PBS to remove any remaining contaminants. All animal studies were approved by University of Utah Institutional Animal Care and Use Committee under protocol number 16-05012 and 18-02010. All animal experiments were conducted in accordance with National Institute of Health Guide for the Care and Use of Laboratory Animals.
 
-Isolated crypts were counted then pelleted by centrifugation (300 g for 5 minutes at 23 degrees C). 1000 crypts were suspended in 80 mL of 50% growth-factor-reduced phenol-red-free Matrigel (Corning) diluted in conditioned LWRN culture medium containing WNT3a, R-spondin, and Noggin. This suspension was pipetted onto the center of a 24 well plate to create a dome. Each gel polymerized at 37°C for 20 minutes. 750 mL of media containing a treatment (singularly including b-estradiol (Sigma-Aldrich), 4-hydroxytamoxifen (Cayman), and G15 (Tocris)) was added to fully submerge the gel. Media was changed every 3 to 4 days, with treatment maintenance throughout. Organoids were counted under 4x magnification with images captured on the EVOSTM Auto Imaging System 4 and 7 days after plating. The number of organoids was normalized per each experiment.
+    Isolated crypts were counted then pelleted by centrifugation (300 g for 5 minutes at 23 degrees C). 1000 crypts were suspended in 80 mL of 50% growth-factor-reduced phenol-red-free Matrigel (Corning) diluted in conditioned LWRN culture medium containing WNT3a, R-spondin, and Noggin. This suspension was pipetted onto the center of a 24 well plate to create a dome. Each gel polymerized at 37°C for 20 minutes. 750 mL of media containing a treatment (singularly including b-estradiol (Sigma-Aldrich), 4-hydroxytamoxifen (Cayman), and G15 (Tocris)) was added to fully submerge the gel. Media was changed every 3 to 4 days, with treatment maintenance throughout. Organoids were counted under 4x magnification with images captured on the EVOSTM Auto Imaging System 4 and 7 days after plating. The number of organoids was normalized per each experiment.
 
-The images used for this project  organoids, seven days after seeding. The organoid image collection is too large to upload to github. This folder represents a small subsample of images. If you have an interest in utilizing these data, please shoot me an email: greglee1905@icloud.com.
+All images used within this project represent intestinal mice organoids seven days after seeding. Organoids were subject to treatments which may affect the generalizability of the classifier. There are 10 sample images within git [repo](https://github.com/greglee1905/Organoid_Recognition/tree/master/sample_images) and the full set of data is available upon [email](greglee1905@icloud.com) request (1,200 images with bounding box labels). 
+<img src="{{ site.github.url }}/assets/img/organoid_imgs/org_sample_img.jpg" width="500">
 
 ## Data Labeling: 
-YOLO follows a very specific labeling method utilizing bounding boxes. In order to create labels for all images, [labelImg](https://github.com/tzutalin/labelImg) was utilized. If labeling more images, make sure to select 'YOLO' as the label format, not 'PASCAL/VOC'. All images were hand labeled by Ryan Boekholder and Greg Lee.
+YOLO follows a very specific labeling method utilizing bounding boxes, with . In order to create labels for all images, [labelImg](https://github.com/tzutalin/labelImg) was utilized. If labeling more images, make sure to select 'YOLO' as the label format, not 'PASCAL/VOC'. All images were hand labeled by Ryan Boekholder and Greg Lee.
 
-## 
+## Sources
+[1] https://pjreddie.com/media/files/papers/YOLOv3.pdf
+[2] https://martinapugliese.github.io/recognise-objects-yolo/
+[3] https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2
+[4] https://machinelearningmastery.com/object-recognition-with-deep-learning/
+[5] https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad
+[6] https://mccormickml.com/2013/05/09/hog-person-detector-tutorial/
+[7] Kassis, T., Hernandez-Gordillo, V., Langer, R. et al. OrgaQuant: Human Intestinal Organoid Localization and Quantification Using Deep Convolutional Neural Networks. Sci Rep 9, 12479 (2019). https://doi.org/10.1038/s41598-019-48874-y
+[8] Hamilton KE, Crissey MA, Lynch JP, et al. (2015, May.). Culturing adult stem cells from mouse small intestinal crypts. Cold Spring Harbor Protocols.1940-3402. 

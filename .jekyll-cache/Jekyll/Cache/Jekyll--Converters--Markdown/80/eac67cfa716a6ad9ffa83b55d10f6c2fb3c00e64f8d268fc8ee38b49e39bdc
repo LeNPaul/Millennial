@@ -1,5 +1,6 @@
-I"
-6<p>Organoids are small, self-organized tissues grown from stem-cell progenitors. These <em>ex vivo</em> cultures help bridge the gap between animal models and cell culture experiments as they recapitulate the cellular heterogeneity without high cost. Organoids can be viewed via confocal microscopy and counted as a measure of stem-cell viability. This project aims to recognize and quantify intestinal organoids with YOLOv3.</p>
+I"Õ6<p>Organoids are small, self-organized tissues grown from stem-cell progenitors. These <em>ex vivo</em> cultures help bridge the gap between animal models and cell culture experiments as they recapitulate the cellular heterogeneity without high cost. Organoids can be viewed via confocal microscopy and counted as a measure of stem-cell viability. This project aims to recognize and quantify intestinal organoids with YOLOv3. 
+<br /></p>
+<hr />
 
 <h2 id="aims">Aims</h2>
 <p>This project aims to explore if YOLO can accurately recognize and classify organoids in real-time. As a researcher, having a tool to quickly quantify organoid images would save time in data collection and processing enabling increased efficiency and assay turn-around. To minimize the processing time, quantification should happen on the microscope camera to avoid all post-processing steps. In an ideal workflow, organoid plates would be placed on a microscope basin and quantified automatically. This project serves as a proof-of-concept to verify intestinal organoid images can be quantified with high accuracy.</p>
@@ -65,14 +66,12 @@ Isolated crypts were counted then pelleted by centrifugation (300 g for 5 minute
 <p>Orgnet stands to benefit from improved preprocessing, video adaption and usability. This algorithm struggles when organoids are within extreme lighting or out of focus. To address this, preprocessing techniques such as singular value decomposition or Fourier filtering should be utilized to increase the contrast of organoids against the background. This may help clarify edge cases, making them more obvious. Initially, the goal of this project was to create an algorithm capable of real-time detection of organoids so microscope cameras could be equipped to count these 3D structures within a 96-well plate. To truly leverage this platform, adaptions should be made to recognize organoids in real-time. This way, a plate could be scanned and counted to increase high-throughput experimentation. Additionally with video processing, the plate could be manipulated by height to bring different planes into focus. This would allow the algorithm to more accurately quantify all organoids by reducing blurriness. While accuracy is a concern, integrating the tool into the 3D culture community remains a priority. A simple GUI implementation or microscope software patch would greatly increase the usability of Orgnet allowing those without a coding background to increase experimental efficiency.</p>
 
 <h2 id="conclusion">Conclusion</h2>
-<p>Orgnet represents a deep-learning approach to quantify intestinal mouse organoids. This algorithm performs well when organoids are separated, in good focus and not in extreme lighting. Many improvements stand to be in pre-processing, video adaption, GUI integration and segmentation. In its current version, this application works well for quantifying intestinal mouse organoids and may be generalizable to other organoid types, depending on their visual similarity. Please forward any questions, bugs or concerns to greglee1905@icloud.com!</p>
+<p>Orgnet represents a deep-learning approach to quantify intestinal mouse organoids. This algorithm performs well when organoids are separated, in good focus and not in extreme lighting. Many improvements stand to be in pre-processing, video adaption, GUI integration and segmentation. In its current version, this application works well for quantifying intestinal mouse organoids and may be generalizable to other organoid types, depending on their visual similarity. Please forward any questions, bugs or concerns to greglee1905@icloud.com! Currently, I am working on an implementation of YOLOv4 for organoid recognition. Please check back soon for updates!</p>
 
 <h2 id="sources">Sources</h2>
-<ol>
-  <li>Sato T., Vries G., Snippert J., et al. (2009, Jul.). Single Lgr5 stem cells build crypt-villus structures in-vitro without a mesenchymal niche. Nature.459:262-265.</li>
-  <li>Redmon J. and Farhadi A. (2018, Apr.). YOLOv3: An Incremental Improvement. arXiv. 1804.02767.</li>
-  <li>Ren S., He K., Girshick R., et al. (2015, Jul.). Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. arXiv. 1506.01497.</li>
-  <li>Kassis, T., Hernandez-Gordillo, V., Langer, R. et al. (2019, Aug.). OrgaQuant: Human Intestinal Organoid Localization and Quantification Using Deep Convolutional Neural Networks. Sci Rep. 9:12479</li>
-  <li>Hamilton KE, Crissey MA, Lynch JP, et al. (2015, May.). Culturing adult stem cells from mouse small intestinal crypts. Cold Spring Harbor Protocols. 1940-3402.</li>
-</ol>
+<p><strong>[1]</strong> Sato T., Vries G., Snippert J., et al. (2009, Jul.). Single Lgr5 stem cells build crypt-villus structures in-vitro without a mesenchymal niche. Nature.459:262-265.
+<br /><strong>[2]</strong> Redmon J. and Farhadi A. (2018, Apr.). YOLOv3: An Incremental Improvement. arXiv. 1804.02767.
+<br /><strong>[3]</strong> Ren S., He K., Girshick R., et al. (2015, Jul.). Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. arXiv. 1506.01497. 
+<br /><strong>[4]</strong> Kassis, T., Hernandez-Gordillo, V., Langer, R. et al. (2019, Aug.). OrgaQuant: Human Intestinal Organoid Localization and Quantification Using Deep Convolutional Neural Networks. Sci Rep. 9:12479
+<br /><strong>[5]</strong> Hamilton KE, Crissey MA, Lynch JP, et al. (2015, May.). Culturing adult stem cells from mouse small intestinal crypts. Cold Spring Harbor Protocols. 1940-3402.</p>
 :ET

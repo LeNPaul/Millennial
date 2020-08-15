@@ -12,13 +12,13 @@ Particulate matter 2.5 (PM2.5) is a carcinogenic material associated with advers
 ## Background
 The Salt Lake City basin is an established outdoor kingpin with a rapidly expanding technology sector. The geographic shape of the region leads to “sinkholes” of pollution with notably high concentrations of particulate matter and ozone. With reduced wind and precipitation, warm air traps pollutants in the basin resulting in high pollutant concentrations, breathable by city dwellers. These trapped toxins are dangerous to human health. Particulate matter 2.5 (PM2.5) is robustly associated with many negative disease outcomes including non-fatal heart attacks, asthma and increased cancer risk.
 
-![Inversion from Mt. Baldy, Alta]({{ site.github.url }}/assets/img/inversion.JPG){:class="project-featured-image"}
+![Inversion from Mt. Baldy, Alta]({{ site.github.url }}/assets/img/purp_air/inversion.JPG){:class="project-featured-image"}
 <br>
 <br>
 ##  Data Acquisition
 Two entities which monitor and predict particulate matter concentrations are the Environmental Protection Agency (EPA) and Purple Air. The EPA tracks air quality in real-time via a network of sensors known as [AirNow](https://www.airnow.gov/). These data are available at minute intervals, starting in 1990, via an API on their website. The spatial coverage in Utah is limited since there are only a few sensors (N=27 in 2020) nearby areas of high urban density. [PurpleAir](https://www2.purpleair.com/) (1030 Legacy Sensors and 524 Experimental Sensors in 2020) publicly release real-time data via a web portal with no back-log. One advantage to PurpleAir data is its widespread spatial coverage, especially in the Salt Lake City basin. 
 
-![Sensor Locations]({{ site.github.url }}/assets/img/sensor_locations.png){:class='project-featured-image'}
+![Sensor Locations]({{ site.github.url }}/assets/img/purp_air/sensor_locations.png){:class='project-featured-image'}
 
 AirNow and PurpleAir sensors detect several different pollutants including particulate matter and ozone. PurpleAir tracks a greater number of particulates, notably PM2.5, PM10 and volatile organic compounds while AirNow sensors only record PM2.5. Additionally, PurpleAir sensors measure temperature, humidity, and pressure. Within Utah, the tracking, analysis and forecasting of PM2.5 is critical in protecting public health. Few studies analyze the PurpleAir data as public data access is limited. In order to explore how the COVID-19 pandemic stay-at-home guidelines are affecting air quality in Utah, I collected and analyzed hourly PM2.5 data from PurpleAir and EPA AirNow for the week of April 7th to 14th. Please note, both data repositories are publicly accessible. Often, PurpleAir sensors are placed on residential properties and users have consented for their information to be shared publicly. AirNow sensor data are curated and released by the EPA. Data does not contain any information about the property or residents, simply the location (Lat/Lon). For additional questions concerning data privacy, please visit the [PurpleAir](https://www2.purpleair.com/policies/privacy-policy) [AirNow](https://docs.airnowapi.org/faq) websites.
 
@@ -29,12 +29,12 @@ Hourly AirNow measurements were queried from their [API](https://docs.airnowapi.
 ## Cleaning and Quality Control 
 Data cleaning represented the crux of this project due to data sparsity and standardization. The PurpleAir data contained roughly 170,000 entries recorded by 1,030 sensors. Any sensors which showcased values over 150 [CONC] where removed as no areas in Utah has remarkably high PM2.5 during the chosen analysis week. Visualization of the null values showcased the PurpleAir data to be missing approximately 6% of PM2.5 values and 45% of weather variables such as pressure, temperature and humidity. The AirNow data contained no missing values. In order to fill the PurpleAir missing values, an algorithm was created to fill values based upon the closest sensor, both in space and time. This filling process was not perfect and several values had to be annotated by hand. For this subset, values were filled with the global average of the data. After running, several points had to be dealt with by hand as no other sensors of reasonable proximity had data for the desired time point. 
 
-<img src="{{ site.github.url }}/assets/img/preplot_nearest_sensor.png" width="380" height="380">
+<img src="{{ site.github.url }}/assets/img/purp_air/preplot_nearest_sensor.png" width="380" height="380">
 
 Once the missing data was filled, the accuracy of the PurpleAir sensor data was examined. In order to gauge error, average PM2.5 levels were calculated for zip-code level aggregations which contained both PurpleAir and AirNow sensors (Average per zip: 13 PurpleAir and 1 AirNow). On average, the PurpleAir sensors differed by 2.06 ug/m^3, a value greater than one standard deviation of the AirNow data (std = 1.27 ug/m^3). While the zip-code aggregation introduces some error to this analysis, the difference is great enough to conclude the PurpleAir data is significantly inaccurate.
 
 
-<img src="{{ site.github.url }}/assets/img/sensor_diffs.png" width="400" height="400">
+<img src="{{ site.github.url }}/assets/img/purp_air/sensor_diffs.png" width="400" height="400">
 
 
 Modeling was tested as method to alleviate the error of the PurpleAir measurements. Multiple-linear regression was performed to predict the zip-code level AirNow concentrations from the zip-code aggregated PurpleAir PM2.5 and associated meteorological variables alongside an approximate time variable. As expected, the explained variance was low, ~55%, implying there was no reliable method to adjust the PurpleAir concentrations to reflect the AirNow sensor accuracy. In order to avoid erroneous conclusions, only the trends of the PurpleAir data were analyzed. With more data, better models might be developed to properly adjust the PurpleAir concentrations so accuracy could be improved. Unfortunately, the AirNow coverage is limited to urban-dense areas so model generalizability to rural areas would be unlikely. 
@@ -44,20 +44,20 @@ Modeling was tested as method to alleviate the error of the PurpleAir measuremen
 ## Results
 Daily and hourly PM2.5 concentrations was analyzed with zip code level aggregation for both PurpleAir and EPA AirNow measurements. Overall, PM2.5 concentrations in the state of Utah were below 10 for the week of April 7th – 14th for both 2019 and 2020. This is unsurprising as the air quality was recorded as "good" with no stay in advisories for both years. The weather was sunny and without heavy wind allowing for reliable sensor measurements, although two methods of quantification still exhibit disagreement.  
 
-<img src="{{ site.github.url }}/assets/img/state_aggregates.png" width="1000" height="250">
+<img src="{{ site.github.url }}/assets/img/purp_air/state_aggregates.png" width="1000" height="250">
 
 Zip code analysis of PurpleAir PM2.5 concentrations elucidated up-regulated PM2.5 in Zip Codes XXX which translate into the counties of Coalville, Goshen and North Logan.
 
-<img src="{{ site.github.url }}/assets/img/coalville_lineplot.png" width="1000" height="250">
+<img src="{{ site.github.url }}/assets/img/purp_air/coalville_lineplot.png" width="1000" height="250">
 
  These observations were missed by the AirNow monitors due to their limited spatial coverage. This emphasizes one strength of the PurpleAir data: spatial coverage for rural populations! While these measures may not be highly precise, they allow for general trend capture which may help alert sensitive populations to stay inside to minimize risk of an adverse health event. 
 
-<img src="{{ site.github.url }}/assets/img/Rural_Sensor_cover_more.png" width="1000" height="300">
+<img src="{{ site.github.url }}/assets/img/purp_air/Rural_Sensor_cover_more.png" width="1000" height="300">
 
 Examination of daily trends showcased that AirNow monitors may also smooth their data, as temporal cycles expected in PM2.5 concentration due to wind and anthropocentric factors were indistinguishable. In contrast, PurpleAir data is more sensitive to these cycles with some evidence of bimodal daily peaks around 9AM and 5PM. This suspicion is confirmed by AirNow and PurpleAir [documentation](https://www2.purpleair.com/community/faq#!hc-how-do-purpleair-sensors-compare-to-regulatory-particulate-matter-sensors) which showcases the Airnow data to use 24 hour smoothing filter. When smoothed with a 24 hour rolling filter, the PurpleAir data appears to mirror the trends of the AirNow data, although the magnitude of the concentrations remain inaccurate inaccurate.
 
-![PurpleAir vs EPA AirNow]({{ site.github.url }}/assets/img/hourlypm25_84105.png)
-![Smoothed PurpleAir]({{ site.github.url }}/assets/img/smoothed_purpleair.png)
+![PurpleAir vs EPA AirNow]({{ site.github.url }}/assets/img/purp_air/hourlypm25_84105.png)
+![Smoothed PurpleAir]({{ site.github.url }}/assets/img/purp_air/smoothed_purpleair.png)
 
 <br>
 <br>

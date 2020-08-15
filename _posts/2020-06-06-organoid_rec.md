@@ -7,10 +7,11 @@ tags: [documentation]
 image: organoid.jpg
 ---
 Organoids are small, self-organized tissues grown from stem-cell progenitors. These *ex vivo* cultures help bridge the gap between animal models and cell culture experiments as they recapitulate the cellular heterogeneity without high cost. Organoids can be viewed via confocal microscopy and counted as a measure of stem-cell viability. This project aims to recognize and quantify intestinal organoids with YOLOv3. 
+<br>
+<hr>
 
 ## Aims
 This project aims to explore if YOLO can accurately recognize and classify organoids in real-time. As a researcher, having a tool to quickly quantify organoid images would save time in data collection and processing enabling increased efficiency and assay turn-around. To minimize the processing time, quantification should happen on the microscope camera to avoid all post-processing steps. In an ideal workflow, organoid plates would be placed on a microscope basin and quantified automatically. This project serves as a proof-of-concept to verify intestinal organoid images can be quantified with high accuracy.
-
 
 ## Background
 

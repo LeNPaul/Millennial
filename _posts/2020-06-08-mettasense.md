@@ -7,7 +7,8 @@ tags: [documentation]
 image: mettasense.png
 ---
 Endotracheal tubes (ETT) are a core component of the intubation process. They consist of a PVC tube with special cuff at the end. Once positioned, the cuff is inflated to secure the tube in place. Unfortunately, when overinflated the cuff decreases blood flow to nearby tissues resulting in tracheal stenosis and tissue damage. Mettasense is a sensor which measures, records and mediates pressure within an endotracheal tube cuff. It leverages a check valve to relieve high pressure, a prominent cause of tracheal injury. Mettasense houses electrical components to constantly check cuff pressure. Dangerous deviations are caught by the device, resulting in visual and audio alarms. Mettasense adds new material to the field of tracheal research as it records and organizes all processed pressure data. Combined, it provides a platform which mediates endotracheal cuff pressure while collecting valuable data.
-
+<br>
+<hr>
 ## Background
 Endotracheal tubes (ETT) are used in Intensive Care Units (ICUs) across the country to open patient's airways and deliver an adequate air supply to unconcious patients. ETT’s are inserted into the mouth and placed in the trachea where a balloon cuff is inflated. The cuff on the ETT keeps the tube in place and seals the airway. However, there is no standard or regulation for monitoring the pressure of the cuff. While research shows the ideal pressure is around 20-30 cm H20 (~0.2 - 0.4 psi), many cuffs are overinflated which reduces blood flow to surrounding tissues and causes necrosis and scar tissue formation. This leads to breathing issues and other complications, often seen 6-8 weeks after ICU patients leave the hospital.  
 

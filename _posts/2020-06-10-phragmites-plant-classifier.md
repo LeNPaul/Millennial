@@ -16,7 +16,7 @@ An invasive subspecies of Phragmites australis was likely introduced to Utah in 
 
  The spread of P. australis decreases diversity, altering nutrient cycling and hydrology. For many years, the Utah Department of Natural Resources (DNR) has been working to remove the plant. In an effort to track the progress and effectiveness of remediation, the DNR is imaging the Howard Slough Waterfowl Management Area. This system is necessary as the environment is extremely difficult to navigate and requires a Marsh Master to avoid vehicles getting stuck in the mud. A small Unmanned Aerial System (sUAS) is ideal for monitoring the situation. The sUAS is fitted with a multispectral image sensor (blue, green, red, red-edge, and near-infrared bands) and flown at a height to produce a ground sample distance of about 7.5 cm.
 
- <img src="{{ site.github.url }}/assets/img/phragmites_diagram.png" width="600" height="380">
+ <img src="{{ site.github.url }}/assets/img/phragmites/phragmites_diagram.png" width="600" height="380">
 <br>
 
 ## Methodology
@@ -28,11 +28,11 @@ We utilized the Geographic Information System software, ArcGIS Pro, to label the
 
 In total, approximately 70% of these labeled image tiles contained the plant species of interest. To prepare for training, the tiles and corresponding labels was split into a train (80%) and test (20%) set. These data were then oriented into a converted to a numpy array for input into a Tensorflow model. To segment the areas containing P. australis, a U-Net CNN architecture was leveraged [1]. 
 
- <img src="{{ site.github.url }}/assets/img/unet.png" width="460" height="300">
+ <img src="{{ site.github.url }}/assets/img/phragmites/unet.png" width="460" height="300">
 
 This model is made up of an encoder and decoder network capable of “highlighting” areas of interest in a high dimensional space before mapping those points to a segmentation map. This map is highly detailed as the pixel density is a one to one match between input and output. Tensorboard was used to do a simple hyperparameter search on the dropout rate, optimization algorithm and kernel initializer. In early iterations, there was a high degree of overfitting, as the training accuracy was significantly higher than the test accuracy. In an attempt to mitigate this issue, L2 regularization was added to several of the convolutional layers and normalization was performed on the input image data.
 
- <img src="{{ site.github.url }}/assets/img/visualization.png" width="700" height="320">
+ <img src="{{ site.github.url }}/assets/img/phragmites/visualization.png" width="700" height="320">
 
 <br>
 ## Results
@@ -40,7 +40,7 @@ The original sUAS geographical raster was separated into 3,353 images, of which 
 
 Test set pixel-to-pixel accuracy was evaluated at approximately 86% with train set accuracy at 89%. Examination of images showcases the classifier struggled most on border cases, where fidelity became questionable (see figure below where blue represents the predicted segmentation mask). 
 
- <img src="{{ site.github.url }}/assets/img/phrag_preds.png" width="700" height="400">
+ <img src="{{ site.github.url }}/assets/img/phragmites/phrag_preds.png" width="700" height="400">
 
 <br>
 ## Limitations and Future Directions

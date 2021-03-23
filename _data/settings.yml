@@ -24,9 +24,9 @@ social:
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
-#pagination:
-#  next_page: 'Newer'
-#  previous_page: 'Older'
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
 
 #sharing_button_prompt: 'Feel free to share!'
 

@@ -3,17 +3,21 @@ layout: misc
 title: Team
 ---
 
-# 教員<br>
+## 教員<br>
+<div align="center">
 前田駿太<br>
 <img width="100px" src="https://github.com/SMaeda-lab/SMaeda-lab.github.io/blob/gh-pages/assets/img/shuntamaeda.jpg?raw=true"><br>
 [所属機関Webサイト](https://www.sed.tohoku.ac.jp/laboratory/detail---id-42.html)<br>
 [Researchmap](https://researchmap.jp/maeda_s)<br>
 [Researchgate](https://www.researchgate.net/profile/Shunta-Maeda)<br>
+  </div>
 
-# 2021年度所属学生<br>
+## 2021年度所属学生<br>
+<div align="center">
 博士後期課程：0名<br>
 修士課程2年：X名<br>
 修士課程1年：X名<br>
 学部研究生：X名<br>
 学部4年：X名<br>
 学部3年：X名<br>
+  </div>

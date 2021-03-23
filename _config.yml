@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Maeda Lab"
+description:	       "東北大学大学院教育学研究科　前田駿太研究室のWebサイトです"
+author:              "Shunta Maeda, Ph.D."
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

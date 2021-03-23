@@ -7,29 +7,29 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Home', folder: 'pages', file: 'facts.html'}
+- {name: 'Research', folder: 'pages', file: 'resources.html'}
+- {name: 'Team', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Publication', folder: 'pages', file: 'documentation.html'}
+- {name: 'Resources', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+#- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
+#- {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+#pagination:
+#  next_page: 'Newer'
+#  previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+#sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+#related_posts: 'You may also enjoy...'
 
-post_date_prefix: 'Written on'
+#post_date_prefix: 'Written on'

@@ -5,7 +5,7 @@ title: Team
 
 # 教員<br>
 前田駿太<br>
-<img width="200" alt="shuntamaeda" src="assets/img/shuntamaeda.jpg"><br>
+<img width="200" alt="shuntamaeda" src="SMaeda-lab.github.io/assets/img/shuntamaeda.jpg"><br>
 [所属機関Webサイト](https://www.sed.tohoku.ac.jp/laboratory/detail---id-42.html)<br>
 [Researchmap](https://researchmap.jp/maeda_s)<br>
 [Researchgate](https://www.researchgate.net/profile/Shunta-Maeda)<br>

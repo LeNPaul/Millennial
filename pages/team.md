@@ -7,8 +7,7 @@ title: Team
 <div align="center">
 前田駿太<br>
 <img width="100px" src="https://github.com/SMaeda-lab/SMaeda-lab.github.io/blob/gh-pages/assets/img/shuntamaeda.jpg?raw=true"><br>
-</div>
-<div style="text-align: center;">
+
 [所属機関Webサイト](https://www.sed.tohoku.ac.jp/laboratory/detail---id-42.html)<br>
 [Researchmap](https://researchmap.jp/maeda_s)<br>
 [Researchgate](https://www.researchgate.net/profile/Shunta-Maeda)<br>

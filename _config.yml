@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "東北大学大学院教育学研究科　前田駿太研究室"
+title:		           "Maeda Lab"
 description:	       "東北大学大学院教育学研究科　前田駿太研究室のWebサイトです"
 author:              "Shunta Maeda, Ph.D."
 

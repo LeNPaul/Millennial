@@ -9,9 +9,9 @@ google-ID: 'UA-112060364-2'
 menu:
 # - {name: 'Home', folder: 'pages', file: 'index.html'}
 - {name: 'Research', folder: 'pages', file: 'research.html'}
-- {name: 'Team', folder: 'pages', file: 'Team.html'}
-- {name: 'Publications', folder: 'pages', file: 'publications.html'}
-- {name: 'Resources', folder: 'pages', file: 'Resources.html'}
+- {name: 'Team', folder: 'pages', file: 'team.html'}
+- {name: 'Achievements', folder: 'pages', file: 'achievements.html'}
+- {name: 'Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

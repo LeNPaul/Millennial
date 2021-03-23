@@ -3,4 +3,18 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+## 連絡先<br>
+〒980-8576
+宮城県仙台市青葉区川内27-1 東北大学大学院教育学研究科　前田駿太
+email: shunta.maeda.d2 [at] tohoku.ac.jp 
+＊本サイトは個人的に運営されているものであり，所属とは一切関係がありません。
+＊研究に関する内容以外の個人的なご相談等にはお答えしかねます。あらかじめご了承ください。
+
+## 学部ゼミ生，大学院生として所属を希望される方へ<br>
+ご興味のある方は是非一度メールにてご連絡ください。ご希望に応じて，Web会議や対面での面談でお話しする機会も設けられればと思います。教員の指導可能テーマとご希望の研究テーマ，研究指導の方針等でミスマッチがないよう，検討する機会としていただければと思います。<br>
+### 大学院生として所属を希望される方へのお願い
+・他大学から進学を希望される場合には，まずは一度所属している大学の指導教員の先生にご相談のうえ，了解を得てからご連絡いただくことを推奨します。
+・入試の公平性を保つため，お問い合わせは大学院入試出願期間終了までにお願いいたします（なお，お問い合わせ，訪問の有無は入試の合否・入学後の研究室配属とは無関係です）。
+
+## 留学生として所属を希望される方へ
+[こちらをご一読ください]()。

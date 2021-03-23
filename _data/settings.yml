@@ -10,7 +10,7 @@ menu:
 - {name: 'Home', folder: 'pages', file: 'facts.html'}
 - {name: 'Research', folder: 'pages', file: 'resources.html'}
 - {name: 'Team', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Publication', folder: 'pages', file: 'documentation.html'}
+- {name: 'Publications', folder: 'pages', file: 'documentation.html'}
 - {name: 'Resources', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 

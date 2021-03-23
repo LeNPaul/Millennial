@@ -18,4 +18,4 @@ email: shunta.maeda.d2 [at] tohoku.ac.jp <br>
 ・入試の公平性を保つため，お問い合わせは大学院入試出願期間終了までにお願いいたします（なお，お問い合わせ，訪問の有無は入試の合否・入学後の研究室配属とは無関係です）。<br>
 
 ## 留学生として所属を希望される方へ
-[こちらをご一読ください]('international.html')。
+[こちらをご一読ください](https://github.com/SMaeda-lab/SMaeda-lab.github.io/blob/gh-pages/pages/international.html)。

@@ -6,7 +6,7 @@ title: Resources
 
 ### 日本語版Self-Beliefs related to Social Anxiety scale<br>
 Wong & Moulds (2011)のSelf-Beliefs related to Social Anxiety scaleの日本語版です。原版と同様に，Clark & Wells (1995)において想定されている3因子から社交不安にみられる不適応的な信念の強度を測定します。出典を明示していただければ使用に際してのご連絡等は不要です。
-[尺度項目はこちら]()<br>
+[尺度項目はこちら](https://github.com/SMaeda-lab/SMaeda-lab.github.io/blob/gh-pages/assets/sbsa_japanese.pdf)<br>
 【出典】<br>
 Maeda, S., Shimada, H., Sato, T., Tashiro, K., & Tanaka, Y. (2017). Translation and initial validation of the Japanese version of the self-beliefs related to social anxiety scale. Psychological Reports, 120, 305–318. https://doi.org/10.1177/0033294116686037
 

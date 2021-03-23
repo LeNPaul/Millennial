@@ -8,18 +8,18 @@ google-ID: 'UA-112060364-2'
 
 menu:
 # - {name: 'Home', folder: 'pages', file: 'index.html'}
-- {name: 'Research', folder: 'pages', file: 'resources.html'}
-- {name: 'Team', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Publications', folder: 'pages', file: 'documentation.html'}
-- {name: 'Resources', folder: 'pages', file: 'about.html'}
+- {name: 'Research', folder: 'pages', file: 'research.html'}
+- {name: 'Team', folder: 'pages', file: 'Team.html'}
+- {name: 'Publications', folder: 'pages', file: 'publications.html'}
+- {name: 'Resources', folder: 'pages', file: 'Resources.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'twitter', link: 'https://twitter.com/smaeda_tw'}
 #- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'envelope', link: 'mailto:shunta.maeda.d2@tohoku.ac.jp'}
 #- {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 

@@ -8,6 +8,7 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+#github:              [metadata]
 
 sass:
   sass_dir: assets/css

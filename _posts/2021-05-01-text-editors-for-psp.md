@@ -27,7 +27,7 @@ It really is possible to use one of those - at least according to this old YouTu
   <iframe
       src="https://www.youtube.com/embed/RTH4-dTzwm8"
       width="600"
-      height="600"
+      height="400"
       frameborder="0"
       allowfullscreen="">
   </iframe>

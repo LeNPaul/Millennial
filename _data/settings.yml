@@ -7,6 +7,7 @@ disqus:
 # google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'Apps', folder: 'pages', file: 'apps.html'}
 - {name: 'Emulators', folder: 'pages', file: 'emulators.html'}
 - {name: 'Games', folder: 'pages', file: 'games.html'}
 - {name: 'Game Jams', folder: 'pages', file: 'game-jams.html'}

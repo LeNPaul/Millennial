@@ -26,6 +26,7 @@ It really is possible to use one of those - at least according to this old YouTu
 <div class="embed-container">
   <iframe
       src="https://www.youtube.com/embed/RTH4-dTzwm8"
+      width="600"
       frameborder="0"
       allowfullscreen="">
   </iframe>

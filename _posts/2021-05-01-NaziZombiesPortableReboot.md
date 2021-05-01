@@ -31,5 +31,8 @@ A faithful recreation of Call of Duty Zombies for various platforms (and of cour
 - Derped_Crusader: Models, GFX
 
 <p class="download-btn">
-    <a href="https://github.com/thyjukki/NZP-Reboot">Download the homebrew</a>
+    <a href="https://github.com/thyjukki/NZP-Reboot">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-NaziZombiesPortableReboot.png" width="130" height="70">
+	</br>Download the homebrew
+	</a>
 </p>

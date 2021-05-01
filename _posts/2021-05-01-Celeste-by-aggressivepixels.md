@@ -9,6 +9,11 @@ image: CELE00709_00000.jpg
 
 Aggressivepixels ported this great little game to PSP. A Pico-8 classic, Celeste is about a girl who wanders in a frozen landscape, jumping from place to place. The heroine will most likely meet her death countless times due to how bad you are at playing it.
 
+<p align="center">
+	<a href="https://archive.org/download/celeste.-7z/Celeste.7z"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+</p>
+
+
 ## Getting Started
 
 [Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.

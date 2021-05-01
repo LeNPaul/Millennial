@@ -10,7 +10,7 @@ image: CELE00709_00000.jpg
 Aggressivepixels ported this great little game to PSP. A Pico-8 classic, Celeste is about a girl who wanders in a frozen landscape, jumping from place to place. The heroine will most likely meet her death countless times due to how bad you are at playing it.
 
 <p align="center">
-	<a href="https://archive.org/download/celeste.-7z/Celeste.7z"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+	<a href="https://archive.org/download/celeste.-7z/Celeste.7z"><img src="https://github.com/PSP-Archive/PSP-Archive.github.io/blob/gh-pages/assets/img/download.png" alt="Download the homebrew"></a>
 </p>
 
 

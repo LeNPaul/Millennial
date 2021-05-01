@@ -2,7 +2,7 @@
 layout: page
 title: Game Jams
 ---
-{% for post in site.categories.game-jams %}
+{% for post in site.categories.gamejams %}
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}{{ post.image }})"{% endif %}>
       <h2><span>{{ post.title }}</span></h2>

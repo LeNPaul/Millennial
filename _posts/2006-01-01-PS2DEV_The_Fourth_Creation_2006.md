@@ -2,9 +2,9 @@
 layout: post
 title: "PS2DEV: The Fourth Creation 2006"
 author: "Pierre L"
-categories: game-jams
+categories: gamejams
 tags: [PSP,homebrew]
-image: /assets/img/PS2DEV_The_Fourth_Creation_2006.png
+image: /assets/img/splash/PS2DEV_The_Fourth_Creation_2006.png
 ---
 
 This game jam was held in 2006. It was organized by the good folks of the PS2dev forum (RIP).

@@ -3,7 +3,7 @@ layout: misc
 title: About
 ---
 
-The PSP Archive is managed by the PSP Homebrew Discord community. Our only affiliation to Sony is having bought some of their products.
+The PSP Archive is managed by the [PSP Homebrew Discord](https://discord.gg/VZcjFvy3mT) community. Our only affiliation to Sony is having bought some of their products.
 
 ### Project overview
 

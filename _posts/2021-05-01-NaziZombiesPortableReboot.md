@@ -30,9 +30,11 @@ A faithful recreation of Call of Duty Zombies for various platforms (and of cour
 - MotoLegacy: Coding, GFX, Music
 - Derped_Crusader: Models, GFX
 
+### Download
+
 <p class="download-btn">
     <a href="https://github.com/thyjukki/NZP-Reboot">
 	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-NaziZombiesPortableReboot.png" width="130" height="70">
-	</br>Download the homebrew
+	Download the homebrew
 	</a>
 </p>

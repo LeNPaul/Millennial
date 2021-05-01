@@ -11,6 +11,7 @@ menu:
 # - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Games', folder: 'pages', file: 'games.html'}
+- {name: 'Game Jams', folder: 'pages', file: 'game-jams.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 # - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 

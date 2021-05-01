@@ -2,7 +2,7 @@
 layout: post
 title: "Celeste"
 author: "Pierre L"
-categories: documentation
+categories: games
 tags: [documentation,sample]
 image: CELE00709_00000.jpg
 ---

@@ -29,7 +29,7 @@ This game jam was held in 2006. It was organized by the good folks of the PS2dev
 
 ### No. 4: Break-in by Callen Shaw
 
-![Screenshot](https://ia601702.us.archive.org/4/items/breakin.7z/snap.png)
+![Screenshot](https://ia801702.us.archive.org/4/items/breakin.7z/BREA00732_00000.jpg)
 
 <a href="https://archive.org/download/breakin.7z/breakin.7z">Download Break-in!</a>
 

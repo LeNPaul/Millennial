@@ -13,7 +13,7 @@ Marilyn: In the Magic World, created by Meido-Tek Productions, is really a PlayS
   <iframe
       src="https://www.youtube.com/embed/ajSwiROGT9o"
       width="600"
-      height="450"
+      height="375"
       frameborder="0"
       allowfullscreen="">
   </iframe>

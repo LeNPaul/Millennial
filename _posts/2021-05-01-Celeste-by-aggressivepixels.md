@@ -9,8 +9,13 @@ image: /assets/img/CELE00709_00000.jpg
 
 Aggressivepixels ported this great little game to PSP. A Pico-8 classic, Celeste is about a girl who wanders in a frozen landscape, jumping from place to place. The heroine will most likely meet her death countless times due to how bad you are at playing it.
 
+### Download
+
 <p class="download-btn">
-    <a href="https://archive.org/download/celeste.-7z/Celeste.7z">Download the homebrew</a>
+    <a href="https://archive.org/download/celeste.-7z/Celeste.7z">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-Celeste-by-aggressivepixels.png" width="130" height="70">
+	Download the homebrew
+	</a>
 </p>
 
 | Brew Info    |             |

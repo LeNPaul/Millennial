@@ -23,3 +23,11 @@ $phone-width: 480px;
 $header-thickness: 56px;
 
 @import "_sass/-sections-dir";
+
+
+/* center stuff */
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}

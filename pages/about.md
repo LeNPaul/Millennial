@@ -3,4 +3,10 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+The PSP Archive is managed by the PSP Homebrew Discord community. Our only affiliation to Sony is having bought some of their products.
+
+### Project overview
+
+- [PSP-Archive on GitHub](https://github.com/PSP-Archive): collects source code for PSP homebrews;
+- [PSP Homebrew Library on Archive.org](https://archive.org/details/psp-homebrew-library): collects all homebrews ever made, even the ones that are objectively pretty bad;
+- PSP Archive on GitHub Pages: a nice way to present the worthier brews.

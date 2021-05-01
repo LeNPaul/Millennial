@@ -27,7 +27,7 @@ layout: default
 
   {% if page.image %}
     <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+      <img src="{{ site.github.url }}{{ page.image }}">
     </div>
   {% endif %}
 
@@ -57,7 +57,7 @@ layout: default
                 <a href="{{ site.github.url }}{{ mypost.url }}">
                   <div class="related-thumbnail">
                     {% if mypost.image %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
+                      <img src="{{ site.url }}{{ site.baseurl }}{{ mypost.image }}">
                     {% endif %}
                   </div>
                   <div class="related-title">

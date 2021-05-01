@@ -19,6 +19,20 @@ __PSPWrite__ was created by Ludovic Jacomme, better known as [Zx-81](http://zx81
 
 The on-screen keyboard is the Danzeff model, created by Danzel. It is the most practical input method you will find on PSP, and it's still pretty hard to use.
 
+### IR keyboard
+
+It really is possible to use one of those - at least according to this old YouTube video:
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/RTH4-dTzwm8"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
 ### Download
 
 <p class="download-btn">

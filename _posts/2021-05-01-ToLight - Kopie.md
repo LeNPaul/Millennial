@@ -4,7 +4,7 @@ title: "PS2DEV: The Fourth Creation 2006"
 author: "Pierre L"
 categories: game-jams
 tags: [documentation,sample]
-image: PS2DEV The Fourth Creation 2006.png
+image: PS2DEV_The_Fourth_Creation_2006.png
 ---
 
 ChaCheeChoo released the new alpha of his futuristic racer, Tour of Light, just last week.

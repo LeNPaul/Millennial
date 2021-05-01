@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "The PSP Archive"
+title:		           "PSP Archive"
 description:	       "Page about PlayStation Portable Homebrews"
 author:              "PSP Homebrew Discord Community"
 

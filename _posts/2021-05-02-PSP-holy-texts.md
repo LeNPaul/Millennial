@@ -2,7 +2,7 @@
 layout: post
 title: "Because y'all need Jesus (and Buddha, and Muhammad)"
 author: "Pierre L"
-categories: games
+categories: apps
 tags: [PSP,homebrew]
 image: /assets/img/snaps/2021-05-02-PSP-holy-texts.jpg
 ---

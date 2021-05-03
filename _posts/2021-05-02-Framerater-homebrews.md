@@ -4,7 +4,7 @@ title: "Framerater's PSP homebrews"
 author: "Pierre L"
 categories: games
 tags: [PSP,homebrew]
-image: /assets/img/random/Framerater.PNG
+image: /assets/img/random/Framerater-1.jpg
 ---
 
 Framerater is pretty much the only professional YouTuber to have devoted any attention to PSP homebrews. It's easy to see why - the PSP is too old to be relevant, but not retro enough to engender nostalgia. There are few views to be had from reporting on a niche scene on a niche platform.

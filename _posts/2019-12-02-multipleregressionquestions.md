@@ -3,8 +3,8 @@ layout: post
 title: "multiple regression - Q&A 1"
 author: "szarki9"
 categories: machinelearning
-tags: [machinelearning]
-image: bari9.jpg
+tags: [linearregression]
+image: bari9.JPG
 ---
 <p>Hi again on these first days of
 December!</p><p align="justify">As promised last time, there are

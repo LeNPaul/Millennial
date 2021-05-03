@@ -3,8 +3,8 @@ layout: post
 title: "multiple linear regression ahoi!"
 author: "szarki9"
 categories: machinelearning
-tags: [machinelearning]
-image: bari8.jpg
+tags: [linearregression]
+image: bari8.JPG
 ---
 <p>Hola chicos, </p><p align="justify">Last time I was preparing myself for
 a job interview, so that's why I focused mostly on R, but I am back with statistical

@@ -1,0 +1,44 @@
+I"�<p align="justify">
+Hi All! </p>
+
+<p align="justify">
+It has been a while since I did post something here, but this year was extremely busy as I was in the process of obtaining my master degree! So with a lot more knowledge, and experience, I can share here some nicer and more advanced content 😊.</p>
+
+<p align="justify">
+Lately, I am working on my Master Thesis and I am researching NLP area. Today I would like to summarize the BERT method, how does it work, and how it can be used for a downstream tasks.</p>
+
+<p align="justify"> 
+
+**What was so novel about BERT and how is BERT pre-trained?** </p>
+
+<p align="justify">
+Let’s start with existing strategies for applying pre-trained language representations to downstream tasks. First of all, we can do it either by feature-based approach, or by fine-tuning. Feature-based approach (example: ELMO) uses pre-trained language representations as additional features, and includes them in the task-specific architecture. On the other hand, the fine-tuning approach fine-tunes minimal and primarily introduced parameters for some specific task and datasets (example: Open AI GPT). BERT is the model that is intended for using as a part of the latter one, and was invented to overcome major limitation of the unidirectional language models, where e.g. as in Open AI GPT unidirectional means that model architecture reads sentences from left to right, and then every token can only be corresponded or reflected in the model by the previous tokens. BERT introduced by Google in 2018 uses two tasks to train its language representation, and thanks to them it preserves the bidirectionality within interpreting the data, which overcomes the limitations of unidirectional models. The two tasks that are being used for BERT pre-training are:
+
+-	masked language model (MLM) – where model randomly masks some of the tokens from the input, and then tries to predict the original vocabulary id of the masked word based on its context (reading text in that way enables to make use of the accessing the text both ways -&gt; bidirectional transformer), 15% of the tokens were masked here, and then prediction was done using softmax function applied to all of the vocabulary. 
+-	(binarized) next sentence prediction (NER) – where having two sentences classification occurs whether sentence A should be followed by the sentence B. 
+Exact architecture is pictured on the following graph provided by the authors:
+
+First, we can note several characteristic tokens for BERT. [CLS] – is the first token of every sequence, called special classification token, and later the final hidden state corresponding to this token is used as the aggregate sequence representation for classification task. [SEP] – is a separate token used to differentiate sentences. For a given token input representation is constructed by summing the corresponding token, segment and position embeddings (look below).</p>
+
+<p><strong>Which datasets were used for pre-training BERT?</strong></p>
+
+<p align="justify">
+BookCorpus (800M words) [2], and English Wikipedia (2500M words) [3], which were extracted with WordPiece embeddings and resulted in the vocabulary of 30k tokens.</p>
+
+<p><strong>Are there BERTs trained on different datasets?</strong></p>
+<p align="justify">
+Yes! The most common base for BERT is bert-base-uncased (in huggingface implementation), which is trained as stated above. We can encounter bert-large-uncased as well, and here the dataset used for pre-training was the same, but the difference lays in the number of encoder layers. Also, uncased means that the model does not make a difference between English and english, so it is not sensitive to the capital letters. I was researching mostly scientific bases, so let me introduce them below:
+-	scibert_scivocab_uncased [4] - same architecture as BERT-base, but trained on 1.14M papers from Semantic Scholar, where 18% papers were from the Computer Science domain, and 82% from broad biomedical domain
+-	BioBERT [6] - corpus of biomedical research articles sourced from PubMed3 article abstracts and PubMed Central4 article full texts,
+-	ClinicalBERT [5] - 2 million notes in the MIMIC-III v1.4 database, uses text from all note types, 
+-	Discharge Summary BERT [5] - 2 million notes in the MIMIC-III v1.4 database, uses only discharge summaries
+But there are plenty more, so whatever are yours needs you need to research it 😊.
+Were there any improvements of BERT during last 3 years?
+Yes! So far many new models were developed, one of them is XLNet, which uses the same pre-training data as BERT, but instead of masking 15% of tokens (as it was in BERT) in MLM task, it introduces permutation language modelling, where all of the tokens are predicted in random order. Also RoBERTa is improvement of BERT, in both dataset and also architecture wise approach. Corpus here was expanded with data from CommonCrawl News, CommonCrawl Stories, and Web text datasets. Also Next Sentence Prediction task was removed, and dynamic masking was introduced, in which masked tokens are changed with each epoch. </p>
+
+<p><strong>Why BERT is so special?</strong></p>
+<p align="justify"> So now it is considerer to be SOTA (state-of-the-art) model in many downstream applications. And by SOTA we mean here that it can sometimes return accuracy above 90% (!) for a given task, which means that the model is not right relatively rarely 😊. That makes it extremely powerful tool! </p>
+
+<p>That would be all for now, thanks a lot and speak to you soon!!!
+szarki9</p>
+:ET

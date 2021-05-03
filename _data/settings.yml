@@ -4,13 +4,13 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-150456840-1'
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Statistics and Probability', folder: 'pages', file: 'statistics-post.html'}
-- {name: 'Machine Learning', folder: 'pages', file: 'machinelearning-post.html'}
-- {name: 'R', folder: 'pages', file: 'r-post.html'}
+- {name: 'Statistics and Probability', folder: 'pages', file: 'statisticspost.html'}
+- {name: 'Machine Learning', folder: 'pages', file: 'machinelearning.html'}
+- {name: 'R', folder: 'pages', file: 'rpost.html'}
 - {name: 'Other Gems', folder: 'pages', file: 'othergems.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

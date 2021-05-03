@@ -3,8 +3,8 @@ layout: post
 title: "Linear Regression and que te pasa"
 author: "szarki9"
 categories: machinelearning
-tags: [machinelearning]
-image: bari5.jpg
+tags: [linearregression]
+image: bari5.JPG
 ---
 <p align="justify">So one of the many algorithms used
 in statistical learning is <b>linear

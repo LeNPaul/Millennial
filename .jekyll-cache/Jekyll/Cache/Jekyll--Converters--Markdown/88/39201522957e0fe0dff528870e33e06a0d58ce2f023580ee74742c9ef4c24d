@@ -1,0 +1,11 @@
+I"6	<p>Hi All!
+It has been a while since I did post something here, but this year was extremely busy as I was in the process of obtaining my master degree! So with a lot more knowledge, and experience, I can share here some nicer and more advanced content 😊.
+Lately, I am working on my Master Thesis and I am researching NLP area. Today I would like to summarize the BERT method, how does it work, and how it can be used for a downstream tasks.
+What was so novel about BERT and how is BERT pre-trained?
+Let’s start with existing strategies for applying pre-trained language representations to downstream tasks. First of all, we can do it either by feature-based approach, or by fine-tuning. Feature-based approach (example: ELMO) uses pre-trained language representations as additional features, and includes them in the task-specific architecture. On the other hand, the fine-tuning approach fine-tunes minimal and primarily introduced parameters for some specific task and datasets (example: Open AI GPT). BERT is the model that is intended for using as a part of the latter one, and was invented to overcome major limitation of the unidirectional language models, where e.g. as in Open AI GPT unidirectional means that model architecture reads sentences from left to right, and then every token can only be corresponded or reflected in the model by the previous tokens. BERT introduced by Google in 2018 uses two tasks to train its language representation, and thanks to them it preserves the bidirectionality within interpreting the data, which overcomes the limitations of unidirectional models. The two tasks that are being used for BERT pre-training are:</p>
+<ul>
+  <li>masked language model (MLM) – where model randomly masks some of the tokens from the input, and then tries to predict the original vocabulary id of the masked word based on its context (reading text in that way enables to make use of the accessing the text both ways -&gt; bidirectional transformer), 15% of the tokens were masked here, and then prediction was done using softmax function applied to all of the vocabulary.</li>
+  <li>(binarized) next sentence prediction (NER) – where having two sentences classification occurs whether sentence A should be followed by the sentence B. 
+Exact architecture is pictured on the following graph provided by the authors:</li>
+</ul>
+:ET

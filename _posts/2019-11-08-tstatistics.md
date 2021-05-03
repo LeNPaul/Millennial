@@ -3,8 +3,8 @@ layout: post
 title: "t-statistics and how to find some relationship?"
 author: "szarki9"
 categories: machinelearning
-tags: [machinelearning]
-image: bari6.jpg
+tags: [linearregression]
+image: bari6.JPG
 ---
 <p align="justify">But how to check whether we can apply
 linear regression and whether there is a relationship between X and Y or not? This

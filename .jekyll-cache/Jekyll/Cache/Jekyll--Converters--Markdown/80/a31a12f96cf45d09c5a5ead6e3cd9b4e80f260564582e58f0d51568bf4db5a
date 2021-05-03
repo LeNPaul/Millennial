@@ -1,0 +1,76 @@
+I"È<p align="justify">
+Hello there, </p>
+<p align="justify">
+here is another sum-up note from my lecture. It is probably more useful for me than for you haha, but enjoy it! </p>
+
+<h3 id="what-do-we-want-to-get-out-of-the-data">What do we want to get out of the data?</h3>
+<p align="justify">
+<i>"The purpose of computing is insight, not numbers." </i>  Richard Hamming, 1962 </p>
+
+<h3 id="what-is-insight">What is insight?</h3>
+<p>There is no unique definition, but there is a set o characteristics that describes that:</p>
+<ol>
+  <li>Complex</li>
+  <li>Deep</li>
+  <li>Qualitative</li>
+  <li>Unexpected</li>
+  <li>Relevant</li>
+</ol>
+
+<p align="justify">
+Insight has multiple levels; <b>basic level</b> - a simple fact from the data and <b>top-level</b> - an interpretation from the data that requires reasoning on multiple data sources and domain knowledge, and some intermediate levels between them.
+</p>
+
+<h3 id="what-makes-a-good-dataset-if-you-aim-for-insight">What makes a good dataset if you aim for insight?</h3>
+<ul>
+  <li><b>high volume</b> - the more data than the more chance that you have something useful</li>
+  <li><b>historical</b> - the more we know the past the better we understand the future</li>
+  <li><b>consistent</b> - keep track of the context to understand the meaning of data</li>
+  <li><b>multivariate</b> - the more variables we have, the richer opportunity we have that we will discover something</li>
+  <li><b>atomic</b> - specify to the lowest level of detail at which something might ever be examined</li>
+  <li><b>clean</b> - information should be accurate, free of error, and complete</li>
+  <li><b>clear</b> - make it easy for yourself and others what data means</li>
+  <li><b>richly segmented</b> - provide and consider several groupings of the data</li>
+  <li><b>of known pedigree</b> - establish the reliability of your sources</li>
+</ul>
+
+<h3 id="data-guidelines-to-keep-it-feasible">Data guidelines to keep it feasible</h3>
+<ol>
+  <li>look inside first</li>
+  <li>remove the format constraints</li>
+  <li>figure out whatâ€™s missing</li>
+  <li>embrace diversity</li>
+</ol>
+
+<h3 id="analytic-reasoning">ANALYTIC REASONING</h3>
+<p align="justify">
+Types of reason: <b>inductive reasoning</b> and <b>deductive reasoning</b>. </p>
+<p align="justify">
+<b>Deductive reasoning</b> -&gt; associated with "formal logic", involves reasoning from known premises, or premises presumed to be true, to a certain conclusion, the conclusions reached are certain, inevitable, inescapable.  =&gt; formulate hypotheses about relationships and underlying models, carry out experiments with the data to test hypotheses and models. </p>
+<p align="justify">
+<b>Inductive reasoning</b> -&gt; known as "informal logic", involves drawing uncertain inferences, based on probabilistic reasoning, the conclusions are probable, reasonable, plausible, believable. =&gt; explanatory data analysis to discover or refine hypotheses, discover new relationships, insights, and analytic paths from the data. </p>
+
+<p align="justify"> <b>
+Data Science supports and encourages shifting between deductive (hypothesis-based) and inductive (pattern-based) reasoning.</b></p>
+
+<p><b>Analytic reasoning artifacts: </b></p>
+<ul>
+  <li><b>elemental artifacts</b>: artifacts derived from isolated pieces of information</li>
+  <li><b>pattern artifacts</b>: artifacts derived from collections of data</li>
+  <li><b>higher-order knowledge artifacts</b>: logical inferences linking evidence and other reasoning artifacts to greater knowledge value</li>
+  <li><b>complex reasoning constructs</b>: a conjecture explanation, assessment, of forecast that should be supported by the evidence</li>
+</ul>
+
+<p><img src="/assets/img/transforming-learning-predictive.PNG" alt="image1" />
+<br />
+<img src="/assets/img/learning-training-styles.PNG" alt="image1" />
+<br />
+<img src="/assets/img/data-science.PNG" alt="image1" /></p>
+
+<p><br /></p>
+<p align="justify">
+Here you will find a couple of chars that are worth having in mind! </p>
+
+<p>Byeeee,
+szarki9</p>
+:ET

@@ -4,7 +4,7 @@ title: "The very first PSP homebrew game"
 author: "Pierre L"
 categories: games
 tags: [PSP,homebrew]
-image: /assets/img/snaps/2021-05-03-MAME4ALL-for-PSP.jpg
+image: /assets/img/random/psp-vintage.jpg
 ---
 
 This isn't a settled argument, but after checking and archiving over 2,000 homebrews, I feel that I can hazard a guess on the matter.

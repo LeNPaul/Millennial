@@ -2,7 +2,7 @@
 layout: post
 title: "MAME4ALL for PSP"
 author: "Pierre L"
-categories: games
+categories: emulators
 tags: [PSP,homebrew]
 image: /assets/img/snaps/2021-05-03-MAME4ALL-for-PSP.jpg
 ---

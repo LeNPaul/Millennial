@@ -35,7 +35,7 @@ The [PSP-gnuboy](https://archive.org/details/pspgnuboy_rls.7z) emulator by Hamst
 
 ### PlutoBoy
 
-[PlutoBoy](https://archive.org/details/plutoboy.-7z) is the only emulator on the list still under active development. There are no visible glitches, but the emulation is painfully slow, and lacks sound altogether. The screen is inexplicably stretched to fill the screen, with no setting available to change it to its natural ratio. 
+[PlutoBoy](https://archive.org/details/plutoboy.-7z) is the only emulator on the list still under active development. There are no visible glitches, but the emulation is painfully slow, and lacks sound altogether. The game is inexplicably stretched to fill the screen, with no setting available to change it to its natural ratio. 
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/Shantae-PlutoBoy.png)
 
@@ -63,7 +63,15 @@ The grandaddy of emulators of PSP, released nearly 16 years ago, shows his age b
 
 ## The verdict: a victory for Team RetroArch
 
-As it stands, the Gambatte core on RetroArch offers the best GameBoy emulation experience on PSP. It is also a rather unique case of RetroArch being in any way useful on a PSP. Needless to say, I hope the trend will continue. If the Libretro devs decided to give some love to the old PSP, it would change the whole emulation scene on the device for the better.
+As it stands, the Gambatte core on RetroArch offers the best GameBoy emulation experience on PSP. It is also a rather unique case of RetroArch being in any way useful on a PSP. 
+
+Needless to say, I hope the trend will continue. If the Libretro devs decided to give some love to the old PSP, it would change the whole emulation scene on the device for the better.
+
+### UPDATE: e[mulator]
+
+I'm updating the post because I'd forgotten about the oddly named [e-mulator](https://archive.org/details/emulator_082f.7z), a multisystem emulator that also supports GameBoy games. In all fairness it seems to be forgotten by everyone - perhaps even the T. Kawamorita who created it. Unfortunately, despite a promising performance at the start screen, this emulator turns glitchy at the very next screen. RetroArch still reigns supreme - like it or not.
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/Shantae-e-mulator.png)
 
 ### Download
 

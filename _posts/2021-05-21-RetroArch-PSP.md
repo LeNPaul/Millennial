@@ -73,7 +73,7 @@ For Mame 2003 and Mame 2003 Plus there won't be any need to find a hard-to-emula
 
 Finally we found something RetroArch PSP can emulate well. The Libretro emulator will play games from this early-90s handheld console at 60 frames per second.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-16-10.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-Lynx.png)
 
 The problem is that I - like most people - don't really care about the Atari Lynx. This exemplifies a broader problem about RetroArch PSP: it is the best emulator only for a number of incredibly obscure and forgotten consoles. 
 

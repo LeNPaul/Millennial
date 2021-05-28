@@ -67,6 +67,10 @@ As it stands, the Gambatte core on RetroArch offers the best GameBoy emulation e
 
 Needless to say, I hope the trend will continue. If the Libretro devs decided to give some love to the old PSP, it would change the whole emulation scene on the device for the better.
 
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/GBemus-family.png)
+
+Family tree of GameBoy emulators on PSP.
+
 ### UPDATE: e[mulator]
 
 I'm updating the post because I'd forgotten about the oddly named [e-mulator](https://archive.org/details/emulator_082f.7z), a multisystem emulator that also supports GameBoy games. In all fairness it seems to be forgotten by everyone - perhaps even the T. Kawamorita who created it. Unfortunately, despite a promising performance at the start screen, this emulator turns glitchy at the very next screen. RetroArch still reigns supreme - like it or not.

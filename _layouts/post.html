@@ -43,35 +43,9 @@ layout: default
     </div>
   </div>
 
-  <div class="related">
-    <h2>{{ site.data.settings.related_posts }}</h2>
-    {% assign listed_posts_urls = page.url | split: ' ' %}
-    <ul class="related-posts">
-      {% for tag in page.tags %}
-        {% for mypost in site.tags[tag] limit:2 %}
-          {% if listed_posts_urls contains mypost.url %}
-          {% else %}
-            <li>
-              <h3>
-                <a href="{{ site.github.url }}{{ mypost.url }}">
-                  <div class="related-thumbnail">
-                    {% if mypost.image %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
-                    {% endif %}
-                  </div>
-                  <div class="related-title">
-                    {{ mypost.title }}
-                  </div>
-                  <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
-                </a>
-              </h3>
-            </li>
-            {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    </ul>
-  </div>
+  {% if site.hide_related_posts != true %}
+    {% include related-posts.html %}
+  {% endif %}
 
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}

@@ -7,19 +7,19 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'Learning Resources', url: 'resources'}
+- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Documentation',      url: 'documentation'}
+- {name: 'About',              url: 'about'}
+- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'twitter', link:    'https://twitter.com/paululele'}
+- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
+- {icon: 'instagram', link:  'https://instagram.com/paululele'}
+- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 

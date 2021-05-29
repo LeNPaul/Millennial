@@ -42,10 +42,10 @@ body {
   font-family: $base-font-family;
 }
 body img {
-    align: middle;
-    margin: 5px auto auto auto;
-    display: block;
-    max-width: 600px;
+  align: middle;
+  margin: 5px auto auto auto;
+  display: block;
+  max-width: 600px;
 }
 
 p {
@@ -107,16 +107,16 @@ blockquote {
 /**
  * Tables
  */
- table {
-     border-collapse: collapse;
-     margin-bottom: 30px;
-     width: 100%;
- }
+table {
+  border-collapse: collapse;
+  margin-bottom: 30px;
+  width: 100%;
+}
 
- table, th, td {
-     border: 1px solid black;
- }
- th, td {
-     padding: 15px;
-     text-align: left;
- }
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}

@@ -8,12 +8,12 @@
 }
 @media (max-width: $container-width) {
   .site-header {
-      min-height: 56px;
-      width: 95vw;
-      position: fixed;
-      background-color: white;
-      box-shadow: 0 5px 6px -6px #bbb;
-      z-index: 100;
+    min-height: 56px;
+    width: 95vw;
+    position: fixed;
+    background-color: white;
+    box-shadow: 0 5px 6px -6px #bbb;
+    z-index: 100;
   }
 }
 .site-header a {
@@ -56,39 +56,39 @@
     padding-right: 0.25rem;
   }
   .dropbtn {
-      background-color: white;
-      color: black;
-      padding: 16px;
-      margin-top: 4px;
-      font-size: 16px;
-      border: none;
-      cursor: pointer;
+    background-color: white;
+    color: black;
+    padding: 16px;
+    margin-top: 4px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
   }
   .dropdown {
-      position: relative;
-      display: inline-block;
+    position: relative;
+    display: inline-block;
   }
   .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: #f9f9f9;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      z-index: 1;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
   }
   .dropdown-content a {
-      color: black;
-      padding: 12px 16px;
-      text-decoration: none;
-      display: block;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
   }
   .dropdown-content a:hover {
     background-color: #f1f1f1
   }
   .dropdown:hover .dropdown-content {
-      display: block;
+    display: block;
   }
   .dropdown:hover .dropbtn {
-      background-color: #f1f1f1;
+    background-color: #f1f1f1;
   }
 }

@@ -43,6 +43,8 @@ Another China-centric fork is [NesterJ PSP for CN](https://archive.org/details/n
 
 [Unofficial NesterJ](https://archive.org/details/uo_nj2.7z) is a very early fork of the original NesterJ. Created by T. Kawamorita (aka "e"), it was later developed as a core of the multi-system emulator, [e[mulator] for PSP](https://archive.org/details/emulator_082f.7z).
 
+[NesterJ 3D](https://archive.org/details/nester-j-3-d-a.-7z) is a curious beast. Its only reason to exist is to support the handful of 3D games (glasses, not polygons) that were created for the system. I don't have the name of the developer for this one - if you're out there, come and claim your place in history.
+
 ## Based on InfoNES
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/NES_icon01_tg.png)

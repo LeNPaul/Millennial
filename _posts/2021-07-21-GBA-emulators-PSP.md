@@ -17,6 +17,8 @@ If you grew up in the early 2000s, and your parents weren't easily moved by your
 
 [VBA for PSP](https://archive.org/details/vbapsp.7z) was likely the first one, coming out in mid-2005. It was nothing more than a proof of concept, having no menu and no settings. Changing the game requires renaming the ROM every time. The creator is known as "499氏", probably indicating that the original release was the 499th post on some Japanese image board, according to the naming customs of the day.
 
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPGBA-PochiStyle.png)
+
 [PSPGBA](https://archive.org/details/pspgba-v-1.2.7z) was a worthier - and later - attempt, created by some guy calling himself "psp298". He stopped working on the emulator in October 2005. Slasher picked up where the original developer left, releasing a single further update in June 2006. Slasher's version seems to be incredibly buggy though - no idea if it's because of the passing of time (and firmware upgrades), or if it was this bad to begin with.
 
 The unimaginatively named [GBA emulator for PSP](https://archive.org/details/pspgba.-7z) by Miemt11 also seems to be a further development of psp298's port.
@@ -28,6 +30,8 @@ Ludovic Jacomme, the Frenchman who single-handedly ported 20 different systems t
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/gpsp-release.PNG)
 
 Enter Gilead Kutnick - aka Exophase. In August 2006 he released, quite out of the blue, the first build of his [gpSP](https://archive.org/details/gpsp09.7z), already in an advanced stage of development. Overnight, countless GBA games became suddenly playable on PSP. Development on the earlier VisualBoy-based emulators was abandoned just as suddenly. All later GBA emulators on PSP are based on gpSP, in one form or another.
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/gpSP-09.jpg)
 
 The first fork of gpSP was also the most controversial. [Unofficial gpSP Kai](https://archive.org/details/gp-sp-kai-v-3.4-test-4-b-230fat.-7z) was born when the Japanese developer Takka decided to fork Exophase's project. At first he did so without releasing the modified source code, in clear violation of the GPL licence. Exophase did not take very kindly to this, complaining quite loudly about the situation. Though Takka ultimately did release his source code, the damage was already done. Some PSP websites outright refused to carry Takka's version. PSP users, predictably, didn't care, and kept downloading it from whoever would host it. The Kai version became the dominant one, Exophase abandoned the PSP development scene altogether, while Takka kept releasing updates for another three years. The Russian developer ErikPshat, among others, continued to release tweaks for this build in the following years - most recently in 2017.
 

@@ -9,6 +9,10 @@ image: /assets/img/random/DaedalusX-ME.jpg
 
 [DaedalusX64](https://github.com/DaedalusX64/daedalus) is the current incarnation of the Nintendo 64 emulator started by StrmnNrmn. Its first PSP release came out in May 2006 and to this day, its GitHub page still sees regular commits. Z2442 is the man behind many of them. We asked him about the project and its future.
 
+<video class="center" width="600" height="400" controls>
+	<source type="video/mp4" src="https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/video/Mk64-Daedalus.mp4">
+</video>
+
 #### A bit about yourself - how long have you been involved with the project, when did you return to it and why?
 
 Z2442: I got my first PSP in or around 2005-ish and played the hell out of it. Then one day a friend told me to check [psp-hacks](https://web.archive.org/web/20060101025842/http://www.psp-hacks.com/) and I was hooked. I've been around here and there with Daedalus since 2009. Wally and Salvy even longer than that! 

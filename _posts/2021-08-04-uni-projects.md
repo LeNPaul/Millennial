@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Homebrew development in Universities"
+title: "Homebrew development in universities"
 author: "Pierre L"
 categories: games
 tags: [PSP,homebrew]
@@ -28,8 +28,6 @@ This [unnamed 3D maze game](https://alexrodgers.co.uk/2014/02/13/opengl-cross-pl
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/MehulShukla.webp)
 
 [Armor Attack PSP](https://mehulshukla.wordpress.com/armor-attack-pc-psp-and-ps3-game/) was meant to be a remake of a 1980 arcade game. A download link was once available, but works no longer.
-
-https://web.archive.org/web/20130811095922/http://mehulshukla.co.uk/armor-attack-pc-psp-and-ps3-game/
 
 ### Ruxandra Marasescu (Hull University)
 

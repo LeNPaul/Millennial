@@ -37,7 +37,7 @@ This [unnamed 3D maze game](https://alexrodgers.co.uk/2014/02/13/opengl-cross-pl
 
 ### Sameer Aziz Mirza (Hull University)
 
-Another student who got the same assignment: remaking [https://sites.google.com/site/sameerazizmirza/portfolio/rip-off-the-game](Rip Off). I'm guessing Sameer and Ruxandra were classmates?
+Another student who got the same assignment: remaking [Rip Off](https://sites.google.com/site/sameerazizmirza/portfolio/rip-off-the-game). I'm guessing Sameer and Ruxandra were classmates?
 
 ### Mark Campbell (University of Derby)
 

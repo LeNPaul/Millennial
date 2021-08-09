@@ -11,6 +11,10 @@ The PSP, along with its contemporary competitor the Nintendo DS, was part of the
 
 The PSP is stuck with SSL 3.0, a security protocol dating back from 1996. It was nearly a decade old when the console was first released, and it has since aged like unrefrigerated cream cheese. A major security hole was discovered in this protocol back in 2015, leading to SSL 3.0 being deprecated by all major websites in a matter of weeks.
 
+<video class="center" width="600" height="400" controls>
+	<source type="video/mp4" src="https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/video/noTLS.mp4">
+</video>
+
 Some sources report that the 6.61 firmware upgrade did include support for the less antiquated TLS 1.0 protocol. I could find no confirmation of this in the official documentation. The end effect is no different regardless: the PSP can only get online by connecting to a carefully set-up server, effectively shutting it out of most of the web.
 
 Paul Sajna - sajattack on the PSP Homebrew Discord server - decided it was time to do something about it. Piggybacking on the PSP port of the Rust language he co-authored, he built the first ever demo of a PSP establishing a connection over TLS 1.3, the most up-to-date iteration of the HTTP security protocols.

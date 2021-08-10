@@ -4,7 +4,7 @@ title: "Let's play! OpenLara!"
 author: "Pierre L"
 categories: games
 tags: [PSP,homebrew]
-image: /assets/img/snaps/2021-05-02-OpenLara-PSP.jpg
+image: /assets/img/snaps/2021-05-02-OpenLara-PSP.webp
 ---
 
 XProger's OpenLara takes us for another PSP-powered nostalgia trip. Remember the golden age of 3D gaming, back when gamers were not shamed for being toxic manchildren? Neither do I, but someone at CoreDesign must have fond memories of the mid-90s. After all, at the time they were the best known video-game makers in Britain who didn't create [anthropomorphic digital monkeys](https://en.wikipedia.org/wiki/Donkey_Kong_Country) for a living.
@@ -23,7 +23,7 @@ To play the whole story you will need to buy, or pirate, the full version of the
 
 <p class="download-btn">
     <a href="https://archive.org/download/open-lara.-7z/OpenLara.7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/icon0_missing.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/icon0_missing.webp" width="130" height="70">
 	Download the homebrew
 	</a>
 </p>

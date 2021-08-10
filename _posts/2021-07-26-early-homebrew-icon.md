@@ -4,7 +4,7 @@ title: "Why all early homebrews had this icon"
 author: "Pierre L"
 categories: apps
 tags: [PSP,homebrew]
-image: /assets/img/random/ICON0-animegirlbutt.PNG
+image: /assets/img/random/ICON0-animegirlbutt.webp
 ---
 
 The PSP equivalent of the Windows executable, I learn today, is the `.elf` file format (Executable and Linkable Format).
@@ -15,15 +15,15 @@ The creation of a software that would take an `.elf` file as input and spit out 
 
 In May 2005, a Windows program was created to do just that. The developer was a guy who called himself... [loser](https://www.neowin.net/forum/topic/316262-let-the-homebrew-coding-begin-elf-to-pbp/)?
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/elf2pbp-20050504.PNG)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/elf2pbp-20050504.webp)
 
 To test the application, I grabbed a random `.elf` (a tech demo, as it happens) and fed it to the elf2pbp program loser created 16 years ago. 
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/elf2pbp-exe.PNG)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/elf2pbp-exe.webp)
 
 The outcome: the program takes the original `.elf` file - unchanged, but renamed to `data.psp` - and adds a `PARAM.SFO` which encloses some basic metadata.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/elf2pbp-result.PNG)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/elf2pbp-result.webp)
 
 Oh, and adds the icon.
 

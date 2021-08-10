@@ -4,7 +4,7 @@ title: "MAME4ALL for PSP"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/snaps/2021-05-03-MAME4ALL-for-PSP.jpg
+image: /assets/img/snaps/2021-05-03-MAME4ALL-for-PSP.webp
 ---
 
 Introducing **MAME4ALL for PSP** - not to be confused with PSPMame, PSP Mame4All and half a dozen other ports of Mame for the Sony handheld - none of which run particularly great.
@@ -33,7 +33,7 @@ The .SFO file within the EBOOT lists the name of the emulator as 'VirtualConsole
 
 <p class="download-btn">
     <a href="https://archive.org/download/mame-4-all-v-4.9r-2-jp.-7z/MAME4ALL%20v4.9r2_jp.7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-03-MAME4ALL-for-PSP.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-03-MAME4ALL-for-PSP.webp" width="130" height="70">
 	Download the homebrew
 	</a>
 </p>

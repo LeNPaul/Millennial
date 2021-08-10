@@ -4,7 +4,7 @@ title: "When the readme says 'PSP Slim only'"
 author: "Pierre L"
 categories: apps
 tags: [PSP,homebrew]
-image: /assets/img/random/psp-fat-launch.jpg
+image: /assets/img/random/psp-fat-launch.webp
 ---
 
 'PSP Slim' is a marketing term for the second revision of the first Sony handheld - the PSP 2000 (or 2001, 2004, etc., depending on the region where you bought it). 
@@ -17,4 +17,4 @@ In a homebrew context, 'Slim' generally means any PSP model other than the first
 
 ### How to tell them apart
 
-[![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/PSP_comparison_R4.webp)](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/PSP_comparison_R4.png)
+[![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/PSP_comparison_R4.webp)](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/PSP_comparison_R4.webp)

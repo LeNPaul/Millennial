@@ -4,14 +4,14 @@ title: "Dat files for pspMame Deathrash"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/snaps/2021-05-08-dat-files-pspMame-Deathrash.jpg
+image: /assets/img/snaps/2021-05-08-dat-files-pspMame-Deathrash.webp
 ---
 
 It runs like ass, but it runs. pspMame Deathrash is a modified version of PSPmame, with support for games the Japanese developer who created the original port might have cared less for. 
 
 Like the Simpsons arcade game (featuring evil Smithers)!
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/VOL100630_00001.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/VOL100630_00001.webp)
 
 Frame skip goes all the way up to 11 (literally), and with good reason. Most games run at a single-digit frame rate.
 
@@ -37,21 +37,21 @@ Grab the .dat files for the three builds of pspMame Deathrash [here](https://git
 
 <p class="download-btn">
     <a href="https://archive.org/details/psp-mame-deathrash.-7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/deathrash-1.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/deathrash-1.webp" width="130" height="70">
 	Download pspMame Deathrash Vol I
 	</a>
 </p>
 
 <p class="download-btn">
     <a href="https://archive.org/details/pspMame-Deathrash-vol2-RC2.7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/deathrash-2.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/deathrash-2.webp" width="130" height="70">
 	Download pspMame Deathrash Vol 2.5
 	</a>
 </p>
 
 <p class="download-btn">
     <a href="https://archive.org/details/pspMame-Deathrash-vol3-RC2.7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/deathrash-3.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/deathrash-3.webp" width="130" height="70">
 	Download pspMame Deathrash Vol 3
 	</a>
 </p>

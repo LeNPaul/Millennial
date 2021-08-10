@@ -4,7 +4,7 @@ title: "Marilyn: In the Magic World"
 author: "Pierre L"
 categories: games
 tags: [PSP,homebrew]
-image: /assets/img/snaps/2021-05-01-Marilyn_In_the_Magic_World.png
+image: /assets/img/snaps/2021-05-01-Marilyn_In_the_Magic_World.webp
 ---
 
 Marilyn: In the Magic World, created by Meido-Tek Productions, is really a PlayStation 1 homebrew. But good brews, just like ethnic food and pestilence, know no borders. Now you can play this great little game on your PSP, courtesy of the inbuilt PS1 emulator. 
@@ -23,7 +23,7 @@ Marilyn: In the Magic World, created by Meido-Tek Productions, is really a PlayS
 
 <p class="download-btn">
     <a href="https://archive.org/details/marilyn-in-the-magic-world.-7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-Marilyn_In_the_Magic_World.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-Marilyn_In_the_Magic_World.webp" width="130" height="70">
 	Download the homebrew
 	</a>
 </p>

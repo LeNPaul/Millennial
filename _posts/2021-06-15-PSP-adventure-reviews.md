@@ -4,7 +4,7 @@ title: "Homebrew game reviews"
 author: "Pierre L"
 categories: games
 tags: [PSP,homebrew]
-image: /assets/img/random/PSP-adventure-blog.png
+image: /assets/img/random/PSP-adventure-blog.webp
 ---
 
 The eternal question about homebrew games: are any of them any good? Or less charitably - are there any homebrew games that aren't absolute trash? The eternal answer so far has been: we don't know. Other than Cave Story (which gets recommended every time the question crops up), few people had any knowledge of other good homebrews.

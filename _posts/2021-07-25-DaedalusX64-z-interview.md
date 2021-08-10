@@ -4,7 +4,7 @@ title: "Dev interview: Z2442 on DaedalusX64"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/random/DaedalusX-ME.jpg
+image: /assets/img/random/DaedalusX-ME.webp
 ---
 
 [DaedalusX64](https://github.com/DaedalusX64/daedalus) is the current incarnation of the Nintendo 64 emulator started by StrmnNrmn. Its first PSP release came out in May 2006 and to this day, its GitHub page still sees regular commits. Z2442 is the man behind many of them. We asked him about the project and its future.
@@ -21,8 +21,8 @@ Z2442: I got my first PSP in or around 2005-ish and played the hell out of it. T
 
 Z2442: Yeah.. a ton of stuff has happened since then. We helped Rinnie with the Vita port, reworked our makefile structure to use cmake (Wally), we fixed OS X, Linux, Windows, took a long break because life and last, hours upon hours of trying to make the async audio work properly. I feel as if get that working is our only path to full-speed on the the PSP. 
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/MK64-1.jpg)
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/MK64-2.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/MK64-1.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/MK64-2.webp)
 
 #### The latest big news is the ME implementation - how does it differ from the previous one? What's new?
 
@@ -34,15 +34,15 @@ Phew! Now that is out of the way our new approach is better and kind of weird. W
 
 This, aside from being really weird from an emulation standpoint, lets us do great things. We get even more speed since the main CPU never needs to do any of the sound work.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/M64-1.jpg)
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/M64-2.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/M64-1.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/M64-2.webp)
 
 #### What's the end game with Daedalus PSP? How would a final version look for you?
 
 Z2442: Daedalus as a emulator will keep advancing beyond the PSP. Even recently seeing ports to the PS2 and we brought back the Windows port! A final version for me would see at least full-speed Zelda OOT. My all time top game! 
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/OOT-2.jpg)
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/OOT-3.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/OOT-2.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/OOT-3.webp)
 
 #### Any features you'd like to see implemented - not necessarily by yourself? net play, bezels, N64 controller mod for the serial port?
 
@@ -56,7 +56,7 @@ Z2442: I do! My older one was testing Zelda Majora's Mask for me just few days a
 
 Z2442: Turok runs like hot trash! That was a childhood favorite of mine. 
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/Turok.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/Turok.webp)
 
 #### 1.1.9 when?
 
@@ -66,4 +66,4 @@ Z2442: Whenever I finish async? No really, soon I hope. I feel like we are close
 
 Z2442: The biggest achievement I have seen for the PSP is the unbricker the late model PSPs 2000-3000s!
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/Conker-1.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/Conker-1.webp)

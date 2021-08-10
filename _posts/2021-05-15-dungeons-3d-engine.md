@@ -4,7 +4,7 @@ title: "The PSP Dungeons Engine"
 author: "Pierre L"
 categories: games
 tags: [PSP,homebrew]
-image: /assets/img/snaps/EBOO00649_00000.jpg
+image: /assets/img/snaps/EBOO00649_00000.webp
 ---
 
 There is a seemingly unlimited supply of PSP homebrew games running on the Quake engine. What is less widely known, is the existence of a 3D engine that was nearly as successful. And was created specifically for the PSP.
@@ -23,27 +23,27 @@ Christoph Arnold (aka charnold) is the name of the German developer who made it.
 
 The original Dungeons game later gave rise to Dungeons: Assault Run, last updated in July 2008. What is most remarkable, though, is that a few other homebrew developers made use of the engine for their own creations.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SERI02036_00000.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SERI02036_00000.webp)
 
 [Serious Dungeons](https://archive.org/details/serious-dungeons-v-0.5.7z) - by Be3f
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/DUNG00835_00000.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/DUNG00835_00000.webp)
 
 [Icon KillerZ](https://archive.org/details/dungeons.-7z_202103) - by VettaCossX
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PS_T01494_00000.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PS_T01494_00000.webp)
 
 [Project Savior](https://archive.org/details/ps-teaser.-7z) - by EinhanderZwei
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RADG00835_00000.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RADG00835_00000.webp)
 
 [Radiosi Mod](https://archive.org/details/dungeons.-7z) - by Drew Medina
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/FRAC00742_00000.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/FRAC00742_00000.webp)
 
 [Frack Mod](https://archive.org/details/frackmodiv.-7z) - by Frack
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/ALIE01029_00001.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/ALIE01029_00001.webp)
 
 [Alien Huntress](https://archive.org/details/alien-huntress.-7z) - by Adriano
 
@@ -86,14 +86,14 @@ If you want to try your hand at creating FPS for the PSP without going through t
 
 <p class="download-btn">
     <a href="https://archive.org/details/psp-dungeons-v-0.7.7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/PSPDungeons3D.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/PSPDungeons3D.webp" width="130" height="70">
 	Download PSP Dungeons 3D
 	</a>
 </p>
 
 <p class="download-btn">
     <a href="https://archive.org/details/pspdar.-7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/DungeonsAssaultRun.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/DungeonsAssaultRun.webp" width="130" height="70">
 	Download Dungeons: Assault Run
 	</a>
 </p>

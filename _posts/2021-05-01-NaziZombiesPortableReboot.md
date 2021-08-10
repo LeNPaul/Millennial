@@ -4,7 +4,7 @@ title: "Nazi Zombies Portable: Reboot"
 author: "MotoLegacy"
 categories: games
 tags: [PSP,homebrew]
-image: /assets/img/snaps/2021-05-01-NaziZombiesPortableReboot.png
+image: /assets/img/snaps/2021-05-01-NaziZombiesPortableReboot.webp
 ---
 
 The original Nazi Zombies Portable was one of the most beloved and well-known of the many Quake mods created by the homebrew community for PSP. It was also one of the most famous homebrew games made for any platform.
@@ -34,7 +34,7 @@ A faithful recreation of Call of Duty Zombies for various platforms (and of cour
 
 <p class="download-btn">
     <a href="https://github.com/thyjukki/NZP-Reboot">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-NaziZombiesPortableReboot.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-NaziZombiesPortableReboot.webp" width="130" height="70">
 	Download the homebrew
 	</a>
 </p>

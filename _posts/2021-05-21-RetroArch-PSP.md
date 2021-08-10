@@ -4,7 +4,7 @@ title: "RetroArch on PSP: making the best of it"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/random/gottado.jpg
+image: /assets/img/random/gottado.webp
 ---
 
 Everyone loves to hate on RetroArch. Being part of the 'everyone', I wholeheartedly share the sentiment. The emulator is a classic case of a jack of all trades and master of continuously crashing piece of software. 
@@ -21,7 +21,7 @@ First though, let's change the aspect ratio of the RetroArch menu to something s
 
 The same menu has an option to add shadow effects to the fonts, an advisable choice to improve readability further.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-16-10.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-16-10.webp)
 
 That's better. 
 
@@ -37,21 +37,21 @@ Snes9X 2005 Plus struggles already at the introduction of Mario RPG. We can try 
 
 It barely makes a difference. All the help in the world won't make the game hit even the 30 FPS mark. 
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-SNES-1.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-SNES-1.webp)
 
 Let's see if the regular Snes9X 2005 fares any better with Donkey Kong Country 3.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-SNES-2.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-SNES-2.webp)
 
 Eh, barely. And while the PSP is a weak device, it can do better than this. As shown below, a native emulator like [s9xTYLme Mod](https://archive.org/details/s9xTYLme_mod.7z) can hover at around 30 FPS even in the 3D cutscenes of StarFox 2.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/s9xTYLme-Mod.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/s9xTYLme-Mod.webp)
 
 ### Game Boy
 
 For the Game Boy, we already know that RetroArch is a solid choice for playing Shantae. But what about any other game? As I test, I boot the Gambatte core with Army Men for GameBoy Color and at the start screen it reaches... 13 FPS?
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-Gameboy.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-Gameboy.webp)
 
 I've seen enough for this system. Moving on... 
 
@@ -59,11 +59,11 @@ I've seen enough for this system. Moving on...
 
 DK King of Swing is a game I never heard of, but according to random folks on the internet it is hard to emulate - so it will do for our purpose. There's no glitching on either emulator, but gpSP is noticeably faster than mGBA. 
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-GBA-1.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-GBA-1.webp)
 
 mGBA also performs very disappointingly with Metroid Fusion. 
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-GBA-2.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-GBA-2.webp)
 
 ### Arcade
 
@@ -73,7 +73,7 @@ For Mame 2003 and Mame 2003 Plus there won't be any need to find a hard-to-emula
 
 Finally we found something RetroArch PSP can emulate well. The Libretro emulator will play games from this early-90s handheld console at 60 frames per second.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-Lynx.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-Lynx.webp)
 
 The problem is that I - like most people - don't really care about the Atari Lynx. This exemplifies a broader problem about RetroArch PSP: it is the best emulator only for a number of incredibly obscure and forgotten consoles. 
 
@@ -83,7 +83,7 @@ Take the BK-0010. While the children of the USSR might get teary-eyed at the sol
 
 It plays full speed - which is nice. Except everything comes in a bloody red filter. No amount of changes in the settings make any difference.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-Megadrive.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RetroArch-Megadrive.webp)
 
 That's enough of RetroArch for now. 
 

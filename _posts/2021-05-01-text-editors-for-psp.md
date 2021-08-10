@@ -4,7 +4,7 @@ title: "Text editors for PSP"
 author: "Pierre L"
 categories: apps
 tags: [PSP,homebrew]
-image: /assets/img/snaps/PSPW00894_00000.jpg
+image: /assets/img/snaps/PSPW00894_00000.webp
 ---
 
 Why would you ever want to use your PSP as a text editor? It doesn't have a touch screen. It doesn't have a keyboard. You can technically link up the very first PSP model with an infrared keyboard - if you can buy one from an antique shop. In other words, it will not be a very practical endeavor.
@@ -37,7 +37,7 @@ It really is possible to use one of those - at least according to this old YouTu
 
 <p class="download-btn">
     <a href="https://archive.org/download/pspwrite.7z/pspwrite.7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-pspwrite.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-01-pspwrite.webp" width="130" height="70">
 	Download the homebrew
 	</a>
 </p>

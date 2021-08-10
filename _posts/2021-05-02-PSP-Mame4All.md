@@ -4,7 +4,7 @@ title: "PSP Mame4All 5.1"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/snaps/2021-05-02-PSP-Mame4All.png
+image: /assets/img/snaps/2021-05-02-PSP-Mame4All.webp
 ---
 
 The MAME arcade emulator has been ported to PSP numerous times over the years. Not all ports are created equal, however, and Mame4All is one of the best.
@@ -27,7 +27,7 @@ The release even includes a .dat file, to be used with programs like [RomCenter]
 
 <p class="download-btn">
     <a href="https://github.com/PSP-Archive/PSP-MAME4ALL/releases/tag/5.1">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-02-PSP-Mame4All.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-02-PSP-Mame4All.webp" width="130" height="70">
 	Download the homebrew
 	</a>
 </p>

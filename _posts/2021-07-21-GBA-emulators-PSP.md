@@ -4,14 +4,14 @@ title: "The GameBoy Advance on PSP"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/random/GBA-PSP.png
+image: /assets/img/random/GBA-PSP.webp
 ---
 
 If there is a system the PSP can emulate well, it is the GameBoy Advance. The screen ratio is similar, they are both handhelds, and there are no extra buttons to emulate. The PSP overall serves GBA games pretty decently. Let's see who we have to thank for this.
 
 ## Based on VisualBoyAdvance
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/VisualBoyAdvance.1.7.2.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/VisualBoyAdvance.1.7.2.webp)
 
 If you grew up in the early 2000s, and your parents weren't easily moved by your whiny appeals to buy you a GBA, odds are you're familiar with VisualBoyAdvance. The best GameBoy Advance emulator of the day was ported to PSP numerous times - with disappointing results. 
 
@@ -23,7 +23,7 @@ The creator is known as "499氏", probably indicating that the original release 
 
 Slasher's version seems to be incredibly buggy though - no idea if it's because of the passing of time (and firmware upgrades), or if it was this bad to begin with.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPGBA-PochiStyle.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPGBA-PochiStyle.webp)
 
 The unimaginatively named [GBA emulator for PSP](https://archive.org/details/pspgba.-7z) by Miemt11 also seems to be a further development of psp298's port.
 
@@ -33,7 +33,7 @@ And yet, even Jacomme's emulator wasn't good enough. For all his talents, the Fr
 
 ## Based on gpSP
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/gpsp-release.PNG)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/gpsp-release.webp)
 
 Enter Gilead Kutnick - aka Exophase. In August 2006 he released, quite out of the blue, the first build of his [gpSP](https://archive.org/details/gpsp09.7z), already in an advanced stage of development. 
 
@@ -41,7 +41,7 @@ Overnight, countless GBA games became suddenly playable on PSP. Development on t
 
 All later GBA emulators on PSP are based on gpSP, in one form or another.
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/gpSP-09.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/gpSP-09.webp)
 
 The first fork of gpSP was also the most controversial. [Unofficial gpSP Kai](https://archive.org/details/gp-sp-kai-v-3.4-test-4-b-230fat.-7z) was born when the Japanese developer Takka decided to fork Exophase's project. At first he did so without releasing the modified source code, in clear violation of the GPL licence. Exophase did not take very kindly to this, complaining quite loudly about the situation. 
 

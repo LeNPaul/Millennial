@@ -4,7 +4,7 @@ title: "Some (really good) Style from Pochi"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/random/PochiStyle.png
+image: /assets/img/random/PochiStyle.webp
 ---
 
 There are many custom icons and backgrounds available for PSP on the web, but how many look this good? 
@@ -15,11 +15,11 @@ He also created custom skin packs for the emulators and applications that suppor
 
 [PSPGenesis](https://archive.org/details/pspgenesis.-7z): before Pochi...
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPGenesis.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPGenesis.webp)
 
 ...after Pochi
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPGenesis-PochiStyled.jpg)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPGenesis-PochiStyled.webp)
 
 His last PSP works date from June 2008, when he created custom assets for [PSPcomic](https://archive.org/details/pspcomic.7z), [PSP Filer](https://archive.org/details/file-00370-00000) and the homebrew game [Stakker](https://archive.org/details/stakker_psp_update2-mk2k.7z).
 

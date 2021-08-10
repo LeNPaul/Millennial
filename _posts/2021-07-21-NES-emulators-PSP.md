@@ -4,7 +4,7 @@ title: "Emulating the NES on PSP"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]
-image: /assets/img/random/NES-PSP.png
+image: /assets/img/random/NES-PSP.webp
 ---
 
 Are 16 emulators too many for a single system? If you're a PSP owner, that's how many choices you have to emulate the NES.
@@ -13,7 +13,7 @@ They are not really 16 different emulators, though. Most of them have been forke
 
 ## Based on FCE Ultra
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/FCEUltra.PNG)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/FCEUltra.webp)
 
 [FCEU-PSP](https://archive.org/details/fceu-psp.7z) is the work of the Brazilian (I think) coder, bootsector. If you have to pick only one emulator from this list, I see no reason not to go with this one. 
 
@@ -23,7 +23,7 @@ Takka released four further updates for FCEU-PSP, choosing to name his builds [F
 
 ## Based on NesterJ
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/NesterJ_icon01_tg.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/NesterJ_icon01_tg.webp)
 
 NesterJ is the most prolific of the lot. If you ever played a random NES emulator on PSP, odds are it was based on this emulator.
 
@@ -47,7 +47,7 @@ Another China-centric fork is [NesterJ PSP for CN](https://archive.org/details/n
 
 ## Based on InfoNES
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/NES_icon01_tg.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/NES_icon01_tg.webp)
 
 The list of InfoNES-based emulators is the shortest. It seems that this emulator offered few advantages over the other two, as development of all builds was abandoned by late 2005.
 
@@ -59,7 +59,7 @@ The simply-named [NES for PSP](https://archive.org/details/nes-05.7z), created b
 
 ## Unknown parentage
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/icon0_missing.png)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/icon0/icon0_missing.webp)
 
 [Little John NES](https://archive.org/details/lj-nes-psp.7z) is the most bizarre on the list. It was ported by Tinnus from a Palm OS emulator, and was only intended as a proof of concept. Being just a test, it is really bare-bone: no menu, no settings. The original emulator is itself less accurate than either NesterJ or FCEUltra. I'm guessing the point of the port was to just show a Palm OS to PSP port could be done. In which case - mission accomplished.
 

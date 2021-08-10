@@ -4,7 +4,7 @@ title: "Because y'all need Jesus (and Buddha, and Muhammad)"
 author: "Pierre L"
 categories: apps
 tags: [PSP,homebrew]
-image: /assets/img/snaps/2021-05-02-PSP-holy-texts.jpg
+image: /assets/img/snaps/2021-05-02-PSP-holy-texts.webp
 ---
 
 Having a bad day? Pick up the Bible, open it on a random page and read the first verse you find:
@@ -19,7 +19,7 @@ In any case, the author did not forsake the public of international believers, h
 
 But not French.
 
-![Memri French](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/french-meme.jpg)
+![Memri French](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/french-meme.webp)
 
 If you have your doubts about the divinity of Christ - so what, the same goes for 90% of Christians. Reading the King James translation is still good training for when time travel will be invented - it might save you from being burnt at the stake for 'speaking in tongues' with your fancy 21st century lingo.
 
@@ -31,7 +31,7 @@ Those whose religious interest lie even further east will be pleased by Sakya's 
 
 <p class="download-btn">
     <a href="https://archive.org/download/goodbookr.7z/goodbookr-1.2.1.7z">
-	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-02-Good-Bookr.png" width="130" height="70">
+	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-02-Good-Bookr.webp" width="130" height="70">
 	Download Good Bookr
 	</a>
 </p>

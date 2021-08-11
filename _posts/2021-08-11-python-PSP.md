@@ -84,7 +84,7 @@ Printing to screen is just as convoluted as the ordinary Python above, and also 
 
 ### Python-PSP (OSLib) by Fraca7
 
-This is the one that got me curious about Python on PSP. It's a fork of the original Python-PSP, with added support for Brunni's OSLib library, which is ubiquitous in PSP homebrew projects anywhere.
+This is the one that got me curious about Python on PSP. It's [a fork](https://archive.org/details/oslib-samples) of the original Python-PSP, with added support for Brunni's OSLib library, which is ubiquitous in PSP homebrew projects anywhere.
 
 Output of calling `sys.version`:
 
@@ -130,3 +130,11 @@ except:
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/python-oslib-02.webp)
 
 Jérôme and Carlos must have had their reasons to drop the OSLib version in favour of the other one. But from this limited overview, it seems like the wrong choice.
+
+### StacklessPython OSLib MOD by Sakya
+
+An update to report on a last-minute discovery: the homebrew coder Sakya (creator of LightMP3 and the Homebrew Sorter) put together Carlos Eduardo's Stackless Python with the OSLib MOD library. This fork of the interpreter was compiled in August 2009, over a year after any previously known version. I have now archived it [here](https://archive.org/details/stackless-oslib-mod-by-sakya-2009-08-07). 
+
+There is no documentation available, but it seems promising. Reusing the code from Fraca7's OSLib fork managed to print text to screen right away.
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/python-sakya.webp)

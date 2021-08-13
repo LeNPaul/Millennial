@@ -31,7 +31,7 @@ Charnold's 3D gallery:
 
 PSP
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snap/DE2.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/DE2.webp)
 
 iOS
 
@@ -41,7 +41,7 @@ Danzel's Defense Station Touchable:
 
 PSP
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snap/defense-station-portable.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/defense-station-portable.webp)
 
 iOS
 
@@ -51,7 +51,7 @@ Mobile Assault by Code Tactics:
 
 PSP
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snap/mobile-assault.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/mobile-assault.webp)
 
 iOS
 

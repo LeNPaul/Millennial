@@ -7,7 +7,7 @@ tags: [PSP,homebrew]
 image: /assets/img/random/sony-fuckup.webp
 ---
 
-Could Sony have been worth as much as Apple? It sounds like a ludicrous proposition in 2021. Today, Apple [has enough saved up](https://www.investors.com/etfs-and-funds/sectors/sp500-every-american-apple-has-more-cash-than-anyone/) to buy every single Sony share in circulation - cash - and still have tens of billions left in the bank.
+Could Sony have been worth as much as Apple? It sounds like a ludicrous proposition in 2021. Today, Apple [has enough saved up](https://www.investors.com/etfs-and-funds/sectors/sp500-every-american-apple-has-more-cash-than-anyone/) to buy every single Sony share in circulation - cash - and still have tens of billions left in the bank. Tim Apple could have Sony's Tokyo headquarter turned into a parking lot for a laugh.
 
 Things were different when the PSP came out in 2005. Sony's market cap at the time was [$36 billion](https://companiesmarketcap.com/sony/marketcap/) to [Apple's $26](https://companiesmarketcap.com/apple/marketcap/). *Sony was actually the bigger company.* 
 
@@ -27,7 +27,7 @@ Look at the history of the PSP homebrew scene and a curious trend emerges starti
 
 And why wouldn't they? They could now make money by coding projects they used to release for free. Often their first iOS games were straight ports of PSP homebrews:
 
-Charnold's 3D gallery:
+Charnold's [3D gallery](https://archive.org/details/de-2-alpha.-7z):
 
 PSP
 
@@ -37,7 +37,7 @@ iOS
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/charnold.webp)
 
-Danzel's Defense Station Touchable:
+Danzel's [Defense Station Portable](https://archive.org/details/dsp.7z):
 
 PSP
 
@@ -47,7 +47,7 @@ iOS
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/danzel.webp)
 
-Mobile Assault by Code Tactics:
+ [Mobile Assault](https://archive.org/details/mobileassault.7z_202101) by Code Tactics:
 
 PSP
 

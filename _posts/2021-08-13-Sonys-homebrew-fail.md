@@ -7,7 +7,7 @@ tags: [PSP,homebrew]
 image: /assets/img/random/sony-fuckup.webp
 ---
 
-Could Sony have been worth as much as Apple? It sounds like a ludicrous proposition in 2021. Today, Apple [has enough saved up](https://www.investors.com/etfs-and-funds/sectors/sp500-every-american-apple-has-more-cash-than-anyone/) to buy every single Sony share in circulation - cash - and still have tens of billions left in the bank. Tim Apple could have Sony's Tokyo headquarter turned into a parking lot for a laugh.
+Could Sony have been worth as much as Apple? It sounds like a ludicrous proposition in 2021. Today, Apple [has enough saved up](https://www.investors.com/etfs-and-funds/sectors/sp500-every-american-apple-has-more-cash-than-anyone/) to buy every single Sony share in circulation - cash - and still have tens of billions left in the bank. Tim Apple could have Sony's Tokyo headquarters turned into a parking lot for a laugh.
 
 Things were different when the PSP came out in 2005. Sony's market cap at the time was [$36 billion](https://companiesmarketcap.com/sony/marketcap/) to [Apple's $26](https://companiesmarketcap.com/apple/marketcap/). *Sony was actually the bigger company.* 
 

@@ -86,7 +86,7 @@ The Pong game in the video seems to be [Pong PSP](https://archive.org/details/po
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/LASE01690_00000.webp)
 
-[Left 4 Quake](https://archive.org/details/laser-survivor-psp.-7z)
+[Laser Survivor](https://archive.org/details/laser-survivor-psp.-7z)
 
 ### Polyon Hockey
 
@@ -104,13 +104,13 @@ The Pong game in the video seems to be [Pong PSP](https://archive.org/details/po
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/20210727025440.webp)
 
-[Silveredge](https://archive.org/details/jelly-car-slim.-7z)
+[Jelly Car](https://archive.org/details/jelly-car-slim.-7z)
 
 ### PSP Rubik's Cube
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/RUBI00541_00000.webp)
 
-[PSP Rubik's Cube](https://archive.org/details/psprubiks-cube-v-35.7z) Another class of homebrews with many nearly identical games. This particular one was made by Exter.
+[PSP Rubik's Cube](https://archive.org/details/psprubiks-cube-v-35.7z). This is another class of homebrews with many nearly identical games. This particular one was made by Exter.
 
 ### PSPSnake
 
@@ -122,7 +122,7 @@ The Pong game in the video seems to be [Pong PSP](https://archive.org/details/po
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/__SC01117_00000.webp)
 
-[Simon for PSP](https://archive.org/details/simon10.7z) Jeff Zemla made this one. 
+[Simon for PSP](https://archive.org/details/simon10.7z) - Jeff Zemla made this one. 
 
 ### Dave Gnukem
 
@@ -146,7 +146,7 @@ The Pong game in the video seems to be [Pong PSP](https://archive.org/details/po
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SERI02036_00000.webp)
 
-[Serious Dungeons](https://archive.org/details/serious-dungeons-v-0.5.7z) The engine is charnold's Dungeons Engine.
+[Serious Dungeons](https://archive.org/details/serious-dungeons-v-0.5.7z). To answer Framerater's question in the video, the game runs on charnold's Dungeons Engine.
 
 ### Squarez
 
@@ -170,19 +170,19 @@ The Pong game in the video seems to be [Pong PSP](https://archive.org/details/po
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SAND00719_00000.webp)
 
-[Sandbox](https://archive.org/details/sandbox.-7z) PSMonkey also made Monkey 64, the only PSP alternative to DaedalusX64.
+[Sandbox](https://archive.org/details/sandbox.-7z) by PSMonkey. The dev also made [Monkey 64](https://archive.org/details/monkey-64-0311.7z), the only PSP alternative to DaedalusX64.
 
 ### Zombie Crisis
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/ZCRI00711_00000.webp)
 
-[Zombie Crisis](https://archive.org/details/30321-zcrisis-v-1.7z) This game seems to run on the PSP port of the Duke Nukem engine.
+[Zombie Crisis](https://archive.org/details/30321-zcrisis-v-1.7z) by Shotspark Studios. This game seems to run on the PSP port of the Duke Nukem engine.
 
 ### SQRXZ 2 and 4
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SQRX00476_00000.webp)
 
-[SQRXZ 2](https://archive.org/details/sqrxz-2.7z) and [SQRXZ 4](https://archive.org/details/sqrxz-4.7z)
+[SQRXZ 2](https://archive.org/details/sqrxz-2.7z) and [SQRXZ 4](https://archive.org/details/sqrxz-4.7z). The following few games are multiplatform ports of RetroGuru homebrews. As can be seen from the 4:3 aspect ratio, they weren't designed from the ground up for the PSP.
 
 ### Fruit'Y
 

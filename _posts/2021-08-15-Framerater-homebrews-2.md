@@ -32,13 +32,13 @@ Rather than messing with the eLoader (as Framerater does in the video) I recomme
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/FUZZ01258_00000.webp)
 
-[Fuzzy's World Space Golf 3D](https://archive.org/details/fuzzys-world.-7z) Made by Mills. And yes, the Golf came first, Space Ball came out three years later (2015).
+[Fuzzy's World Space Golf 3D](https://archive.org/details/fuzzys-world.-7z) by Mills. And yes, the Golf came first, [Space Ball](https://archive.org/details/spaceball.-7z) came out three years later (2015). Space Ball looks like a more polished version of Space Golf, but it was abandoned after only a handful of levels were implemented.
 
 ### Winnie the Pooh 
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/WINN01313_00000.webp)
 
-[Winnie the Pooh](https://archive.org/details/winnie-the-pooh.-7z)
+[Winnie the Pooh](https://archive.org/details/winnie-the-pooh.-7z) by Team Atlantis and Andres1408.
 
 ### PSPMarble: Orchestra Sensation
 
@@ -50,7 +50,7 @@ Rather than messing with the eLoader (as Framerater does in the video) I recomme
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/MOBI01397_00001.webp)
 
-[Mobile Assault](https://archive.org/details/mobileassault.7z_202101) The game eventually became a paid iOS game, after which the devs (unsurprisingly) stopped updating the PSP version. Still, one of the better homebrews available on PSP.
+[Mobile Assault](https://archive.org/details/mobileassault.7z_202101) by Code Tactics. The game eventually became a paid iOS game, after which the devs (unsurprisingly) stopped updating the PSP version. Still, one of the better homebrews available on PSP.
 
 ### PSPMinesweeper
 
@@ -62,7 +62,7 @@ Rather than messing with the eLoader (as Framerater does in the video) I recomme
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/20210808084154.webp)
 
-[Dungeons: Assault Run](https://archive.org/details/pspdar.-7z) The game looks more impressive when you consider that the dev created his own engine (and editor) from scratch. Charnold was another of many devs who abandoned the scene once the iPhone became popular. 
+[Dungeons: Assault Run](https://archive.org/details/pspdar.-7z) by Charnold. The game looks more impressive when you consider that the dev created his own engine (and editor) from scratch. Charnold was another of many devs who abandoned the scene once the iPhone became popular. 
 
 ### Pong PSP
 
@@ -74,37 +74,37 @@ The Pong game in the video seems to be [Pong PSP](https://archive.org/details/po
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPC00770_00000.webp)
 
-[PSPcanon](https://archive.org/details/pspcanon.-7z) Pretty sure the title is supposed to be PSPcañón, since the whole game is in Spanish. The PSP didn't always play nice with diacritics, so many devs got around the problem by just omitting them.
+[PSPcanon](https://archive.org/details/pspcanon.-7z) by Arknais_14. Pretty sure the title is supposed to be PSPcañón, since the whole game is in Spanish. The PSP didn't always play nice with diacritics, so many devs got around the problem by just omitting them.
 
 ### Left 4 Quake
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/LEFT01014_00000.webp)
 
-[Left 4 Quake](https://archive.org/details/left-4-quake.-7z)
+[Left 4 Quake](https://archive.org/details/left-4-quake.-7z) by Ribcaged Entertainment. Another of the many 3D shooters running on a modified Quake engine, as the title gives away.
 
 ### Laser Survivor
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/LASE01690_00000.webp)
 
-[Laser Survivor](https://archive.org/details/laser-survivor-psp.-7z)
+[Laser Survivor](https://archive.org/details/laser-survivor-psp.-7z) by Arthur42asse.
 
 ### Polyon Hockey
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/POLY01284_00000.webp)
 
-[Polyon Hockey](https://archive.org/details/polyon-hockey.-7z)
+[Polyon Hockey](https://archive.org/details/polyon-hockey.-7z) by Team Zenyth.
 
 ### Silveredge
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SILV01034_00000.webp)
 
-[Silveredge](https://archive.org/details/silveredge.-7z)
+[Silveredge](https://archive.org/details/silveredge.-7z) by AndrewYY.
 
 ### Jelly Car
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/20210727025440.webp)
 
-[Jelly Car](https://archive.org/details/jelly-car-slim.-7z)
+[Jelly Car](https://archive.org/details/jelly-car-slim.-7z) was ported to PSP by Drakon - later the creator of Lamecraft PSP.
 
 ### PSP Rubik's Cube
 
@@ -128,43 +128,43 @@ The Pong game in the video seems to be [Pong PSP](https://archive.org/details/po
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/DAVE01274_00000.webp)
 
-[Dave Gnukem](https://archive.org/details/daveGnukemPSP.7z)
+[Dave Gnukem](https://archive.org/details/daveGnukemPSP.7z) is one of many ports by Denis Televnyy (aka Deniska).
 
 ### Playstation Pool
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PSPO00573_00000.webp)
 
-[Playstation Pool](https://archive.org/details/pspool.-7z) 
+[Playstation Pool](https://archive.org/details/pspool.-7z) by BlackPhoenix.
 
 ### rRootage
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/rrootage.webp)
 
-[rRootage](https://archive.org/details/rRootage.7z)
+[rRootage](https://archive.org/details/rRootage.7z) is a PC game by Japanese coder Kenta Cho. The game was at the centre of some rather lame [scene drama](http://lukasz.dk/mirror/forums.ps2dev.org/viewtopicd312.html?t=4301) in December 2005, when two developers ported in within a matter of days of each other. Deniska's port is lost, only the one from MrBrown survives.
 
 ### Serious Dungeons
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SERI02036_00000.webp)
 
-[Serious Dungeons](https://archive.org/details/serious-dungeons-v-0.5.7z). To answer Framerater's question in the video, the game runs on charnold's Dungeons Engine.
+[Serious Dungeons](https://archive.org/details/serious-dungeons-v-0.5.7z) by Be3f. To answer Framerater's question in the video, the game runs on charnold's Dungeons Engine.
 
 ### Squarez
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SQUA00555_00000.webp)
 
-[Squarez](https://archive.org/details/squarez-v-0.8.1.7z)
+[Squarez](https://archive.org/details/squarez-v-0.8.1.7z) is an early homebrew game by Globware.
 
 ### Super Mario War
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/smwar.webp)
 
-[Super Mario War](https://archive.org/details/smw.7z_202101) The original Mario War was a DOS game! The Internet Archive has a copy [here](https://archive.org/details/mariowar).
+[Super Mario War](https://archive.org/details/smw.7z_202101) was ported to PSP by Percival and last updated in January 2007. The original Mario War was a DOS game! The Internet Archive has a copy [here](https://archive.org/details/mariowar).
 
 ### RoboTORN3D
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/ROBO00748_00000.webp)
 
-[RoboTORN3D](https://archive.org/details/rt-3-d-06anonymoustipster.-7z)
+[RoboTORN3D](https://archive.org/details/rt-3-d-06anonymoustipster.-7z) by AnonymousTipster was one of the earliest interactive 3D homebrews.
 
 ### Sandbox
 

@@ -9,13 +9,11 @@ image: /assets/img/random/okama.webp
 
 If emulating the PC-88 and the Vectrex sounds like a mainstream vulgarity to your ears, this article is perfect for you. In the mid-2000s, as the PSP scene was obsessing over the latest nightly builds of Daedalus, some crafty coders were creating emulators nobody asked for. 
 
-Like the memory card unit for the Dreamcast. 
-
 ### The Dreamcast's VMU
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/VMUD00541_00002.webp)
 
-While this looks more like a demoscene production, it is in fact a fully functional emulator - if not necessarily a practical one. There's no selection menu, but you can just rename your VMU game to `scroll.vms` to watch the magic unfold on screen. Though you'll probably need a magnifying lens to see anything.
+While [VirtuaMUnstaz VMS](https://archive.org/details/vmudemo.-7z) looks more like a demoscene production, it is in fact a fully functional emulator - if not necessarily a practical one. There's no selection menu, but you can just rename your VMU game to `scroll.vms` to watch the magic unfold on screen. Though you'll probably need a magnifying lens to see anything.
 
 ### Infocom Z-machine
 
@@ -39,7 +37,7 @@ Calculator apps for PSP are a dime a dozen, but they usually focus solely on get
 
 ### Smarcyclem
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/smartcycle.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/smartcycle.webp)
 
 [Smarcyclem](https://archive.org/details/smarcyclem.-7z) marks the peak of emulation-coding hipsterishness on this list. 
 

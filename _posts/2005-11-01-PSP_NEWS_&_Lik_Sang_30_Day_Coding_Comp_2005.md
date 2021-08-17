@@ -4,7 +4,7 @@ title: "PSP NEWS & Lik Sang 30 Day Coding Comp (2005)"
 author: "Pierre L"
 categories: gamejams
 tags: [PSP,homebrew]
-image: /assets/img/splash/PSP_NEWS_&_Lik_Sang_30_Day_Coding_Comp_(2005).webp
+image: /assets/img/splash/PSP_NEWS_&_Lik_Sang_30_Day_Coding_Comp_2005.webp
 ---
 
 The first [PSP NEWS & Lik Sang](https://web.archive.org/web/20051223225608/http://psp-news.dcemu.co.uk/psp30codingcomp.shtml) game jam was held in October-November 2005.

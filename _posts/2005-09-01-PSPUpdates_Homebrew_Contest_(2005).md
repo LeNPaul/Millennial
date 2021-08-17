@@ -4,7 +4,7 @@ title: "PSPUpdates Homebrew Contest (2005)"
 author: "Pierre L"
 categories: gamejams
 tags: [PSP,homebrew]
-image: /assets/img/splash/PSPUpdates_Homebrew_Contest_(2005).webp
+image: /assets/img/splash/PSPUpdates_Homebrew_Contest_2005.webp
 ---
 
 This is one of the first PSP game jams mentioned anywhere on the web. It was set up by [PSPUpdates](https://web.archive.org/web/20051211145509/http://pspupdates.qj.net:80/2005/09/pspupdates-homebrew-contest-voting.html), one of the websites of the QuickJump videogame news network.

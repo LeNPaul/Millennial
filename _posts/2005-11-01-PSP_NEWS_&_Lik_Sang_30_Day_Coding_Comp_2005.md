@@ -15,23 +15,17 @@ The first [PSP NEWS & Lik Sang](https://web.archive.org/web/20051223225608/http:
 
 <a href="https://archive.org/details/loki.-7z">Download Loki!</a>
 
-### No. 3: NOIZ2SA by Deniska
-
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/NOIZ00518_00000.webp)
-
-<a href="https://archive.org/details/noiz-2-sa.-7z">Download NOIZ2SA!</a>
-
 ### No. 2: Ikuzo by Stéphane Lévesque
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/IKUZ00402_00000.webp)
 
 <a href="https://archive.org/details/ikuzo.-7z">Download Ikuzo!</a>
 
-### No. 6: Quake 3 Bsp Map Viewer by PSmonkey
+### No. 3: NOIZ2SA by Deniska
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/ZBOO00649_00000.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/NOIZ00518_00000.webp)
 
-<a href="https://archive.org/details/bspviewer.-7z">Download Quake 3 Bsp Map Viewer!</a>
+<a href="https://archive.org/details/noiz-2-sa.-7z">Download NOIZ2SA!</a>
 
 ### No. 4: PSPicross by Mike Haggar
 
@@ -44,6 +38,12 @@ The first [PSP NEWS & Lik Sang](https://web.archive.org/web/20051223225608/http:
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/SUBM01100_00000.webp)
 
 <a href="https://archive.org/details/submission.7z">Download Submission!</a>
+
+### No. 6: Quake 3 Bsp Map Viewer by PSmonkey
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/ZBOO00649_00000.webp)
+
+<a href="https://archive.org/details/bspviewer.-7z">Download Quake 3 Bsp Map Viewer!</a>
 
 ### No. 7: Connect 4 by l33th4x0r
 

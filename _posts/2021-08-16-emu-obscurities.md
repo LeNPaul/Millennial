@@ -47,7 +47,7 @@ Sadly, I couldn't find any roms to test it with. Are there any ROM dumps for thi
 
 ### Watara you supposed to be?
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/POTA01473_00000.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/POTA01473_00000.webp)
 
 Akop Karapetyan's [Potator PSP](https://archive.org/details/potator-psp-akop.-7z) is a more traditional kind of emulator. The oddity of it comes from the system it emulates - the Watara Supervision. 
 

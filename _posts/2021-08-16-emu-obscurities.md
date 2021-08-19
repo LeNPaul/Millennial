@@ -44,3 +44,13 @@ Calculator apps for PSP are a dime a dozen, but they usually focus solely on get
 This isn't a case of wanting to emulate a forgotten home computer from the 1970s, or a gaming console that bombed in its home market. Fisher-Price's Smart Cycle was not - no matter how you look at it - a console, a home computer, or even a calculator. It's a toy that happens to have a chip. And it wasn't retro either - it was on game-store shelves at about the time this emulator was created.
 
 Sadly, I couldn't find any roms to test it with. Are there any ROM dumps for this toy?
+
+### Watara you supposed to be?
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/POTA01473_00000.webp)
+
+Akop Karapetyan's [Potator PSP](https://archive.org/details/potator-psp-akop.-7z) is a more traditional kind of emulator. The oddity of it comes from the system it emulates - the Watara Supervision. 
+
+While most handhelds of the 90s tried to compete against the Game Boy by offering better graphics or color, the Supervision tried to undercut it by being cheaper. The outcome is a bunch of games that look like they should run on a Nokia 3310.
+
+And now you can play them all on PSP. Enjoy.

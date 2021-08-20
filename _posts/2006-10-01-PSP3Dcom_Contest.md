@@ -51,4 +51,4 @@ This homebrew has been preserved, but as it depends on the TIFF exploit, which h
 
 This one is really no more than a coding exercise. 
 
-<a href="https://archive.org/details/electris.-7z">Download Cloud's Destiny!</a>
+<a href="https://archive.org/details/clouds_destiny_contest_ver">Download Cloud's Destiny!</a>

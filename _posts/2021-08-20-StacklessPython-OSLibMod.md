@@ -21,8 +21,6 @@ import time
 First, let's get our program to play some background music. We can use the pspmp3 module for this:
 
 ```
-import pspmp3
-
 pspmp3.init(1)
 pspmp3.load("theme.mp3")
 pspmp3.play(1)
@@ -35,14 +33,8 @@ The `pspmp3` module is annoyingly fussy about the files it is fed. I had to try 
 Next, sound effects. the `osl` module has a `Sound` class that will do for our purposes:
 
 ```
-import osl
-
 voice = osl.Sound("voice.wav")
-
-while True:
-    pad = osl.Controller()
-    if pad.pressed_cross:
-        voice.play()
+voice.play()
 ```
 
 Wav files are not as troublesome - converting a random audio file with Audacity worked right off the bat.
@@ -54,30 +46,23 @@ Loading an image is also pretty straightforward:
 The complication is that in order to be refreshed at every frame, the image has to be inside a cycle:
 
 ```
-skip = False
 while not osl.mustQuit():
-    if not skip:
-        osl.startDrawing()
-        mainImage.draw()
-        osl.endDrawing()
-    osl.endFrame()
-    skip = osl.syncFrame()
+    osl.startDrawing()
+    mainImage.draw()
+    osl.syncFrame()
+    osl.endDrawing()
+    osl.endFrame()   
 ```
 
 Let's add some bare-bone interactivity - when X is pressed, a sound is played and the image changes:
 
 ```
-pad = osl.Controller()
-if pad.pressed_cross:
-	osl.startDrawing()
-	mainImage = osl.Image("image2.png", osl.IN_RAM, osl.PF_8888)
-	mainImage.draw()
-	osl.endDrawing()
-	osl.endFrame()
-	skip = osl.syncFrame()
-	voice.play()
-	time.sleep(2)
-	mainImage = osl.Image("image1.png", osl.IN_RAM, osl.PF_8888)
+while not osl.mustQuit():
+    pad = osl.Controller()
+    if pad.pressed_cross:
+        mainImage = osl.Image("image2.png", osl.IN_RAM, osl.PF_8888)
+        voice.play()
+        Event = True
 ```
 
 All of the above also needs to be in a cycle, so that the interpreter constantly checks if a button has been pressed. 
@@ -87,8 +72,6 @@ Finally, let's add some code to exit gracefully when triangle is pressed:
 ```
 if pad.pressed_triangle:
 	osl.safeQuit()
-
-osl.endGfx()
 ```
 
 Put it all together, and this is what you end up with:
@@ -109,29 +92,29 @@ pspmp3.play(1)
 
 voice = osl.Sound("voice.wav")
 
-skip = False
+Event = False
+
 while not osl.mustQuit():
-    if not skip:
-        fpsCount = str(osl.getFPS())
-        osl.startDrawing()
-        mainImage.draw()
-        osl.endDrawing()
-    osl.endFrame()
-    skip = osl.syncFrame()
+    osl.startDrawing()
+    mainImage.draw()
+    osl.syncFrame()
+
+    if Event:
+        time.sleep(2)
+        mainImage = osl.Image("image1.png", osl.IN_RAM, osl.PF_8888)
+        Event = False
 
     pad = osl.Controller()
     if pad.pressed_cross:
-        osl.startDrawing()
         mainImage = osl.Image("image2.png", osl.IN_RAM, osl.PF_8888)
-        mainImage.draw()
-        osl.endDrawing()
-        osl.endFrame()
-        skip = osl.syncFrame()
         voice.play()
-        time.sleep(2)
-        mainImage = osl.Image("image1.png", osl.IN_RAM, osl.PF_8888)
+        Event = True
+        
     if pad.pressed_triangle:
         osl.safeQuit()
+
+    osl.endDrawing()
+    osl.endFrame()    
 
 osl.endGfx()
 ```

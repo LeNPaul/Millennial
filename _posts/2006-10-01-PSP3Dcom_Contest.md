@@ -11,7 +11,7 @@ The [PSP3D.com Ultimate Goodies And Cash Giveaway](https://web.archive.org/web/2
 
 ### No. 1: Install-O-Tron by Fanjita and Alex Richter
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/electris.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/INST01564_00000.webp)
 
 <a href="https://archive.org/details/installotron.-7z">Download Install-O-Tron!</a>
 

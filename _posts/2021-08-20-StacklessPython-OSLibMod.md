@@ -135,3 +135,9 @@ while not osl.mustQuit():
 
 osl.endGfx()
 ```
+
+Thrown in a bunch of assets of your choosing, and the result should look something like this:
+
+<video class="center" width="600" height="400" controls>
+	<source type="video/mp4" src="https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/video/pythonpsp.mp4">
+</video>

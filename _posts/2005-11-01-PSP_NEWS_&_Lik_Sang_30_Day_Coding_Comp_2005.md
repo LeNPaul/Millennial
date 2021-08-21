@@ -47,6 +47,6 @@ The first [PSP NEWS & Lik Sang](https://web.archive.org/web/20051223225608/http:
 
 ### No. 7: Connect 4 by l33th4x0r
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/DROP00877_00000.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/connect4lua.webp)
 
 <a href="https://archive.org/details/connect4.7z">Download Connect 4!</a>

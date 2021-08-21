@@ -31,7 +31,7 @@ Whichever came first - the Japanese or the Austrian - they're now both archived.
 </p>
 
 <p class="download-btn">
-    <a href="https://archive.org/download/simp-00787-00003/SIMPLETURN.7z">
+    <a href="https://archive.org/details/simp-00787-00003">
 	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/simple-turn.webp" width="130" height="70">
 	Download Simple Turn
 	</a>

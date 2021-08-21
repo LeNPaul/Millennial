@@ -32,7 +32,7 @@ The .SFO file within the EBOOT lists the name of the emulator as 'VirtualConsole
 ### Download
 
 <p class="download-btn">
-    <a href="https://archive.org/download/mame-4-all-v-4.9r-2-jp.-7z/MAME4ALL%20v4.9r2_jp.7z">
+    <a href="https://archive.org/details/mame-4-all-v-4.9r-2-jp.-7z">
 	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-03-MAME4ALL-for-PSP.webp" width="130" height="70">
 	Download the homebrew
 	</a>

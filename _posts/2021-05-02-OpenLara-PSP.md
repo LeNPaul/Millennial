@@ -22,7 +22,7 @@ To play the whole story you will need to buy, or pirate, the full version of the
 ### Download
 
 <p class="download-btn">
-    <a href="https://archive.org/download/open-lara.-7z/OpenLara.7z">
+    <a href="https://archive.org/details/open-lara.-7z">
 	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/icon0_missing.webp" width="130" height="70">
 	Download the homebrew
 	</a>

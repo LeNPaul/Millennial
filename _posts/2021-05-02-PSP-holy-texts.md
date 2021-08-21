@@ -30,7 +30,7 @@ Those whose religious interest lie even further east will be pleased by Sakya's 
 ### Download
 
 <p class="download-btn">
-    <a href="https://archive.org/download/goodbookr.7z/goodbookr-1.2.1.7z">
+    <a href="https://archive.org/details/goodbookr.7z">
 	<img border="0" alt="Download the homebrew" src="/assets/img/icon0/2021-05-02-Good-Bookr.webp" width="130" height="70">
 	Download Good Bookr
 	</a>

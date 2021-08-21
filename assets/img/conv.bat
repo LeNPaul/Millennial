@@ -7,3 +7,8 @@ for /R %%z in (*.jpg) do (
 %cwebp% "%%~fz" -o "%%~pz%%~nz.webp"
 del %%z
 )
+
+for /R %%z in (*.png) do (
+%cwebp% "%%~fz" -o "%%~pz%%~nz.webp"
+del %%z
+)

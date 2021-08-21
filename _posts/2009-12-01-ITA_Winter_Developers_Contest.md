@@ -4,7 +4,7 @@ title: "ITA's Winter Developers Contest"
 author: "Pierre L"
 categories: gamejams
 tags: [PSP,homebrew]
-image: /assets/img/splash/ITA's_Winter_Developers_Contest_2009.webp
+image: /assets/img/splash/ITAs_Winter_Developers_Contest_2009.webp
 ---
 
 The [ITA's Winter Developers Contest](http://psp-news.dcemu.co.uk/-iwdc-ita-s-winter-developers-contest-269182.html) coding contest took place in December 2009.

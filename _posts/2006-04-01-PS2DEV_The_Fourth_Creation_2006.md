@@ -7,7 +7,7 @@ tags: [PSP,homebrew]
 image: /assets/img/splash/PS2DEV_The_Fourth_Creation_2006.webp
 ---
 
-This game jam was held in 2006. It was organized by the good folks of the PS2dev forum (RIP).
+The [Fourth Creation](https://forums.ps2dev.org/viewtopic.php?f=1&t=5410) game jam was held in April to June 2006. It was organized by the good folks of the PS2dev forum (RIP).
 
 ### No. 1: Droplets by Drakonite
 

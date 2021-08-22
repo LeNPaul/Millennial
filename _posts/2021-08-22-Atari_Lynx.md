@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC Engine on PSP"
+title: "Emulating the Lynx on PSP"
 author: "Pierre L"
 categories: emulators
 tags: [PSP,homebrew]

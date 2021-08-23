@@ -46,3 +46,5 @@ This homebrew is now lost.
 ### NR: Mouse by Zstan
 
 This homebrew is now lost.
+
+The next edition of the XTreamContest was planned for June 2012, but it is [unclear](https://web.archive.org/web/20130828110931/http://www.xtreamlua.com/forums/viewforum.php?f=159) if it actually took place.

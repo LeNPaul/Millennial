@@ -271,8 +271,6 @@ This homebrew was archived, but no longer works.
 
 ### NR: Krap-psp v1.8 by kenma9123
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/XXXXXXXXXXXXXXXX.webp)
-
 This entry is a plugin.
 
 ### NR: Lightning by Yosh
@@ -282,8 +280,6 @@ This entry is a plugin.
 <a href="https://archive.org/details/lightningv11_signed.7z">Download Lightning!</a>
 
 ### NR: Localizer by Draan
-
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/XXXXXXXXXXXXXXXX.webp)
 
 This entry is a plugin.
 
@@ -349,8 +345,6 @@ This entry is a plugin.
 
 ### NR: Monster Hunter Save Converter by svanheulen
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/XXXXXXXXXXXXXXXX.webp)
-
 A plugin.
 
 ### NR: Nazi Zombies Portable by Jukki + team
@@ -360,8 +354,6 @@ A plugin.
 <a href="https://archive.org/details/2011-05-15-nzppsp">Download Nazi Zombies Portable!</a>
 
 ### NR: NewSlide by Afrothunder
-
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/XXXXXXXXXXXXXXXX.webp)
 
 A plugin.
 
@@ -389,7 +381,7 @@ A plugin.
 
 ### NR: Platform Portable by Benjamin999
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/XXXXXXXXXXXXXXXX.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PLAT01694_00000.webp)
 
 <a href="https://archive.org/details/platform-portable.-7z">Download Platform Portable!</a>
 

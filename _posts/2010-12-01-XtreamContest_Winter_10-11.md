@@ -41,7 +41,9 @@ Missing.
 
 ### NR: Climb by Walar
 
-Missing.
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/climb-walar.webp)
+
+<a href="https://archive.org/details/climb.-7z">Download Climb!</a>
 
 ### NR: eTirmoonZ by sined95
 

@@ -35,7 +35,9 @@ Missing.
 
 ### NR: Carré Impossible by Aurxk
 
-Missing.
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/CARR01636_00000.webp)
+
+<a href="https://archive.org/details/carre-impossible">Download Carré Impossible!</a>
 
 ### NR: Climb by Walar
 

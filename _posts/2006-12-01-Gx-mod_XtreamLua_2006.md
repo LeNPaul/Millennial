@@ -7,7 +7,23 @@ tags: [PSP,homebrew]
 image: /assets/img/splash/XtreamLua_Gx-mod_Lua_contest_2006.webp
 ---
 
-The [Gx-mod/XtreamLua 2006 contest](https://web.archive.org/web/20071107015320/http://xtreamlua.com/modules.php?name=News&file=article&sid=64) took place in December 2006.
+The [Gx-mod/XtreamLua 2006 contest](https://web.archive.org/web/20071107015320/http://xtreamlua.com/modules.php?name=News&file=article&sid=64) took place in December 2006. The top 3 homebrews were announced [here](https://web.archive.org/web/20071031104645/http://xtreamlua.com/modules.php?name=News&file=article&sid=68).
+
+### No. 1: Battlecruiser by Rabierre
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/BATT01691_00001.webp)
+
+<a href="https://archive.org/details/battlecruiser-lua.-7z">Download Battlecruiser!</a>
+
+### No. 2: Proutiland by Mickiam
+
+Missing.
+
+### No. 3: Puzzle by Fazerick
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PUZZ00682_00000.webp)
+
+<a href="https://archive.org/details/puzzle.7z">Download Puzzle!</a>
 
 ### StillGots by Dinacy
 
@@ -26,22 +42,6 @@ The [Gx-mod/XtreamLua 2006 contest](https://web.archive.org/web/20071107015320/h
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/LUAT01277_00000.webp)
 
 <a href="https://archive.org/details/luatennis-v-1.1-fw-1.50.7z">Download Lua Tennis!</a>
-
-### Proutiland by Mickiam
-
-Missing.
-
-### Puzzle by Fazerick
-
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/PUZZ00682_00000.webp)
-
-<a href="https://archive.org/details/puzzle.7z">Download Puzzle!</a>
-
-### Battlecruiser by Rabierre
-
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/BATT01691_00001.webp)
-
-<a href="https://archive.org/details/battlecruiser-lua.-7z">Download Battlecruiser!</a>
 
 ### Spacelua by Taz666
 

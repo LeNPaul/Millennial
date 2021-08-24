@@ -105,7 +105,7 @@ A plugin.
 
 ### 7: PSPCleaner by Migueliziosop
 
-Missing.
+This app is not archived as it alters the flash memory.
 
 ### 8: AlphaBase by DekraN
 

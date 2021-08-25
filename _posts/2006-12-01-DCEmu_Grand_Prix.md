@@ -21,7 +21,7 @@ Before Lik-Sang got licked by Sony though, three coders had enough time to submi
 
 ### Shinobi v0.1b by Dawd
 
-Missing! If you have a copy of this brew on your hard drive / memory stick / floppy disk, make sure to [get it touch](https://psp-archive.github.io/pages/about.html).
+Missing! If you have a copy of this brew on your hard drive / memory stick / floppy disk, make sure to [get in touch](https://psp-archive.github.io/pages/about.html).
 
 ### Legend Of Hyrule - Linken's Quest by Zion
 

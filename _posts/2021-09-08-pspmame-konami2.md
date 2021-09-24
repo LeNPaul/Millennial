@@ -39,7 +39,7 @@ And at least on a PSP slim, a lot more games will now launch simply because this
 
 ### Download
 
-Get it here: [https://archive.org/details/pspmame-0.97-konami-2.7z](https://archive.org/details/pspmame-0.97-konami-2.7z)
+Get it here: [https://archive.org/details/pspMAME](https://archive.org/details/pspMAME)
 
 ### Romset
 

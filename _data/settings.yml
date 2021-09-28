@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ''
 
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
@@ -16,11 +16,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-- {icon: 'instagram', link:  'https://instagram.com/paululele'}
-- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
-- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'twitter', link:    'https://twitter.com/'}
+# - {icon: 'facebook', link:   'https://www.facebook.com/'}
+- {icon: 'instagram', link:  'https://instagram.com/gack_j'}
+- {icon: 'envelope', link:   'mailto:jgonzales@vt.edu'}
+# - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text

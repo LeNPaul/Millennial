@@ -54,13 +54,13 @@ Here's the full list of featured games:
 
 ### Gnarly Pong
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/GUIT01458_00000.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/20210620071125.webp)
 
 [Gnarly Pong](https://archive.org/details/gnar-pong.-7z) by A_Noob 
 
 ### Guitar Star
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/20210620071125.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/GUIT01458_00000.webp)
 
 [Guitar Star](https://archive.org/details/guitarstar.7z) by Festi 
 
@@ -94,7 +94,7 @@ Kill Nyan Cat by Camxpspx123. Couldn't find a working link for this one.
 
 ### Naruto Contra Edition
 
-![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/GUIT01458_00000.webp)
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/NARU02133_00001.webp)
 
 [Naruto Contra Edition](https://archive.org/details/naruto-contra-editionv-3.7z) by Tiago Araujo 
 

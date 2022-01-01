@@ -11,7 +11,7 @@ The DCEmu Dream Coding Grand Prix of 2006 never took place. The main sponsor of 
 
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/random/kill-sang.webp)
 
-Before Lik-Sang got licked by Sony though, three coders had enough time to submit their homebrew creations.
+Before Lik-Sang got licked by Sony though, some coders had enough time to submit their homebrew creations.
 
 ### Block Attack by Error
 
@@ -28,3 +28,9 @@ Missing! If you have a copy of this brew on your hard drive / memory stick / flo
 ![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/LEGE01469_00001.webp)
 
 <a href="https://archive.org/details/legend-of-hyrule.-7z">Download Linken's Quest!</a>
+
+### Hedgehog Apocalypse by HazedMirror
+
+![Screenshot](https://github.com/PSP-Archive/PSP-Archive.github.io/raw/gh-pages/assets/img/snaps/LPM300335_00001.webp)
+
+<a href="https://archive.org/details/hedgehog-apocalypse">Download Hedgehog Apocalypse!</a>

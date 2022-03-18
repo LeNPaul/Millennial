@@ -1,6 +1,7 @@
 ---
 layout: page
-title: DJing
+title: DJ
+permalink: /dj
 ---
 
 ![](https://github.com/kinson2/kinson2.github.io/raw/gh-pages/assets/img/chris-djing01.png)

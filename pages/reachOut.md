@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reach Out
+permalink: /reachOut
 ---
 
 *If you are a student or colleague at Illinois, please email me directly, but do not complete the form below.*

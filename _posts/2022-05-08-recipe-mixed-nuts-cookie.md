@@ -5,7 +5,17 @@ author: "Christopher Kinson"
 image: recipe-mixed-nut-cookie-img.jpg
 ---
 
-The recipe presented here is a remix (or adaptation) of [Classic Chocolate Chip Cookies {Gluten Free} by Bob's Red Mill and Cassidy Stockton](https://www.bobsredmill.com/blog/recipes/classic-chocolate-chip-cookies-gluten-free/?msclkid=c3755472cfbe11ecb4033adb9e1dabd5).
+The recipe presented here is a remix (or adaptation) of [Classic Chocolate Chip Cookies {Gluten Free} by Bob's Red Mill and Cassidy Stockton](https://www.bobsredmill.com/blog/recipes/classic-chocolate-chip-cookies-gluten-free/?msclkid=c3755472cfbe11ecb4033adb9e1dabd5). 
+
+Below, you will find a tasty recipe for those who are not allergic to nuts. If you have an allergy, do not try this recipe, no matter how delectable the cookies look. You have been warned.
+
+## Background Music
+
+I love music so each remixed recipe arrives with a remixed, edited, or reworked song.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3BmxwS8SAdpVMi4dqMK0xG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+## Ingredients
 
 - 1/2 cup (1 sticks) Butter, softened
 

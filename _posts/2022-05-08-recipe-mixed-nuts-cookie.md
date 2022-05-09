@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mixed Nut {Gluten Free} Cookies"
+title: "Mixed Nut Gluten Free Cookies"
 author: "Christopher Kinson"
 image: recipe-mixed-nut-cookie-img.jpg
 ---
@@ -11,11 +11,11 @@ Below, you will find a tasty recipe for those who are not allergic to nuts. If y
 
 ## Background Music
 
-I love music so each remixed recipe arrives with a remixed, edited, or reworked song.
+I love music so each remixed recipe arrives with a remixed, edited, or reworked song for you to play while you cook.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3BmxwS8SAdpVMi4dqMK0xG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-## Ingredients
+## Ingredients (Makes 36 Cookies)
 
 - 1/2 cup (1 sticks) Butter, softened
 
@@ -54,5 +54,3 @@ I love music so each remixed recipe arrives with a remixed, edited, or reworked 
 5. Roll dough into balls, about two tablespoons each. Place 2 inches apart on ungreased baking sheets.
 
 6. Bake for 11 to 13 minutes or until golden brown. Cool on baking sheets for 5 minutes. Move to wire rack to cool completely.
-
-Makes 36 cookies

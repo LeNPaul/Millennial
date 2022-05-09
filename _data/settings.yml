@@ -12,6 +12,7 @@ menu:
 #- {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Teaching Assistant Professor',      url: 'teachingAssistantProfessor'}
 - {name: 'DJ',              url: 'dj'}
+- {name: 'Food Remixer',            url: 'foodRemixer'}
 - {name: 'Reach Out',            url: 'reachOut'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

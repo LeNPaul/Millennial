@@ -44,8 +44,8 @@ thought of as a localized autograder (automatic grading of .R files on
 one’s own computer). With some additional work and licenses, it can be
 connected to online systems such as <a href="https://cran.r-project.org/web/packages/gradeR/vignettes/using_gradeR_with_Gradescope.html">Gradescope</a>
 and GitHub. This can make it a versatile and powerful tool, especially
-for large courses that incorporates computing or programming technology
-with or without teaching assistants, course assistants, and hourly
+for large courses that incorporate computing or programming technology
+with or without teaching assistants, course assistants, or hourly
 employees.</p>
 <p>Let’s take a look at some of the questions I had while learning about
 this helpful package. If you want to follow along and try out these

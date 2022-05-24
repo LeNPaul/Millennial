@@ -372,8 +372,8 @@ pre code {
 </div>
 
 
-<p>Taylor Brown (<a href="https://statistics.as.virginia.edu/faculty-staff/profile/trb5me" class="uri">https://statistics.as.virginia.edu/faculty-staff/profile/trb5me</a>)
-developed the <a href="https://cran.r-project.org/web/packages/gradeR/index.html"><strong>gradeR</strong>
+<p><a href="https://statistics.as.virginia.edu/faculty-staff/profile/trb5me">Taylor
+Brown</a> developed the <a href="https://cran.r-project.org/web/packages/gradeR/index.html"><strong>gradeR</strong>
 package</a> for R. His <a href="https://cran.r-project.org/web/packages/gradeR/vignettes/gradeR.html">original
 vignette</a> explains foundations of using the package. I am writing
 this vignette to supplement aspects of the original because I had
@@ -389,7 +389,7 @@ with or without teaching assistants, course assistants, and hourly
 employees.</p>
 <p>Let’s take a look at some of the questions I had while learning about
 this helpful package. If you want to follow along and try out these
-ideas yourself, you can download the zip file<a href="https://github.com/kinson2/kinson2.github.io/raw/gh-pages/another-gradeR-vignette.zip">another-gradeR-vignette.zip</a>,
+ideas yourself, you can download the <a href="https://github.com/kinson2/kinson2.github.io/raw/gh-pages/another-gradeR-vignette.zip">another-gradeR-vignette.zip</a>,
 extract it, and set your working directory in R or RStudio to
 “another-gradeR-vignette”.</p>
 <pre class="r"><code>setwd(&quot;~/another-gradeR-vignette&quot;)</code></pre>

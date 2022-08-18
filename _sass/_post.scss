@@ -1,10 +1,7 @@
-.page-content {
+.post-content {
   width: 600px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin: 10px auto 10px;
 }
 .post-date {
   display: block;
@@ -19,13 +16,10 @@
   max-width: 600px;
 }
 @media (max-width: $container-width) {
-  .page-content {
+  .post-content {
     width: 60vw;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 10px auto 10px;
   }
   .featured-image img {
     align: middle;
@@ -35,13 +29,10 @@
   }
 }
 @media (max-width: $tablet-width) {
-  .page-content {
+  .post-content {
     width: 95vw;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 10px auto 10px;
   }
   .featured-image img {
     align: middle;

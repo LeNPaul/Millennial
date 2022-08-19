@@ -10,7 +10,7 @@ menu:
 - {name: 'Working on',      url: 'workingon'}
 - {name: 'Projects',        url: 'projects'}
 - {name: 'Resume',          url: 'resume'}
-- {name: 'Certifications',  url: 'documentation'}
+- {name: 'Certifications',  url: 'certifications'}
 - {name: 'About',           url: 'about'}
 - {name: 'Contact',         url: 'contact'}
 

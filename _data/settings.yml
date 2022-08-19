@@ -8,7 +8,7 @@
 
 menu:
 - {name: 'Working on',      url: 'workingon'}
-- {name: 'Projects',        url: 'resources'}
+- {name: 'Projects',        url: 'projects'}
 - {name: 'Resume',          url: 'sample-posts'}
 - {name: 'Certifications',  url: 'documentation'}
 - {name: 'About',           url: 'about'}

@@ -2,7 +2,7 @@
 
 ## Credits
 
-#### Theme created by Paul Le
+#### A minimalist Jekyll theme by Len Paul
 
 * [www.lenpaul.com](http://lenpaul.com)
 

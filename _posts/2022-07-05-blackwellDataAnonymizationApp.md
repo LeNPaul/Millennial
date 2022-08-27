@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blackwell Summer Scholars Program: Shiny App"
+title: "2022 Blackwell Summer Scholars: Data Anonymization Shiny App"
 author: "Christopher Kinson"
 image: University-Wordmark-Full-Color-CMYK.png
 ---

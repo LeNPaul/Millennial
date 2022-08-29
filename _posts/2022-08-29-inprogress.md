@@ -12,3 +12,7 @@ BOINC (Berkeley Open Infrastructure for Network Computing) is an open-source sys
 There are about 30 science projects that use BOINC in many areas. They investigate diseases, study climate change, discover pulsars, and do many other types of scientific research. (source: Wikipedia and BOINC homepage)
 
 In this project we will create an EC2 instance on Amazon AWS, install the BOINC client on it and attach to a science project.
+
+## Spin up an EC2 instance on AWS
+
+## Installing and configuring BOINC

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Boinc"
+title: "Working on..."
 author: "David Peter"
 categories: workingon
 tags: [documentation,sample]
-image: boinc.png
+image: progressbar.png
 ---

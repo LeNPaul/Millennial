@@ -4,7 +4,7 @@ title: "Certifications"
 author: "David Peter"
 categories: documentation
 tags: [documentation,sample]
-image: resume.jpg
+image: certs.jpg
 ---
 
 # Technical Support Fundamentals

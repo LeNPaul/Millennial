@@ -3,7 +3,16 @@ layout: page
 title: writing
 ---
 
-## 2020 Honors Undergraduate Thesis: 
+## rECHOmmend!
+**Title:**<br>
+rECHOmmend: An ECG-Based Machine Learning Approach for Identifying Patients at Increased Risk of Undiagnosed Structural Heart Disease Detectable by Echocardiography
+
+**Abstract:**<br>
+Timely diagnosis of structural heart disease improves patient outcomes, yet many remain underdiagnosed. While population screening with echocardiography is impractical, ECG-based prediction models can help target high-risk patients. We developed a novel ECG-based machine learning approach to predict multiple structural heart conditions, hypothesizing that a composite model would yield higher prevalence and positive predictive values to facilitate meaningful recommendations for echocardiography.
+
+To continue reading click here --> [circulation](https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.121.057869)
+
+## Undergraduate Thesis: 
 **Title:**<br>
 Estrogen Drives Intestinal Wound Regeneration Following Accute Injury
 

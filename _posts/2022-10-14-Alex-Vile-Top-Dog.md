@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alex Vile - Top Dog (forthcoming)"
+title: "Alex Vile - Top Dog"
 author: "Deana Seitz and Aster Teter"
 categories: music videos
 tags: [music videos, editing, color grading]

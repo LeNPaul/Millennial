@@ -7,9 +7,4 @@ tags: [music videos, editing, color grading]
 image: topdog2.png
 ---
 
-Forthcoming music video of Alex Vile's "Top Dog" <br> Release date: October 26, 2022
-
-<img src="{{site.baseurl}}/assets/img/topdog2.png">
-<img src="{{site.baseurl}}/assets/img/topdog3.png">
-<img src="{{site.baseurl}}/assets/img/topdog.png">
-<img src="{{site.baseurl}}/assets/img/topdog1.png">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qFm1JF9a1s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

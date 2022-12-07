@@ -8,7 +8,7 @@ google-ID: ' '
 
 menu:
 - {name: 'Testimonials',       url: 'testimonials'}
-- {name: 'Commercial Work',            url: 'commercial'}
+- {name: 'Commercial Work',    url: 'commercial'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 

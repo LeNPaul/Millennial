@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Commercial
+title: Commercial Work
 permalink: /commercial
 ---
 

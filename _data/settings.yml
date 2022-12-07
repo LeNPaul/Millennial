@@ -8,9 +8,9 @@ google-ID: ' '
 
 menu:
 - {name: 'Testimonials',       url: 'testimonials'}
+- {name: 'Commercial Work',            url: 'commercial'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'Commercial',            url: 'commercial'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

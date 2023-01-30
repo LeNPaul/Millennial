@@ -13,7 +13,7 @@ Color Grading by Aster Teter
 Film by Hailey Bunn
 
 <img src="{{site.baseurl}}/assets/img/lr.jpeg">
-<img src="{{site.baseurl}}/assets/img/lr1.jpeg">
+<img src="{{site.baseurl}}/assets/img/lr6.jpeg">
 <img src="{{site.baseurl}}/assets/img/lr2.jpeg">
 <img src="{{site.baseurl}}/assets/img/lr3.jpeg">
 <img src="{{site.baseurl}}/assets/img/lr4.jpeg">

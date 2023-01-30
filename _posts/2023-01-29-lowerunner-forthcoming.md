@@ -7,7 +7,9 @@ tags: [narrative, color grading]
 image: lr6.png
 ---
 Forthcoming March 2023
+<br>
 Color Grading by Aster Teter
+<br>
 Film by Hailey Bunn
 
 <img src="{{site.baseurl}}/assets/img/lr.png">

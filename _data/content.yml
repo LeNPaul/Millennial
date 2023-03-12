@@ -1,0 +1,5 @@
+sets:
+  - name: SCORPIOS
+    embed_link: https://hearthis.at/atmos/scorpios/ # Need this if you want to play it live
+    download_link: https://hearthis.at/atmos/scorpios/
+    summary:

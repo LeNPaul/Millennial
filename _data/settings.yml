@@ -11,6 +11,7 @@ menu:
 - {name: 'writing', folder: 'pages', file: 'writing.html'}
 - {name: 'about', folder: 'pages', file: 'about.html'}
 - {name: 'contact', folder: 'pages', file: 'contact.html'}
+- {name: 'sets', folder: 'pages', file: 'sets.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

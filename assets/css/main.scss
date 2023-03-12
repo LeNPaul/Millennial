@@ -23,3 +23,64 @@ $phone-width: 480px;
 $header-thickness: 56px;
 
 @import "_sass/-sections-dir";
+
+$fa-font-path: "/assets/node_modules/@fortawesome/fontawesome-free/webfonts";
+
+@import url('https://use.fontawesome.com/releases/v5.2.0/css/all.css');
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Poppins:200,400,700');
+
+
+
+@mixin strong-type() {
+	text-transform:uppercase;
+	font-weight:12;
+	letter-spacing:.66px;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+  
+main {
+  flex: 1;
+}
+
+.button {
+	@include strong-type();
+	&.is-small {
+		letter-spacing:.33px;
+	}
+	&.is-large {
+		letter-spacing:1.5px;
+	}
+}
+
+
+.embed-set {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  max-width: 100%;
+}
+
+.embed-set iframe {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+}
+
+.box {
+	box-shadow:none;
+}
+
+.centerimg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+  }

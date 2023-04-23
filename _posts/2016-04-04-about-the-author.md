@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Jonathan Hilgart"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: 
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Jonathan. A backend engineer with a focus on building ML systems. I've done everything from defining core growth metrics and calculating CAC, to leading a team of 5 ML engineers to create ML systems for healthcare, to leveraging LLMs for ranking. Feel free to reach out; I love to connect and chat!

@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "UMass Actuarial Club"
+description:	       "The home for Beta Chi, the UMass Chapter of Gamma Iota Sigma"
+author:              "Noah Ford"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

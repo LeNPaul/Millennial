@@ -10,9 +10,9 @@ menu:
 #- {name: 'Interesting Facts',  url: 'facts'}
 #- {name: 'Learning Resources', url: 'resources'}
 #- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Teaching Assistant Professor',      url: 'teachingAssistantProfessor'}
+- {name: 'Teaching Associate Professor',      url: 'teachingAssociateProfessor'}
 - {name: 'DJ',              url: 'dj'}
-- {name: 'Food Remixer',            url: 'foodRemixer'}
+#- {name: 'Food Remixer',            url: 'foodRemixer'}
 - {name: 'Reach Out',            url: 'reachOut'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

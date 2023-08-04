@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching Assistant Professor
-permalink: /teachingAssistantProfessor
+title: Teaching Associate Professor
+permalink: /teachingAssociateProfessor
 ---
 
 ![](https://github.com/kinson2/kinson2.github.io/raw/gh-pages/assets/img/chris-teaching-assistant-prof01.JPG)

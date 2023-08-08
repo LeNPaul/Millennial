@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Christopher Kinson"
-description:	       "Created using Millenial, a minimalist Jekyll theme for running a blog or publication, originally created by Paul Le"
-author:              "Paul Le"
+title:		           "CK"
+description:	       "A website for Chris Kinson containing his pursuits and interests - professionally and personally."
+author:              "Christopher Kinson"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

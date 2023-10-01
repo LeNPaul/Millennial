@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Este tema es completamente gratuito y software de código abierto. Puede usarlo como desee, ya que se distribuye bajo la [Licencia MIT](http://choosealicense.com/licenses/mit/). Si tiene algún problema, alguna pregunta o sugerencia, no dude en [twittearme] (https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele) o [presentar un problema de GitHub] (https://github.com/lenpaul/Millennial/issues/new).

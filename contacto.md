@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "404: Page not found"
+title: "contacto"
 permalink: 404.html
 ---
 

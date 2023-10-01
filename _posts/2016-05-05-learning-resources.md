@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Resources"
-author: "Paul Le"
+author: "Pedro López"
 categories: resources
 tags: [documentation,sample]
 image: IMG_2338.JPG

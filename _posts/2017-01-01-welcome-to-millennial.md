@@ -4,7 +4,7 @@ title: "Mi trabajo!"
 author: "Pedro López"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: IMG_2427.CR2
 ---
 
 

@@ -10,8 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Foto colección"
-description:	       "un sitio minimalista de blog y publicaciones"
+title:		           "Pedro López"
+description:	       "Pedro López-Web Oficial"
+description:         "Fótografo y Músico"
 author:              "Pedro López"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

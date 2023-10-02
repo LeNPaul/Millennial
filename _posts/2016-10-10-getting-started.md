@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Experiencias"
+author: "Pedro López"
 categories: documentation
 tags: [documentation,sample]
 image: IMG_2543.JPG

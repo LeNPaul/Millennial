@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: Fuentes de Ayuda
 category: resources
-permalink: /resources
+permalink: /Fuentes
 ---

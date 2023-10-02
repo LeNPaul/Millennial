@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Publicaciones
 category: sample
 permalink: /Publicaciones
 

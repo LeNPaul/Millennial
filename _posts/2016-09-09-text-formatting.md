@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Lugares"
+author: "Pedro López"
 categories: sample
 tags: [sample]
 image: IMG_2338.JPG

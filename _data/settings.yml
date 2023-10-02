@@ -1,8 +1,3 @@
- <head>
-    ...
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
-  </head>
-
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false

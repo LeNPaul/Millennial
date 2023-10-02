@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Pedro López"
-description:	       "Pedro López-Web Oficial" "Fótografo y Músico"
+description:	       "Web Oficial|Fótografo y Músico"
 author:              "Pedro López"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

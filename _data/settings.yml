@@ -12,7 +12,7 @@ menu:
 - {name: 'Publicaciones',      url: 'Publicaciones'}
 - {name: 'Documentos',         url: 'Documentos'}
 - {name: 'Información',        url: 'Información'}
-- {name: 'Contacto',           url: 'Contacto'}
+- {name: 'Sobre mi',           url: 'Contacto'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

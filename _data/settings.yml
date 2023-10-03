@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Hechos interesantes',  url: 'Hechos'}
-- {name: 'Fuentes',            url: 'Fuentes'}
+- {name: 'Portafolio',            url: 'Fuentes'}
 - {name: 'Publicaciones',      url: 'Publicaciones'}
 - {name: 'Documentos',         url: 'Documentos'}
 - {name: 'Información',        url: 'Información'}

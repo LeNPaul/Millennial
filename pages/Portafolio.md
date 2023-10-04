@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Fuentes de Ayuda
+title: Fuentes
 category: resources
 permalink: /Fuentes
 image: IMG_2401.JPG

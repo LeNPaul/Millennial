@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fuentes
-category: resources
+category: fuentes
 permalink: /Fuentes
 image: IMG_2401.JPG
 image1: IMG_2478.JPG

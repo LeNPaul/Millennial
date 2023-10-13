@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Documentos
 category: documentation
 permalink: /Documentos

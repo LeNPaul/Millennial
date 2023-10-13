@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Fuentes
 category: resources
 permalink: /Fuentes

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "contacto"
-permalink: Contacto
+permalink: contacto
 ---
 
-Contacto:.
+

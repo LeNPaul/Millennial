@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fuentes
+title: Portafolio 
 category: fuentes
 permalink: /Fuentes
 image: IMG_2401.JPG

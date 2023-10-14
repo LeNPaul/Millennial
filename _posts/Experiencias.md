@@ -2,7 +2,7 @@
 layout: post
 title: "Experiencias"
 author: "Pedro López"
-categories: documentation
+categories: fuentes 
 tags: [documentation,sample]
 image: IMG_2401.JPG
 ---

@@ -19,7 +19,7 @@ social:
 - {icon: 'instagram', link:  'https://instagram.com/pedroolpzzz_'}
 
 # Customize site text
-pagination:
+# pagination:
  # next_page: 'Nuevo'
 #  previous_page: 'Antiguo'
 

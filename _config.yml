@@ -11,6 +11,6 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-description:	       "Web Oficial"
-title:	"Pedro López"
+description: "Pedro López"
+title:	"Web Oficial"
 

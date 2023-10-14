@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Información
+#title: Información
 permalink: /Información
 ---
 

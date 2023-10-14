@@ -20,10 +20,10 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Nuevo'
-  previous_page: 'Antiguo'
+ # next_page: 'Nuevo'
+#  previous_page: 'Antiguo'
 
-sharing_button_prompt: 'Se libre de compartir!'
+#sharing_button_prompt: 'Se libre de compartir!'
 
 #related_posts: 'Ver otras publicaciones...'
 

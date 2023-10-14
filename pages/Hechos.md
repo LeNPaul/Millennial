@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Hechos Interesantes
-category: facts
+category: page
 permalink: /Hechos
 ---

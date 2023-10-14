@@ -4,4 +4,3 @@ title: Información
 permalink: /Información
 ---
 
-Informacion:.

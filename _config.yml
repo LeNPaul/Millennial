@@ -10,7 +10,6 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-
-description: "Web Oficial"
 title:	"Pedro López"
+description: "Web Oficial"
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: Portafolio 
 category: fuentes
 permalink: /Fuentes

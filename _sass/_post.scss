@@ -10,7 +10,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: rgba(0, 0, 0, 0);
+	background: rgba(#f5f5f5;);
 }
 
 img {
@@ -45,7 +45,7 @@ figure::after {
 	left: 50%;
 	width: 200%;
 	height: 200%;
-	background: rgba(0, 0, 0, 0);
+	background: rgba(#f5f5f5;);
 	transform-origin: center;
 	opacity: 0;
 	transform: scale(2);

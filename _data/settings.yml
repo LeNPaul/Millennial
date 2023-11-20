@@ -7,20 +7,22 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'Subscription',  url: 'subscription'} # Added Tommy
+- {name: 'The team',  url: 'theteam'} # Added Tommy
+# - {name: 'Learning Resources', url: 'resources'}
+- {name: 'Sample Posts',       url: 'sample-posts'} # Keep to copy
 - {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Scope',      url: 'scope'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-- {icon: 'instagram', link:  'https://instagram.com/paululele'}
-- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
-- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'twitter', link:    'https://twitter.com/paululele'}
+# - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
+- {icon: 'instagram', link:  'https://instagram.com/peregrina.official'}
+# - {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
+# - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text

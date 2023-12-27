@@ -2,6 +2,8 @@
 layout: post
 title: "Boneyard Arts Festival 2022"
 author: "Christopher Kinson"
+categories: dj
+tags: [dj, about]
 image: boneyard-imc-flyer10.png
 ---
 

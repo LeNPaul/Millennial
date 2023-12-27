@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Reach Out
+layout: post
+title: Connect with Chris
 permalink: /reachOut
 ---
 

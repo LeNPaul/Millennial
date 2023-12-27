@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bla(CK)mau Xperience"
+title: "The bla(CK)mau Xperience"
 author: "Christopher Kinson"
 image: our-work02.png
 ---

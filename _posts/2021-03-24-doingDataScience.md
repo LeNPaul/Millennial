@@ -2,8 +2,8 @@
 layout: post
 title: "Doing Data Science Locally"
 author: "Christopher Kinson"
-categories: DDSL
-tags: [DDSL]
+categories: ds
+tags: [teaching, about]
 image: plot-main02.png
 ---
 

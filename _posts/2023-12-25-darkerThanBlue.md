@@ -2,6 +2,8 @@
 layout: post
 title: "Darker Than Blue"
 author: "Christopher Kinson"
+categories: dj
+tags: [dj, about]
 image: darker-than-blue-flyer2024main01.png
 ---
 

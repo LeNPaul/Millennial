@@ -4,7 +4,7 @@ title: Teaching Associate Professor
 permalink: /teachingAssociateProfessor
 ---
 
-![](https://github.com/kinson2/kinson2.github.io/raw/gh-pages/assets/img/prof-art01.png)
+![](https://github.com/kinson2/kinson2.github.io/raw/gh-pages/assets/img/prof-art02.png)
 
 - [Service-Leadership and Me](#service-leadership) 
 - [Curriculum Vitae](#cv)

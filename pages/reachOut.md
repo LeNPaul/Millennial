@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Connect with Chris
 permalink: /reachOut
 ---

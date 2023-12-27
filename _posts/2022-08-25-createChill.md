@@ -2,6 +2,8 @@
 layout: post
 title: "Create+Chill Series"
 author: "Christopher Kinson"
+categories: dj
+tags: [dj, about]
 image: create-chill-series-flyer03.png
 ---
 

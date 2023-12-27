@@ -2,6 +2,8 @@
 layout: post
 title: "The bla(CK)mau Xperience"
 author: "Christopher Kinson"
+categories: dj
+tags: [dj, about]
 image: our-work02.png
 ---
 

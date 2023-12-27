@@ -2,6 +2,8 @@
 layout: post
 title: "Another gradeR Vignette"
 author: "Christopher Kinson"
+categories: teaching
+tags: [teaching, ds, about]
 image: another-gradeR-vignette-img.png
 ---
 

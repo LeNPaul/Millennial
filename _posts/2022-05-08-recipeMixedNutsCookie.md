@@ -2,6 +2,8 @@
 layout: post
 title: "Mixed Nut Gluten Free Cookies"
 author: "Christopher Kinson"
+categories: food
+tags: [food, about]
 image: recipe-mixed-nut-cookie-img.jpg
 ---
 

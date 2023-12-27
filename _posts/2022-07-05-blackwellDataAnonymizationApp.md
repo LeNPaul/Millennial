@@ -2,6 +2,8 @@
 layout: post
 title: "2022 Blackwell Summer Scholars: Data Anonymization Shiny App"
 author: "Christopher Kinson"
+categories: ds
+tags: [ds, teaching]
 image: University-Wordmark-Full-Color-CMYK.png
 ---
 

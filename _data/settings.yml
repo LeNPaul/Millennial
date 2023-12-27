@@ -13,7 +13,7 @@ menu:
 - {name: 'Teaching Associate Professor',      url: 'teachingAssociateProfessor'}
 - {name: 'DJ',              url: 'dj'}
 #- {name: 'Food Remixer',            url: 'foodRemixer'}
-- {name: 'Reach Out',            url: 'reachOut'}
+- {name: 'Connect with Chris',            url: 'reachOut'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

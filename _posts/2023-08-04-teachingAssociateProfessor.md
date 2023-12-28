@@ -3,7 +3,7 @@ layout: post
 title: "Teaching Associate Professor"
 author: "Christopher Kinson"
 categories: teaching
-tags: [about, ds]
+tags: [teaching, ds]
 image: prof-art02.png
 ---
 

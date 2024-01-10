@@ -4,7 +4,7 @@ title: "Darker Than Blue"
 author: "Christopher Kinson"
 categories: dj
 tags: [dj, about]
-image: darker-than-blue-flyer2024main01.png
+image: darker-than-blue-flyer2024-final.png
 ---
 
 I present **Darker Than Blue (DTB)** - a collective of DJs and artists. We love music in general and are excited to spin disco, house, and world beats on the third Saturday of each month of 2024. Specifically, we will DJ 8pm-1am at Gallery Art Bar in downtown Urbana on the following dates: Jan 20, 2024, Feb 17, 2024, Mar 16, 2024, Apr 20, 2024, and May 18, 2024. The flyer includes a QR code that points viewers to multiple resources to learn more about us.

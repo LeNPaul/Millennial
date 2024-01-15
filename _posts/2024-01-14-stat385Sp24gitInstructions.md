@@ -9,7 +9,7 @@ image: stat385-cover-art2.png
 
 # STAT 385 Instructions for Completing Assignments
 
-In this course, we will use Git from the command line. A command-line interface is an interface on your computer that gives you direct access to your system and its files with easy-to-use commands. Depending on your computer and its operating system (OS), you can access the command line interface using the Terminal, Git Bash, or RStudio (via RStudio's internal Terminal). The following are tasks needed to start and finish any assignment that is posted in the sp24_assignments_s1 repo. First, you join the course via the repo creator link https://edu.cs.illinois.edu/create-gh-repo/sp24_stat385. Second, you authenticate your individual student repo. Third, you clone your individual student repo. Fourth, you retrieve an assignment file from the assignments_s1 repo. Fifth, you edit assignment file until you are satisfied enough to want to submit the assignment. Then submit the assignment file.
+In this course, we will use Git from the command line. A command-line interface is an interface on your computer that gives you direct access to your system and its files with easy-to-use commands. Depending on your computer and its operating system (OS), you can access the command line interface using the Terminal, Git Bash, or RStudio (via RStudio's internal Terminal). The following are tasks needed to start and finish any assignment that is posted in the sp24_assignments_s1 repo. First, you join the course via the repo creator link [https://edu.cs.illinois.edu/create-gh-repo/sp24_stat385](https://edu.cs.illinois.edu/create-gh-repo/sp24_stat385). Second, you authenticate your individual student repo. Third, you clone your individual student repo. Fourth, you retrieve an assignment file from the assignments_s1 repo. Fifth, you edit assignment file until you are satisfied enough to want to submit the assignment. Then submit the assignment file.
 
 1. [Joining the course and creating your individual student repo](#joining)
 2. [Authenticating your individual student repo](#authenticating)
@@ -18,7 +18,7 @@ In this course, we will use Git from the command line. A command-line interface 
 5. [Submitting an assignment](#submitting)
 
 ## <a name="joining"></a>Joining the course and creating your individual student repo
-From the unofficial syllabus which is published at https://chriskinson.com/stat385Sp24, students enrolled in STAT 385 should officially join the course via the repo creator link https://edu.cs.illinois.edu/create-gh-repo/sp24_stat385. After clicking the link, there will be several prompts and pages to click through. Below are the details.
+From the unofficial syllabus which is published at https://chriskinson.com/stat385Sp24, students enrolled in STAT 385 should officially join the course via the repo creator link [https://edu.cs.illinois.edu/create-gh-repo/sp24_stat385](https://edu.cs.illinois.edu/create-gh-repo/sp24_stat385). After clicking the link, there will be several prompts and pages to click through. Below are the details.
 
 1. Click on the "Log in to GitHub.com" button to continue.
 2. After confirming that you have logged in, click on the "I've logged in!" button.
@@ -29,9 +29,9 @@ From the unofficial syllabus which is published at https://chriskinson.com/stat3
 7. Wait patiently as the system creates your repo. Do not click any buttons until you see a screen that says that your repo has been created with its own URL https://github.com/illinois-stat385/sp24_stat385_netID, where your netID replaces `netid`.
 
 ## <a name="authenticating"></a>Authenticating your individual student repo
-Now that you have successfully joined the course and created your individual student repo, we need to ensure you have consistent and permanent access to Git from your computer, which means we need to authenticate your account via personal access tokens (PATs). Click on the link https://github.com/settings/tokens. **Beware, you may have created PATs for a previous course. If so, then you shouldn't have to make any new PAT, but you will need to authorize the Single Sign-On for this course illinois-stat385. See step 9 in this section below.** If you don't have any PATs, then follow all the details in this section below. 
+Now that you have successfully joined the course and created your individual student repo, we need to ensure you have consistent and permanent access to Git from your computer, which means we need to authenticate your account via personal access tokens (PATs). Click on the link [https://github.com/settings/tokens](https://github.com/settings/tokens). **Beware, you may have created PATs for a previous course. If so, then you shouldn't have to make any new PAT, but you will need to authorize the Single Sign-On for this course illinois-stat385. See step 9 in this section below.** If you don't have any PATs, then follow all the details in this section below. 
 
-  1. Go to https://github.com/settings/tokens/new.
+  1. Go to [https://github.com/settings/tokens/new](https://github.com/settings/tokens/new).
   2. In the Note textbox, write "KCS".
   3. In the Expiration box, click on "No expiration".
   4. In the Select Scopes section, click on the check box for "repo (Full control of private repositories)".
@@ -69,7 +69,7 @@ Now that you have authorized your account for Git, you can clone your repo, whic
 ## <a name="retrieving"></a>Retrieving an assignment
 Now that you have cloned your individual student repo, you can retrieve an assignment which means connecting to the sp24_assignments_s1 repo as a remote and fetch and merge specific files and directories into your cloned repo. If you have never retrieved an assignment before, then follow all the details in this section below. **Connecting to a remote should only need to happen once per computer. If you ever delete your cloned repo (from [Cloning your individual student repo](#cloning) above), then you must reconnect to the sp24_assignments_s1 repo.**
 
-  1. Go to course website and click on the sp24_assignments_s1 repo. Alternatively, click on https://github.com/illinois-stat385/sp24_assignments_s1.
+  1. Go to course website and click on the sp24_assignments_s1 repo. Alternatively, click on [https://github.com/illinois-stat385/sp24_assignments_s1](https://github.com/illinois-stat385/sp24_assignments_s1).
   2. Click on the green Code button and copy the URL in that HTTPS textbox.
   3. Open your computer's command-line interface (either Terminal, Git Bash, or RStudio) and type the following commands, executing each line individually, where your netID replaces `netid`. **Depending on your current working directory, you may need to navigate to the Desktop differently or with additional or fewer `cd` commands.**
   ```
@@ -117,4 +117,4 @@ Now that you have retrieved an assignment, you can open it in RStudio (or your p
   git push origin main
   ```
   5. To know whether your submission was successful, go to your individual student repo in GitHub at https://github.com/illinois-stat385/sp24_stat385_netID, where your netID replaces `netid`. Look at the commit history. Look at the ASSIGNMENTDIRECTORY and the most recent file within. Open the file in your browser and check if your code was saved in the code chunks of that .Rmd file. If you see your code in the code chunks in that .Rmd file, then your submission is successful.
-  6. Double-check the official syllabus Autograder section https://github.com/illinois-stat385/course_content/blob/main/syllabus/stat385-sp24-syllabus.md#autograder and verify that you have avoided mistakes that the autograder will penalize.
+  6. Double-check the official syllabus Autograder section [https://github.com/illinois-stat385/course_content/blob/main/syllabus/stat385-sp24-syllabus.md#autograder](https://github.com/illinois-stat385/course_content/blob/main/syllabus/stat385-sp24-syllabus.md#autograder) and verify that you have avoided mistakes that the autograder will penalize.

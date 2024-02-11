@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+This wonderful event is constantly evolving following personal aim of organisers and inputs from participants and followers. Feel free to add any suggestion, share your ideas and contribute by emailing us at **peregrinaofficial@gmail.com**.
+
+Find out the best pictures of past edition on our Instagram [PeregrinaOfficial](https://www.instagram.com/peregrina.official/).

@@ -11,10 +11,10 @@
   text-decoration: underline;
 }
 .content-wrapper {
-  padding-top: $header-thickness+10px;
+  padding-top: $header-thickness;
   margin: auto;
   display: block;
-  width: $container-width - 20px;
+  width: $container-width;
 }
 .content-wrapper h1 {
   margin: 20px 0px 5px;
@@ -26,7 +26,44 @@
     margin-right: auto;
   }
   .content-wrapper {
-    padding-top: $header-thickness+10px;
+    padding-top: $container-width;
+    margin: auto;
+    display: block;
+    width: 95vw;
+  }
+}
+
+
+
+/*
+  Site container only for home page
+*/
+
+.container-home {
+  width: $container-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container a {
+  text-decoration: underline;
+}
+.content-wrapper {
+  padding-top: $header-thickness;
+  margin: auto;
+  display: block;
+  width: $container-width;
+}
+.content-wrapper h1 {
+  margin: 20px 0px 5px;
+}
+@media (max-width: $container-width) {
+  .container {
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .content-wrapper {
+    padding-top: $container-width;
     margin: auto;
     display: block;
     width: 95vw;

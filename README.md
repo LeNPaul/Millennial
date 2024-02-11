@@ -1,3 +1,25 @@
+## Descrizione
+
+Ciao ragazzi,
+
+Allora è stato un po' un casino ma alla fine ce l'ho fatta. Dunque. Jekyll è un programma che aiuta a costruire siti statici, vuole dire che sono pensati per non avere cambi continui (tipo i siti dei giornali). 
+
+In generale la creazione del sito si basa sue comandi Jekyll build e Jekyll serve. Jekyll ha una serie di cartelle con nomi default che usa per:
+- nomi e url a pagine del sito;
+- layout della pagina (impaginazione, cosa dove tipo figure ecc);
+- CSS della pagina: vuol dire lo stile. Tipo se inserisco una immagine nella pagina che si chiama index.html, nel file index.css posso scrivere che dimensioni deve avere quell'immagine dove deve stare ecc. 
+
+Ci sono molti themes, io ne ho scelto uno che penso sia utile per noi. Praticamente il thème ha già quasi tutto e bisogna solo cambiare i rispettivi nomi file (per nominare le pagine del sito) e i vari attributi estetici CSS e contenutistici.
+
+Se volete prendete un pochino di tempo per leggervi come funziona Jekyll e vedere se trovate un thème migliore andate qui:
+
+
+E qui un bel tutorial:
+
+
+Bella!!
+Tommy
+
 # Millennial
 
 Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
@@ -225,30 +247,6 @@ Millennial has been designed as a base for users to customize and fit to their o
 ## Questions?
 
 This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
-
-## Credits
-
-### Creator
-
-#### Paul Le
-
-* [www.lenpaul.com](http://lenpaul.com)
-
-* [Twitter](https://twitter.com/paululele)
-
-* [GitHub](https://github.com/LeNPaul)
-
-### Contributors
-
-* [b-morawiec](https://github.com/b-morawiec)
-
-* [JainVikas](https://github.com/JainVikas)
-
-* [mschaeffner](https://github.com/mschaeffner)
-
-* [cfe316](https://github.com/cfe316)
-
-* [JeremyGonzales](https://github.com/JeremyGonzales)
 
 ### Icons + Demo Images
 

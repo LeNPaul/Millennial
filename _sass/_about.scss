@@ -1,0 +1,32 @@
+.team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.team-member img {
+    width: 100px;
+    height: auto;
+    border-radius: 20%;
+    margin-right: 15px;
+}
+
+.team-member-description {
+    flex: 1;
+}
+
+.driver-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.driver-member img {
+    width: 120px;
+    height: 100px;
+    border-radius: 20%;
+    margin-right: 15px;
+}
+
+.driver-member-description {
+    flex: 1;
+}

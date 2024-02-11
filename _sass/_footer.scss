@@ -1,5 +1,5 @@
 .footer {
-  background: white;
+  background: $background-color;
   color: $brand-color;
   text-align: center;
   min-height: 56px;
@@ -7,7 +7,7 @@
   width: $container-width;
 }
 .footer a {
-  color: $brand-color;
+  color: $text-color;
   padding: 0px 10px 0px;
   text-decoration: none;
 }

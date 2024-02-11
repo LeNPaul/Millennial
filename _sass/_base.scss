@@ -7,6 +7,8 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+  background-color: $background-color;
+  color:$text-color;
 }
 
 /*
@@ -19,6 +21,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+  color:$text-color;
 }
 
 h1 {
@@ -40,12 +43,14 @@ h4, h5, h6 {
 /* Body */
 body {
   font-family: $base-font-family;
+  color:$text-color;
 }
+
 body img {
   align: middle;
   margin: 5px auto auto auto;
   display: block;
-  max-width: 600px;
+  max-width: 800px;
 }
 
 p {
@@ -107,6 +112,7 @@ blockquote {
 /**
  * Tables
  */
+
 table {
   border-collapse: collapse;
   margin-bottom: 30px;

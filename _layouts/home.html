@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Home
+image: Title_image_2.png
 ---
 
+{% include video_head.html %}
+{% include clock.html %}
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}

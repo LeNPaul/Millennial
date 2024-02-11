@@ -2,22 +2,25 @@
   min-height: 56px;
   width: $container-width;
   position: fixed;
-  background-color: white;
+  background-color: $background-color;
   box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
+  color:$text-color;
+  font-family: $base-font-family;
 }
 @media (max-width: $container-width) {
   .site-header {
     min-height: 56px;
     width: 95vw;
     position: fixed;
-    background-color: white;
-    box-shadow: 0 5px 6px -6px #bbb;
+    background-color: $background-color;
+    box-shadow: 0 5px 6px -6px #686767;
     z-index: 100;
   }
 }
 .site-header a {
   text-decoration: none;
+  color:$text-color;
 }
 .site-title {
   font-size: 26px;
@@ -28,6 +31,7 @@
   padding-left: 10px;
   float: left;
 }
+
 .menu-list {
   line-height: $header-thickness;
   float: right;

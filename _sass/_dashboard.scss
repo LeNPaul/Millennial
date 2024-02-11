@@ -3,14 +3,14 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
-    color: #F6F1EA;
+    color: $text-color;
     background-color: #001f3dff;
 }
 
 /* Style for the header */
 header {
     background-color: #001f3dff;
-    color: #F6F1EA;
+    color: $text-color;
     text-align: right;
     padding: 20px;
 }

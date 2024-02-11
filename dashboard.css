@@ -1,0 +1,167 @@
+/* Reset some default styles for the page */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #F6F1EA;
+    background-color: #001f3dff;
+}
+
+/* Style for the header */
+header {
+    background-color: #001f3dff;
+    color: #F6F1EA;
+    text-align: right;
+    padding: 20px;
+}
+
+
+/* Style for the navigation menu */
+nav {
+    display: inline-block;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.image-container {
+            position: relative;
+        }
+        
+.superimposed-image {
+    position: absolute; /* Absolute positioning for the superimposed image */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Center the image precisely */
+    z-index: 1; /* Place the superimposed image above the background */
+}
+
+
+.overlay-text {
+    position: absolute;
+    top: 99%; /* Adjust vertical position as needed */
+    left: 65%; /* Adjust horizontal position as needed */
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0); /* Semi-transparent background */
+    padding: 20px;
+}
+
+.overlay-text h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.overlay-text p {
+    font-size: 18px;
+}
+
+
+/* Style for the hero section */
+.hero {
+    text-align: center; /* Center align the content */
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Center the image horizontally */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+/* Style for the sections */
+.section {
+    text-align: center; /* Center align the content */
+    margin-top: 20px; /* Add some space between sections */
+    padding: 50px;
+}
+
+.section h2 {
+    font-size: 50px;
+}
+
+.section img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Center the image horizontally */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+/* Style for the content paragraphs */
+.section p {
+    font-size: 18px;
+}
+
+
+.countdown-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 50px;
+    padding: 50px;
+}
+
+.countdown-info {
+    text-align: left;
+}
+
+.countdown-info .date,
+.countdown-info .location {
+    margin: 0;
+    font-size: 18px;
+    color: #FF914D;
+}
+
+.countdown-info .location {
+    font-size: 24px; /* Increased font size for the location text */
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #333;
+    color: #FF914D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+.value {
+    font-size: 36px;
+}
+
+.label {
+    font-size: 16px;
+}
+
+.container {
+	position: relative;
+	text-align: center;
+}

@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'The Journey 2024', url: 'thejourney2024'}
 - {name: 'Subscription',  url: 'subscription'} # Added Tommy
 - {name: 'The team',  url: 'theteam'} # Added Tommy
-# - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'} # Keep to copy
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Scope',      url: 'scope'}
+# - {name: 'Posts',       url: 'sample-posts'} # Keep to copy
+# - {name: 'Interesting Facts',  url: 'facts'}
+# - {name: 'Scope',      url: 'scope'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
@@ -27,11 +27,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Last News'
+  previous_page: 'Past News'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Spread the idea!'
 
-related_posts: 'You may also enjoy...'
+related_posts: '5 minutes more? ...'
 
-post_date_prefix: 'Written on'
+post_date_prefix: ''
